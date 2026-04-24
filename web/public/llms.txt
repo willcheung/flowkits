@@ -1,45 +1,32 @@
-# n8ntocode
+# FlowKits
 
-> Convert n8n workflows to production-ready Python code
+> Battle-tested AI workflows in Python. Not n8n JSON you can't debug.
 
-n8ntocode is a web application that converts n8n workflow JSON into structured, runnable Python projects. It generates complete project packages including workflow code, configuration, documentation, and AI-agent context files.
+FlowKits is a marketplace for production-ready AI automation workflows. Each kit is a complete Python project with error handling, retry logic, AI reasoning, and monitoring hooks. Built from n8n's most popular templates, rebuilt in clean Python.
 
 ## What it does
 
-- Converts n8n workflow JSON to structured Python code using the n8ntocode SDK
-- Generates a complete project: workflow.py, config.py, README.md, AGENTS.md, requirements.txt
-- Visualizes workflows as interactive node graphs
-- Supports 19+ n8n node types: HTTP Request, Webhook, IF/Switch, Code, Google Sheets, Slack, Email, Airtable, PostgreSQL, MySQL, OpenAI, Anthropic, Gemini
-- Auto-converts simple JavaScript custom code nodes to Python
-- Generates AGENTS.md specifically for AI coding agents to understand and extend the code
+- Provides downloadable AI workflow kits as Python projects
+- Each kit includes: workflow.py, README.md, AGENTS.md, configuration
+- Workflows cover: email automation, sales prep, marketing campaigns, productivity
+- **AI agent operated**: your AI agent (Claude, Cursor, Copilot) reads AGENTS.md and runs, monitors, fixes, and extends the workflow autonomously
+- Free tier: open-source code, AI agent runs it
+- Paid tier: execution monitoring, failure alerts, AI-powered auto-healing
 
-## How to use
+## Available workflows
 
-1. Go to /convert
-2. Paste n8n workflow JSON or import from URL
-3. Click Convert
-4. Download the generated Python project as a ZIP
+- Gmail AI Email Labeler — AI categorizes and labels your inbox (Free)
+- AI Landing Page Analyzer — CRO audit for any URL (Free)
+- Pre-Meeting AI Briefing — Company news + talking points before meetings ($15)
+- Google Sheets Email Campaign — AI-personalized outbound from a spreadsheet ($19)
+- Human-in-the-Loop Email Responder — AI drafts, you approve before sending ($19)
 
 ## AI Agent Integration
 
-The generated AGENTS.md file provides:
-- Project structure explanation
-- SDK conventions (@step decorator, depends_on, config references)
-- How to add new steps
-- Which steps need human review
-- Full parameter documentation in config.py
-
-AI agents like Claude Code, Cursor, Windsurf, and GitHub Copilot can read AGENTS.md to understand the full codebase and make accurate modifications.
-
-## Pricing
-
-- 1 free conversion per user
-- $5 per additional conversion
-- No subscription required
+Every kit includes an AGENTS.md file for AI coding agents (Claude Code, Cursor, Copilot) to understand and extend the workflow.
 
 ## Pages
 
-- / — Landing page with features, pricing, and FAQ
-- /convert — Main conversion interface
-- /visualize — Interactive workflow visualization
-- /dashboard — User conversion history and billing
+- / — Landing page with workflow showcase and email capture
+- /api/subscribe — Email waitlist signup
+- /api/auth — GitHub OAuth authentication

@@ -76,11 +76,11 @@ AI-enhanced automation workflows. Not n8n JSON you can't debug. Real Python code
 
 - ✅ `workflow.py` — Production-ready Python code
 - ✅ `README.md` — Setup guide, usage examples, configuration
-- ✅ `AGENTS.md` — AI agent context (Claude, Cursor, Copilot can extend it)
+- ✅ `AGENTS.md` — Operating manual for your AI agent (Claude, Cursor, Copilot) to run, monitor, fix, and extend the workflow autonomously
 - ✅ Error handling with retry logic
 - ✅ Graceful degradation (fails safe, not loud)
 - ✅ Zero external dependencies beyond what's necessary
-- ✅ Works with cron, systemd, or any scheduler
+- ✅ Designed for AI-agent operation — your agent is the host, not a server
 
 ## License
 Each workflow is licensed for single-user use. Team and enterprise licenses available.

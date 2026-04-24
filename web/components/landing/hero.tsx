@@ -37,8 +37,8 @@ export function Hero() {
               : "translate-y-4 opacity-0"
           }`}
         >
-          <span className="h-1.5 w-1.5 rounded-full bg-red-400" />
-          Your automation broke again.
+          <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
+          Built from n8n&apos;s most popular templates
         </div>
 
         {/* Headline */}
@@ -49,7 +49,7 @@ export function Hero() {
               : "translate-y-4 opacity-0"
           }`}
         >
-          n8n workflows are where automation goes to die.
+          AI workflows you&apos;d build yourself&mdash;if you had the weekend.
         </h1>
 
         {/* Subheadline */}
@@ -60,9 +60,9 @@ export function Hero() {
               : "translate-y-4 opacity-0"
           }`}
         >
-          They break at 3am. No AI reasoning. No error handling. No way to
-          debug. FlowKits gives you battle-tested Python workflows with AI built
-          in. Code you can read, debug, and trust.
+          Production-ready Python automations built from n8n&apos;s most popular
+          templates. AI reasoning, error handling, and retry logic included.
+          Your AI agent runs them, monitors them, and fixes them.
         </p>
 
         {/* CTA */}
@@ -74,16 +74,16 @@ export function Hero() {
           }`}
         >
           <a
-            href="#subscribe"
+            href="#workflows"
             className="group inline-flex h-11 items-center gap-2 rounded-lg bg-zinc-100 px-6 text-[13px] font-semibold text-zinc-950 shadow-lg shadow-zinc-100/5 transition-all hover:bg-zinc-200 hover:shadow-zinc-100/10"
           >
-            Get early access
+            Browse workflows
           </a>
           <a
-            href="#why"
+            href="#subscribe"
             className="inline-flex h-11 items-center gap-2 rounded-lg border border-white/[0.08] bg-white/[0.02] px-6 text-[13px] font-medium text-zinc-300 transition-all hover:border-white/[0.15] hover:bg-white/[0.05]"
           >
-            Why FlowKits?
+            Get early access
           </a>
         </div>
       </div>
@@ -94,7 +94,7 @@ export function Hero() {
           visible ? "opacity-50" : "opacity-0"
         }`}
       >
-        <a href="#why" className="block text-zinc-600 hover:text-zinc-400 transition-colors">
+        <a href="#workflows" className="block text-zinc-600 hover:text-zinc-400 transition-colors">
           <ArrowDown className="h-5 w-5 animate-bounce" />
         </a>
       </div>

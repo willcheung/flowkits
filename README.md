@@ -37,6 +37,7 @@ web/                     # Next.js app (landing page + API)
 docs/                    # Business docs & workflow catalog
 ├── strategy.md          # CEO strategy (Apr 15, 2026)
 ├── execution-plan-weeks-1-3.md  # Week-by-week execution plan
+├── messaging-decisions.md  # Landing page messaging & positioning decisions
 ├── workflow-catalog.md  # Full catalog of all workflows
 ├── workflows/           # Workflow source code
 │   ├── gmail-ai-labeler/

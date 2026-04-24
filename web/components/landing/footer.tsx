@@ -7,9 +7,7 @@ export function Footer() {
         <div className="flex flex-col items-center justify-between gap-8 sm:flex-row">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <span className="flex h-6 w-6 items-center justify-center rounded bg-zinc-800 border border-white/[0.08] text-[9px] font-black text-zinc-400">
-              FK
-            </span>
+            <img src="/logo.svg" alt="FlowKits" className="h-6 w-6 rounded" />
             <span className="text-[14px] font-bold text-zinc-400">
               Flow<span className="font-mono text-zinc-600">Kits</span>
             </span>

@@ -29,9 +29,17 @@ NOT a marketplace yet. A storefront. Our own verified workflows first.
 - Free tier: basic converted workflows (lead gen, email, scheduling)
 - Premium tier: enhanced with AI reasoning, error handling, autonomous operation ($15-50)
 
+### How It Runs: AI Agent as Operator
+The key insight: **users don't run these workflows manually. Their AI agent does.**
+- Every kit includes AGENTS.md — the operating manual for Claude, Cursor, Copilot, etc.
+- The AI agent reads AGENTS.md, understands the workflow, and operates it autonomously
+- When something breaks, the AI agent diagnoses, fixes, and retries — no human intervention
+- This is why Python > n8n: AI agents can read, modify, and debug Python code. They can't do that with n8n's visual JSON.
+- The "hosting" is the AI agent itself — no n8n server, no Docker, no platform to maintain
+
 ### Revenue Model
 - **Open-source all kit code** (free download, read every line, run yourself) — code is marketing
-- **Paid monitoring tier** (execution dashboard, failure alerts, auto-updates) — this is the product
+- **Paid monitoring tier** (execution dashboard, failure alerts, auto-healing via AI agent) — this is the product
 - Marketplace fee (10-15% when we open to creators, matching ClawMart's 10%)
 - Subscription curation ($9-15/mo for premium access) — later
 - Observability/monitoring tier (execution dashboard, failure alerts) — at launch, drives subscription conversion

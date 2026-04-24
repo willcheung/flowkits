@@ -1,32 +1,20 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Shield, Code2, Brain, Bug } from "lucide-react";
+import { Code2, Bot } from "lucide-react";
 
 const features = [
   {
     icon: Code2,
-    title: "Real code, not JSON",
+    title: "Just Python. No platform to learn.",
     description:
-      "Every workflow is clean, typed Python. Read it, modify it, version control it. No more clicking through a visual editor to find the bug.",
+      "Every workflow is a single Python file. No visual editor, no self-hosted server, no new tool to learn. Download it, configure it, run it.",
   },
   {
-    icon: Brain,
-    title: "AI reasoning built in",
+    icon: Bot,
+    title: "Your AI agent keeps it running.",
     description:
-      "Each kit includes structured prompts, decision traces, and fallback logic. Your workflows actually think before they act.",
-  },
-  {
-    icon: Shield,
-    title: "Error handling that works",
-    description:
-      "Exponential backoff, circuit breakers, dead letter queues. The stuff n8n should have but doesn't. Because production doesn't forgive.",
-  },
-  {
-    icon: Bug,
-    title: "Debuggable by default",
-    description:
-      "Structured logging, health checks, and monitoring hooks. When something breaks at 3am, you'll know what happened and why.",
+      "Every kit includes AGENTS.md — the operating manual for Claude, Cursor, or Copilot. Your agent runs the workflow, monitors it, and fixes it when something breaks.",
   },
 ];
 
@@ -88,13 +76,14 @@ export function WhyFlowKits() {
             Why FlowKits?
           </h2>
           <p className="mx-auto mt-3 max-w-lg text-[14px] leading-relaxed text-zinc-500">
-            n8n workflows are great for prototyping. Terrible for production.
-            Here&apos;s what&apos;s different.
+            Every kit is battle-tested &mdash; built from n8n templates with
+            thousands of users, then rebuilt in Python with AI and proper
+            engineering.
           </p>
         </div>
 
         {/* Feature grid */}
-        <div className="grid gap-4 sm:grid-cols-2 lg:gap-6">
+        <div className="grid gap-4 sm:grid-cols-2 lg:gap-8">
           {features.map((feature, i) => (
             <FeatureCard key={feature.title} feature={feature} index={i} />
           ))}
@@ -105,24 +94,24 @@ export function WhyFlowKits() {
           <div className="grid gap-6 sm:grid-cols-2">
             <div>
               <h3 className="mb-3 text-[13px] font-semibold uppercase tracking-wider text-zinc-600">
-                n8n workflows
+                Building it yourself / low-code
               </h3>
               <ul className="space-y-2.5 text-[13px] text-zinc-500">
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-red-400/70">✕</span>
-                  Break silently at 3am
+                  A weekend of API wiring and prompt tuning
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-red-400/70">✕</span>
-                  No AI reasoning or fallback logic
+                  No error handling until it breaks in production
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-red-400/70">✕</span>
-                  JSON you can&apos;t version control
+                  Hard to version control or review
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-red-400/70">✕</span>
-                  Debugging is clicking through nodes
+                  Locked into a platform you have to self-host
                 </li>
               </ul>
             </div>
@@ -133,11 +122,11 @@ export function WhyFlowKits() {
               <ul className="space-y-2.5 text-[13px] text-zinc-400">
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-emerald-400">✓</span>
-                  Structured error handling with retries
+                  Download and run in minutes
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-emerald-400">✓</span>
-                  AI decision traces and fallback chains
+                  Retry logic and graceful degradation included
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-emerald-400">✓</span>
@@ -145,7 +134,7 @@ export function WhyFlowKits() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="mt-0.5 text-emerald-400">✓</span>
-                  Logs, health checks, and monitoring hooks
+                  AI agents run, monitor, and fix them autonomously
                 </li>
               </ul>
             </div>

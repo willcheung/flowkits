@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s | FlowKits",
   },
   description:
-    "Stop debugging broken n8n workflows at 3am. FlowKits gives you battle-tested Python workflows with AI reasoning built in. Code you can read, debug, and trust.",
+    "Production-ready AI workflows in Python, operated by your AI agent. Built from n8n's most popular templates with AI reasoning, error handling, and retry logic.",
   keywords: [
     "ai workflows",
     "ai agents",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "FlowKits — Battle-Tested AI Workflows in Python",
     description:
-      "Stop debugging broken n8n workflows. Get battle-tested Python workflows with AI reasoning built in.",
+      "AI workflows in Python, operated by your AI agent. Built from n8n's top templates with reasoning, error handling, and auto-healing.",
     type: "website",
     siteName: "FlowKits",
   },
@@ -43,11 +43,18 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "FlowKits — Battle-Tested AI Workflows in Python",
     description:
-      "Battle-tested Python workflows with AI reasoning built in. Code you can read, debug, and trust.",
+      "AI workflows in Python, operated by your AI agent. Built from n8n's top templates with reasoning, error handling, and auto-healing.",
   },
   robots: {
     index: true,
     follow: true,
+  },
+  icons: {
+    icon: [
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
   },
   metadataBase: new URL("https://flowkits.ai"),
   alternates: {

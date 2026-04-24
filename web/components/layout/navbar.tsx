@@ -15,6 +15,7 @@ export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const landingLinks = [
+    { href: isLanding ? "#workflows" : "/#workflows", label: "Workflows" },
     { href: isLanding ? "#why" : "/#why", label: "Why FlowKits" },
     { href: isLanding ? "#subscribe" : "/#subscribe", label: "Get Early Access" },
   ];
@@ -26,9 +27,7 @@ export function Navbar() {
           href="/"
           className="flex items-center gap-2 text-[15px] font-bold tracking-tight text-zinc-100"
         >
-          <span className="flex h-7 w-7 items-center justify-center rounded-md bg-zinc-800 border border-white/[0.08] text-[11px] font-black text-zinc-300">
-            FK
-          </span>
+          <img src="/logo.svg" alt="FlowKits" className="h-7 w-7 rounded-md" />
           <span>
             Flow<span className="font-mono text-zinc-400">Kits</span>
           </span>
