@@ -1,0 +1,116 @@
+{
+  "category_taxonomy": {
+    "ai": {
+      "name": "AI",
+      "subcategories": {
+        "ai-chatbot": "AI Chatbot",
+        "ai-rag": "AI RAG",
+        "ai-summarization": "AI Summarization",
+        "multimodal-ai": "Multimodal AI"
+      }
+    },
+    "sales": {
+      "name": "Sales",
+      "subcategories": {
+        "crm": "CRM",
+        "lead-generation": "Lead Generation",
+        "lead-nurturing": "Lead Nurturing"
+      }
+    },
+    "it-ops": {
+      "name": "IT Ops",
+      "subcategories": {
+        "secops": "SecOps",
+        "engineering": "Engineering",
+        "devops": "DevOps"
+      }
+    },
+    "marketing": {
+      "name": "Marketing",
+      "subcategories": {
+        "content-creation": "Content Creation",
+        "market-research": "Market Research",
+        "social-media": "Social Media"
+      }
+    },
+    "document-ops": {
+      "name": "Document Ops",
+      "subcategories": {
+        "document-extraction": "Document Extraction",
+        "file-management": "File Management",
+        "invoice-processing": "Invoice Processing"
+      }
+    },
+    "other": {
+      "name": "Other",
+      "subcategories": {
+        "crypto-trading": "Crypto Trading",
+        "hr": "HR",
+        "miscellaneous": "Miscellaneous",
+        "personal-productivity": "Personal Productivity",
+        "project-management": "Project Management"
+      }
+    },
+    "support": {
+      "name": "Support",
+      "subcategories": {
+        "internal-wiki": "Internal Wiki",
+        "support-chatbot": "Support Chatbot",
+        "ticket-management": "Ticket Management"
+      }
+    }
+  },
+  "scrape_status": {
+    "marketing": {
+      "status": "done",
+      "date": "2026-04-17",
+      "workflow_count": 871,
+      "queries_run": 177
+    },
+    "ai": {
+      "status": "done",
+      "date": "2026-04-18",
+      "workflow_count": 2488,
+      "queries_run": 606
+    },
+    "sales": {
+      "status": "done",
+      "date": "2026-04-19",
+      "workflow_count": 781,
+      "queries_run": 282
+    },
+    "it-ops": {
+      "status": "done",
+      "date": "2026-04-20",
+      "workflow_count": 784,
+      "queries_run": 501
+    },
+    "document-ops": {
+      "status": "done",
+      "date": "2026-04-21",
+      "workflow_count": 889,
+      "queries_run": 519
+    },
+    "other": {
+      "status": "done",
+      "date": "2026-04-23",
+      "workflow_count": 1219,
+      "queries_run": 608
+    },
+    "support": {
+      "status": "done",
+      "date": "2026-04-22",
+      "workflow_count": 675,
+      "queries_run": 647
+    }
+  },
+  "scrape_order": [
+    "marketing",
+    "ai",
+    "sales",
+    "it-ops",
+    "document-ops",
+    "support",
+    "other"
+  ]
+}

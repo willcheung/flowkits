@@ -29,13 +29,22 @@ See Vercel project for production values. Local development needs:
 ## Project Structure
 
 ```
-web/
-├── app/          # Next.js App Router
-│   ├── api/      # API routes (auth, subscribe)
-│   └── page.tsx  # Landing page
-├── components/   # React components (shadcn + landing)
-├── lib/          # DB, auth, utils
+web/                     # Next.js app (landing page + API)
+├── app/                 # App Router (page.tsx, api/)
+├── components/          # React components (shadcn + landing)
+├── lib/                 # DB, auth, utils
 └── drizzle.config.ts
+docs/                    # Business docs & workflow catalog
+├── strategy.md          # CEO strategy (Apr 15, 2026)
+├── execution-plan-weeks-1-3.md  # Week-by-week execution plan
+├── workflow-catalog.md  # Full catalog of all workflows
+├── workflows/           # Workflow source code
+│   ├── gmail-ai-labeler/
+│   ├── landing-page-analyzer/
+│   ├── human-in-loop-email/
+│   ├── pre-meeting-briefing/
+│   └── sheets-email-campaign/
+└── n8n-research/        # Competitive research on n8n templates
 ```
 
 ## Deployment

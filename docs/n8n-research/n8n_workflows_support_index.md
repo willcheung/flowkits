@@ -1,0 +1,967 @@
+# n8n Support Workflows Index
+
+Scraped: 2026-04-22 | Total: 675 workflows | Queries: 647
+
+## Summary
+
+| Subcategory | Workflows | Avg Views |
+|---|---|---|
+| Support Chatbot | 311 | 5,851 |
+| Ticket Management | 230 | 1,845 |
+| Internal Wiki | 93 | 3,868 |
+| Other | 41 | 9,977 |
+
+## Support Chatbot (311 workflows)
+
+- [Build Your First AI Data Analyst Chatbot](https://n8n.io/workflows/3050-build-your-first-ai-data-analyst-chatbot) — @solomon ✓ — 133,537 views — 7 nodes (HTTP Request, Code, AI Agent)
+- [RAG Chatbot for Company Documents using Google Drive and Gemini](https://n8n.io/workflows/2753-rag-chatbot-for-company-documents-using-google-drive-and-gem) — @mihailtd ✓ — 94,941 views — 9 nodes (Google Drive, AI Agent, Simple Memory)
+- [Respond to WhatsApp Messages with AI Like a Pro!](https://n8n.io/workflows/2466-respond-to-whatsapp-messages-with-ai-like-a-pro) — @jimleuk ✓ — 91,062 views — 7 nodes (HTTP Request, WhatsApp Business Cloud, AI Agent)
+- [Create a Branded AI-Powered Website Chatbot](https://n8n.io/workflows/2786-create-a-branded-ai-powered-website-chatbot) — @nocodecreative ✓ — 88,237 views — 8 nodes (HTTP Request, Microsoft Outlook, Code)
+- [Conversational Telegram Bot with GPT-5/GPT-4o for Text and Voice Messages](https://n8n.io/workflows/4696-conversational-telegram-bot-with-gpt-5-gpt-4o-for-text-and-v) — @roninimous ✓ — 82,466 views — 5 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [Chat with Postgresql Database](https://n8n.io/workflows/2859-chat-with-postgresql-database) — @kumohq — 73,534 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [AI-Powered WhatsApp Chatbot 🤖📲 for Text, Voice, Images & PDFs with memory 🧠](https://n8n.io/workflows/3586-ai-powered-whatsapp-chatbot-for-text-voice-images-and-pdfs) — @n3witalia ✓ — 71,396 views — 7 nodes (HTTP Request, WhatsApp Business Cloud, Code)
+- [AI Agent To Chat With Files In Supabase Storage](https://n8n.io/workflows/2621-ai-agent-to-chat-with-files-in-supabase-storage) — @lowcodingdev ✓ — 68,149 views — 9 nodes (HTTP Request, Supabase, AI Agent)
+- [🤖 AI Powered RAG Chatbot for Your Docs + Google Drive + Gemini + Qdrant](https://n8n.io/workflows/2982-ai-powered-rag-chatbot-for-your-docs-google-drive-gemini) — @joe ✓ — 65,428 views — 13 nodes (Telegram, Google Drive, Google Docs)
+- [AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants](https://n8n.io/workflows/2846-ai-voice-chatbot-with-elevenlabs-and-openai-for-customer-ser) — @n3witalia ✓ — 62,222 views — 10 nodes (HTTP Request, Google Drive, AI Agent)
+- [🚀 Boost your customer service with this WhatsApp Business bot!](https://n8n.io/workflows/2340-boost-your-customer-service-with-this-whatsapp-business-bot) — @eduard ✓ — 47,602 views — 2 nodes (Google Sheets, WhatsApp Business Cloud)
+- [AI-Powered WhatsApp Chatbot for Text, Voice, Images, and PDF with RAG](https://n8n.io/workflows/4827-ai-powered-whatsapp-chatbot-for-text-voice-images-and-pdf-wi) — @thomasgpt ✓ — 46,989 views — 12 nodes (HTTP Request, Google Docs, WhatsApp Business Cloud)
+- [Notion knowledge base AI assistant](https://n8n.io/workflows/2413-notion-knowledge-base-ai-assistant) — @max-n8n ✓ — 40,155 views — 5 nodes (Notion, AI Agent, OpenAI Chat Model)
+- [Telegram AI bot assistant: ready-made template for voice & text messages](https://n8n.io/workflows/2534-telegram-ai-bot-assistant-ready-made-template-for-voice-and) — @yulia ✓ — 37,867 views — 5 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [HR & IT Helpdesk Chatbot with Audio Transcription](https://n8n.io/workflows/2752-hr-and-it-helpdesk-chatbot-with-audio-transcription) — @occult — 35,685 views — 11 nodes (HTTP Request, Telegram, AI Agent)
+- [Slack chatbot powered by AI](https://n8n.io/workflows/1961-slack-chatbot-powered-by-ai) — @n8n-team ✓ — 35,192 views — 6 nodes (Slack, AI Agent, OpenAI Chat Model)
+- [Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI](https://n8n.io/workflows/2845-complete-business-whatsapp-ai-powered-rag-chatbot-using-open) — @n3witalia ✓ — 35,110 views — 11 nodes (HTTP Request, Google Drive, WhatsApp Business Cloud)
+- [AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs](https://n8n.io/workflows/2405-ai-voice-chat-using-webhook-memory-manager-openai-google-gem) — @ayoub-n8n — 34,325 views — 6 nodes (HTTP Request, Basic LLM Chain, Simple Memory)
+- [Build a Voice AI Chatbot with ElevenLabs and InfraNodus Knowledge Experts](https://n8n.io/workflows/4484-build-a-voice-ai-chatbot-with-elevenlabs-and-infranodus-know) — @infranodus ✓ — 31,420 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [🧠 Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-t) — @joe ✓ — 29,250 views — 8 nodes (Telegram, Gmail, Google Docs)
+- [Local Chatbot with Retrieval Augmented Generation (RAG)](https://n8n.io/workflows/5148-local-chatbot-with-retrieval-augmented-generation-rag) — @thomasjanssen-tech ✓ — 28,717 views — 7 nodes (AI Agent, Ollama Chat Model, Simple Memory)
+- [IT Ops AI SlackBot Workflow - Chat with your knowledge base](https://n8n.io/workflows/2397-it-ops-ai-slackbot-workflow-chat-with-your-knowledge-base) — @djangelic ✓ — 27,843 views — 5 nodes (Slack, AI Agent, OpenAI Chat Model)
+- [Telegram bot starter template setup & AI Agent Chatbot](https://n8n.io/workflows/2402-telegram-bot-starter-template-setup-and-ai-agent-chatbot) — @victorlucky ✓ — 27,299 views — 6 nodes (Google Sheets, Telegram, AI Agent)
+- [💥🛠️Build a Web Search Chatbot with GPT-4o and MCP Brave Search](https://n8n.io/workflows/3189-build-a-web-search-chatbot-with-gpt-4o-and-mcp-brave-search) — @joe ✓ — 22,688 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Talk to your SQLite database with a LangChain AI Agent 🧠💬  ](https://n8n.io/workflows/2292-talk-to-your-sqlite-database-with-a-langchain-ai-agent) — @yulia ✓ — 22,470 views — 5 nodes (HTTP Request, Compression, AI Agent)
+- [Build a Chatbot, Voice and Phone Agent with Voiceflow, Google Calendar and RAG](https://n8n.io/workflows/3657-build-a-chatbot-voice-and-phone-agent-with-voiceflow-google) — @n3witalia ✓ — 21,802 views — 12 nodes (HTTP Request, Google Drive, Google Calendar)
+- [OpenAI Assistant workflow: upload file, create an Assistant, chat with it!](https://n8n.io/workflows/2201-openai-assistant-workflow-upload-file-create-an-assistant-ch) — @yulia ✓ — 19,916 views — 2 nodes (Google Drive, OpenAI)
+- [Telegram Bot with Menu-Driven Commands](https://n8n.io/workflows/3055-telegram-bot-with-menu-driven-commands) — @ldaniel-jmz — 18,186 views — 2 nodes (Telegram, Code)
+- [Customer Support WhatsApp Bot with Google Docs Knowledge Base and Gemini AI](https://n8n.io/workflows/4966-customer-support-whatsapp-bot-with-google-docs-knowledge-bas) — @tharwatelsayed ✓ — 15,425 views — 7 nodes (Google Sheets, Google Docs, WhatsApp Business Cloud)
+- [Build an OpenAI Assistant with Google Drive Integration](https://n8n.io/workflows/2782-build-an-openai-assistant-with-google-drive-integration) — @n3witalia ✓ — 14,700 views — 3 nodes (Google Drive, Simple Memory, OpenAI)
+- [Chatbot Appointment Scheduler With Google Calendar for Dental assistant](https://n8n.io/workflows/3131-chatbot-appointment-scheduler-with-google-calendar-for-denta) — @nocodeinnovate — 14,481 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [AI Agent to chat with Airtable and analyze data](https://n8n.io/workflows/2700-ai-agent-to-chat-with-airtable-and-analyze-data) — @lowcodingdev ✓ — 13,388 views — 7 nodes (Airtable, HTTP Request, AI Agent)
+- [ Build an AI-Powered Tech Radar Advisor with SQL DB, RAG, and Routing Agents](https://n8n.io/workflows/3151-build-an-ai-powered-tech-radar-advisor-with-sql-db-rag-and) — @seanlon ✓ — 12,453 views — 16 nodes (Google Sheets, Google Drive, MySQL)
+- [MCP Supabase Server for AI Agent with RAG & Multi-Tenant CRUD](https://n8n.io/workflows/3675-mcp-supabase-server-for-ai-agent-with-rag-and-multi-tenant-c) — @koresoluciones ✓ — 11,593 views — 2 nodes (Embeddings OpenAI, Supabase Vector Store)
+- [Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI ](https://n8n.io/workflows/2784-personal-shopper-chatbot-for-woocommerce-with-rag-using-goog) — @n3witalia ✓ — 11,576 views — 12 nodes (HTTP Request, Google Drive, AI Agent)
+- [🤖💬 Conversational AI Chatbot with Google Gemini for Text & Image | Telegram](https://n8n.io/workflows/4365-conversational-ai-chatbot-with-google-gemini-for-text-and-i) — @thecrawlerzero — 11,411 views — 9 nodes (HTTP Request, Telegram, Code)
+- [🌐 Confluence Page AI Chatbot Workflow](https://n8n.io/workflows/3012-confluence-page-ai-chatbot-workflow) — @joe ✓ — 11,370 views — 5 nodes (HTTP Request, Telegram, AI Agent)
+- [AI-Powered Restaurant Order Chatbot with GPT-4o for POS Integration](https://n8n.io/workflows/3942-ai-powered-restaurant-order-chatbot-with-gpt-4o-for-pos-inte) — @shivam840708 ✓ — 11,094 views — 7 nodes (Google Sheets, Code, AI Agent)
+- [✨📊Multi-AI Agent Chatbot for Postgres/Supabase DB and QuickCharts + Tool Router](https://n8n.io/workflows/3090-multi-ai-agent-chatbot-for-postgres-supabase-db-and-quickcha) — @joe ✓ — 11,051 views — 6 nodes (HTTP Request, AI Agent, OpenAI Chat Model)
+- [WordPress -  AI Chatbot to enhance user experience - with Supabase and OpenAI](https://n8n.io/workflows/2504-wordpress-ai-chatbot-to-enhance-user-experience-with-su) — @dataki ✓ — 10,875 views — 11 nodes (HTTP Request, Postgres, Wordpress)
+- [IT Support Chatbot with Google Drive, Pinecone & Gemini | AI Doc Processing](https://n8n.io/workflows/3192-it-support-chatbot-with-google-drive-pinecone-and-gemini-ai) — @ai-incarnation — 10,822 views — 8 nodes (Google Drive, Code, AI Agent)
+- [AI-Powered RAG Document Processing & Chatbot with Google Drive, Supabase, OpenAI](https://n8n.io/workflows/4551-ai-powered-rag-document-processing-and-chatbot-with-google-d) — @billy ✓ — 10,732 views — 12 nodes (Google Drive, Code, AI Agent)
+- [Create a Session-Based Telegram Chatbot with GPT-4o-mini and Google Sheets](https://n8n.io/workflows/3798-create-a-session-based-telegram-chatbot-with-gpt-4o-mini-and) — @n3witalia ✓ — 10,464 views — 8 nodes (Google Sheets, Telegram, Code)
+- [Create a Multi-Modal Telegram Support Bot with GPT-4 and Supabase RAG](https://n8n.io/workflows/5589-create-a-multi-modal-telegram-support-bot-with-gpt-4-and-sup) — @kingsley ✓ — 10,022 views — 13 nodes (HTTP Request, Telegram, Google Drive)
+- [Enhance Customer Chat by Buffering Messages with Twilio and Redis](https://n8n.io/workflows/2346-enhance-customer-chat-by-buffering-messages-with-twilio-and) — @jimleuk ✓ — 9,239 views — 6 nodes (Redis, Twilio, AI Agent)
+- [Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI](https://n8n.io/workflows/2341-build-a-tax-code-assistant-with-qdrant-mistralai-and-openai) — @jimleuk ✓ — 9,214 views — 10 nodes (HTTP Request, Compression, AI Agent)
+- [Telegram Bot with Supabase memory and OpenAI assistant integration](https://n8n.io/workflows/2453-telegram-bot-with-supabase-memory-and-openai-assistant-integ) — @lowcodingdev ✓ — 9,069 views — 3 nodes (HTTP Request, Telegram, Supabase)
+- [Auto-Respond to Gmail Enquiries using GPT-4o, Dumpling AI & LangChain Agent](https://n8n.io/workflows/4057-auto-respond-to-gmail-enquiries-using-gpt-4o-dumpling-ai-and) — @yang ✓ — 8,964 views — 5 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Creating a AI Slack Bot with Google Gemini](https://n8n.io/workflows/2370-creating-a-ai-slack-bot-with-google-gemini) — @imperolq ✓ — 8,663 views — 4 nodes (Slack, AI Agent, Simple Memory)
+- [Line Message API : Push Message & Reply](https://n8n.io/workflows/2733-line-message-api-push-message-and-reply) — @darrelltw ✓ — 8,382 views — 1 nodes (HTTP Request)
+- [Smart Sales Support Chatbot with GPT-4o and Google Sheets](https://n8n.io/workflows/3433-smart-sales-support-chatbot-with-gpt-4o-and-google-sheets) — @bbz ✓ — 7,648 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Slack AI Chatbot for business team with RAG, Claude 3.7 Sonnet and Google Drive](https://n8n.io/workflows/3414-slack-ai-chatbot-for-business-team-with-rag-claude-37-sonnet) — @n3witalia ✓ — 7,366 views — 11 nodes (HTTP Request, Slack, Google Drive)
+- [Automated Customer Service Ticket Creation & Notifications with Asana & WhatsApp](https://n8n.io/workflows/2237-automated-customer-service-ticket-creation-and-notifications) — @bwiertz ✓ — 7,097 views — 2 nodes (Asana, WhatsApp Business Cloud)
+- [🤖 AI Restaurant Assistant for WhatsApp, Instagram & Messenger](https://n8n.io/workflows/3585-ai-restaurant-assistant-for-whatsapp-instagram-and-messenge) — @amanda ✓ — 6,624 views — 17 nodes (HTTP Request, Google Drive, Supabase)
+- [AI-Powered Chatbot Workflow with MySQL Database Integration](https://n8n.io/workflows/2985-ai-powered-chatbot-workflow-with-mysql-database-integration) — @gegenfeld ✓ — 6,156 views — 3 nodes (AI Agent, Simple Memory, Groq Chat Model)
+- [AI Agent To Chat With Files In Supabase Storage and Google Drive](https://n8n.io/workflows/4086-ai-agent-to-chat-with-files-in-supabase-storage-and-google-d) — @lowcodingdev ✓ — 5,693 views — 10 nodes (HTTP Request, Google Drive, Supabase)
+- [Create a Pizza Ordering Chatbot with GPT-3.5 - Menu, Orders & Status Tracking](https://n8n.io/workflows/3049-create-a-pizza-ordering-chatbot-with-gpt-35-menu-orders-an) — @handoko72 — 5,534 views — 5 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities](https://n8n.io/workflows/2637-chat-assistant-openai-assistant-with-postgres-memory-and-api) — @ferzinia — 5,485 views — 3 nodes (OpenAI, Postgres Chat Memory, HTTP Request Tool)
+- [Build Your Own Counseling Chatbot on LINE to Support Mental Health Conversations](https://n8n.io/workflows/2975-build-your-own-counseling-chatbot-on-line-to-support-mental) — @linlinmhee ✓ — 5,048 views — 3 nodes (HTTP Request, AI Agent, Azure OpenAI Chat Model)
+- [Build an IT Support Assistant Chatbot Leveraging Existing Support Portal](https://n8n.io/workflows/3498-build-an-it-support-assistant-chatbot-leveraging-existing-su) — @jimleuk ✓ — 4,785 views — 5 nodes (HTTP Request, AI Agent, OpenAI Chat Model)
+- [Automate Salon Appointment Management with WhatsApp, GPT & Google Calendar](https://n8n.io/workflows/4926-automate-salon-appointment-management-with-whatsapp-gpt-and) — @denisholc7 ✓ — 4,768 views — 13 nodes (HTTP Request, Redis, Google Calendar)
+- [🐶 AI Agent for PetShop Appointments (Agente de IA para agendamentos de PetShop)](https://n8n.io/workflows/2999-ai-agent-for-petshop-appointments-agente-de-ia-para-agendam) — @brunodias ✓ — 4,761 views — 22 nodes (Google Sheets, HTTP Request, Postgres)
+- [Interactive Knowledge Base Chat with Supabase RAG using AI 📚💬](https://n8n.io/workflows/3799-interactive-knowledge-base-chat-with-supabase-rag-using-ai) — @spectrabit ✓ — 4,362 views — 11 nodes (Postgres, Google Drive, Gmail)
+- [Airbnb Telegram Agent - AI-powered accommodation search with voice support](https://n8n.io/workflows/4494-airbnb-telegram-agent-ai-powered-accommodation-search-with) — @freddy-schuetz ✓ — 4,334 views — 6 nodes (Telegram, AI Agent, Basic LLM Chain)
+- [🤖 AI-Powered WhatsApp Assistant for Restaurants & Delivery Automation](https://n8n.io/workflows/3043-ai-powered-whatsapp-assistant-for-restaurants-and-delivery) — @brunodias ✓ — 4,131 views — 21 nodes (HTTP Request, Postgres, Redis)
+- [Chat with your event schedule from Google Sheets in Telegram](https://n8n.io/workflows/2937-chat-with-your-event-schedule-from-google-sheets-in-telegram) — @dnolde ✓ — 4,120 views — 5 nodes (Google Sheets, Telegram, Code)
+- [Dynamically switch between LLMs for AI Agents using LangChain Code](https://n8n.io/workflows/3820-dynamically-switch-between-llms-for-ai-agents-using-langchai) — @octionic ✓ — 3,805 views — 4 nodes (Basic LLM Chain, LangChain Code, OpenAI Chat Model)
+- [Slack slash commands AI Chat Bot](https://n8n.io/workflows/2905-slack-slash-commands-ai-chat-bot) — @infograb — 3,246 views — 3 nodes (Slack, Basic LLM Chain, OpenAI Chat Model)
+- [Adaptive RAG with Google Gemini & Qdrant: Context-Aware Query Answering](https://n8n.io/workflows/4043-adaptive-rag-with-google-gemini-and-qdrant-context-aware-que) — @nisacayir — 3,237 views — 5 nodes (AI Agent, Simple Memory, Qdrant Vector Store)
+- [BambooHR AI-Powered Company Policies and Benefits Chatbot](https://n8n.io/workflows/2850-bamboohr-ai-powered-company-policies-and-benefits-chatbot) — @ludwig ✓ — 3,025 views — 15 nodes (BambooHR, AI Agent, Basic LLM Chain)
+- [Bitrix24 Chatbot Application Workflow example with Webhook Integration](https://n8n.io/workflows/2923-bitrix24-chatbot-application-workflow-example-with-webhook-i) — @fefehun ✓ — 2,871 views — 1 nodes (HTTP Request)
+- [Medical Q&A Chatbot for Urology using RAG with Pinecone and GPT-4o](https://n8n.io/workflows/3670-medical-qanda-chatbot-for-urology-using-rag-with-pinecone-an) — @hoangsp ✓ — 2,637 views — 6 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [🐶 AI Petshop Assistant with GPT-4o, Google Calendar & WhatsApp/Instagram/FB](https://n8n.io/workflows/3683-ai-petshop-assistant-with-gpt-4o-google-calendar-and-whatsa) — @amanda ✓ — 2,428 views — 17 nodes (HTTP Request, Google Drive, Supabase)
+- [LINE Assistant with Google Calendar and Gmail Integration](https://n8n.io/workflows/2671-line-assistant-with-google-calendar-and-gmail-integration) — @boriwatopal ✓ — 2,363 views — 6 nodes (HTTP Request, AI Agent, OpenAI Chat Model)
+- [Build a Document QA System with RAG using Milvus, Cohere, and OpenAI for Google Drive](https://n8n.io/workflows/3848-build-a-document-qa-system-with-rag-using-milvus-cohere-and) — @aitoralonso ✓ — 2,282 views — 8 nodes (Google Drive, AI Agent, Embeddings Cohere)
+- [Smart message batching AI-powered Facebook Messenger chatbot use Data Table](https://n8n.io/workflows/9192-smart-message-batching-ai-powered-facebook-messenger-chatbot) — @nguyenthieutoan ✓ — 2,189 views — 4 nodes (HTTP Request, Code, AI Agent)
+- [Claude 3.7 Sonnet AI Chatbot Agent with Anthropic Web Search and Think Functions](https://n8n.io/workflows/4036-claude-37-sonnet-ai-chatbot-agent-with-anthropic-web-search) — @n3witalia ✓ — 2,089 views — 4 nodes (AI Agent, Anthropic Chat Model, Simple Memory)
+- [Basic RAG chat](https://n8n.io/workflows/5028-basic-rag-chat) — @justin — 2,085 views — 7 nodes (Question and Answer Chain, Embeddings Cohere, Vector Store Retriever)
+- [Build and Update RAG System with Google Drive, Qdrant, and Gemini Chat](https://n8n.io/workflows/5140-build-and-update-rag-system-with-google-drive-qdrant-and-gem) — @n3witalia ✓ — 1,967 views — 9 nodes (HTTP Request, Google Drive, Question and Answer Chain)
+- [Create AI-Powered Website Chatbot with Langflow Backend and Custom Branding](https://n8n.io/workflows/4645-create-ai-powered-website-chatbot-with-langflow-backend-and) — @n3witalia ✓ — 1,926 views — 1 nodes (HTTP Request)
+- [AI-powered Student Assistant for Course Information via Twilio SMS](https://n8n.io/workflows/3499-ai-powered-student-assistant-for-course-information-via-twil) — @jimleuk ✓ — 1,896 views — 5 nodes (Airtable, Twilio, AI Agent)
+- [🤖 AI Customer Support Agent - Never Sleep, Never Miss a Customer Again!](https://n8n.io/workflows/5310-ai-customer-support-agent-never-sleep-never-miss-a-custom) — @amanda ✓ — 1,890 views — 4 nodes (Send Email, HTTP Request, Notion)
+- [Forward Filtered Gmail Notifications to Telegram Chat](https://n8n.io/workflows/3301-forward-filtered-gmail-notifications-to-telegram-chat) — @weblineindia ✓ — 1,875 views — 1 nodes (Telegram)
+- [Transcribe Voice Messages from Telegram using OpenAI Whisper-1](https://n8n.io/workflows/4528-transcribe-voice-messages-from-telegram-using-openai-whisper) — @aitoralonso ✓ — 1,714 views — 2 nodes (Telegram, OpenAI)
+- [Create an Automated Customer Support Assistant with GPT-4o and GoHighLevel SMS](https://n8n.io/workflows/4223-create-an-automated-customer-support-assistant-with-gpt-4o-a) — @cngaspar ✓ — 1,649 views — 10 nodes (HTTP Request, HighLevel, HTML)
+- [🧑‍⚖️ AI Legal Assistant Agent — AI-Powered Legal Q&A with Document Retrieval](https://n8n.io/workflows/5294-ai-legal-assistant-agent-ai-powered-legal-qanda-with-docum) — @marconi ✓ — 1,582 views — 6 nodes (Telegram, AI Agent, Embeddings OpenAI)
+- [Telegram User Registration Workflow](https://n8n.io/workflows/2406-telegram-user-registration-workflow) — @victorlucky ✓ — 1,569 views — 2 nodes (Google Sheets, Telegram)
+- [LinkedIn Auto Message Router and Responder with Request Detection](https://n8n.io/workflows/4889-linkedin-auto-message-router-and-responder-with-request-dete) — @djangelic ✓ — 1,546 views — 7 nodes (HTTP Request, Slack, Notion)
+- [Smart Email Classifier & Auto-Responder with AI](https://n8n.io/workflows/3242-smart-email-classifier-and-auto-responder-with-ai) — @ian-dikhtiar ✓ — 1,440 views — 6 nodes (Telegram, Gmail, AI Agent)
+- [Build a Telegram Chatbot with Gemini](https://n8n.io/workflows/8615-build-a-telegram-chatbot-with-gemini) — @devcodejourney ✓ — 1,437 views — 3 nodes (Telegram, OpenAI, Google Gemini)
+- [Analyze Client Transcripts & Route Feedback with GPT-4o Mini, HubSpot, and Gmail](https://n8n.io/workflows/3706-analyze-client-transcripts-and-route-feedback-with-gpt-4o-mi) — @Pollup ✓ — 1,436 views — 4 nodes (HubSpot, AI Agent, Summarization Chain)
+- [Assistant for Hubspot Chat using OpenAi and Airtable](https://n8n.io/workflows/2189-assistant-for-hubspot-chat-using-openai-and-airtable) — @tbiyss — 1,398 views — 4 nodes (Airtable, HTTP Request, Code)
+- [Line Chatbot Handling AI Responses with Groq and Llama3](https://n8n.io/workflows/2977-line-chatbot-handling-ai-responses-with-groq-and-llama3) — @openmymai — 1,348 views — 1 nodes (HTTP Request)
+- [Automated Customer Reservations via Telegram and PostgreSQL (Module "Booking")](https://n8n.io/workflows/3651-automated-customer-reservations-via-telegram-and-postgresql) — @boanse ✓ — 1,311 views — 2 nodes (Postgres, WhatsApp Business Cloud)
+- [Create a Branded AI Chatbot for Websites with Flowise Multi-Agent Chatflows](https://n8n.io/workflows/4651-create-a-branded-ai-chatbot-for-websites-with-flowise-multi) — @n3witalia ✓ — 1,267 views — 1 nodes (HTTP Request)
+- [RAG chat assistant with Claude, Supabase vector store, and Postgres memory](https://n8n.io/workflows/7381-rag-chat-assistant-with-claude-supabase-vector-store-and-pos) — @growthai ✓ — 1,246 views — 5 nodes (AI Agent, Embeddings OpenAI, Anthropic Chat Model)
+- [Connect Retell Voice Agents to Custom Functions](https://n8n.io/workflows/3805-connect-retell-voice-agents-to-custom-functions) — @agentstudio ✓ — 1,189 views — 0 nodes ()
+- [AI Chatbot Call Center: Demo Call Center (Production-Ready, Part 2)](https://n8n.io/workflows/4045-ai-chatbot-call-center-demo-call-center-production-ready-par) — @chatpaylabs ✓ — 1,130 views — 6 nodes (Redis, Code, AI Agent)
+- [AI Assistant which answers questions with a RAG MCP and a Search Engine MCP](https://n8n.io/workflows/5398-ai-assistant-which-answers-questions-with-a-rag-mcp-and-a-se) — @thomasjanssen-tech ✓ — 1,124 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Auto-reply to FAQs on WhatsApp using Postgres (Module "FAQ")](https://n8n.io/workflows/3650-auto-reply-to-faqs-on-whatsapp-using-postgres-module-faq) — @boanse ✓ — 1,004 views — 2 nodes (Postgres, WhatsApp Business Cloud)
+- [Document RAG & Chat Agent: Google Drive to Qdrant with Mistral OCR](https://n8n.io/workflows/10096-document-rag-and-chat-agent-google-drive-to-qdrant-with-mist) — @dbt ✓ — 994 views — 13 nodes (HTTP Request, Google Drive, Code)
+- [Voice-Based Appointment Booking System with ElevenLabs AI and Cal.com](https://n8n.io/workflows/5670-voice-based-appointment-booking-system-with-elevenlabs-ai-an) — @infyom ✓ — 867 views — 1 nodes (HTTP Request)
+- [Discord AI ChatBot : Context-Aware, Replies to Mentions AND also DMs](https://n8n.io/workflows/3692-discord-ai-chatbot-context-aware-replies-to-mentions-and-al) — @theomarcadet ✓ — 853 views — 5 nodes (Discord, AI Agent, OpenAI Chat Model)
+- [Auto-Reply to Google Play Store Reviews with GPT-4o & Sentiment Analysis](https://n8n.io/workflows/5372-auto-reply-to-google-play-store-reviews-with-gpt-4o-and-sent) — @arunava ✓ — 837 views — 6 nodes (HTTP Request, Slack, AI Agent)
+- [AI-Powered Telegram & WhatsApp Business Agent Workflow](https://n8n.io/workflows/5311-ai-powered-telegram-and-whatsapp-business-agent-workflow) — @amanda ✓ — 831 views — 5 nodes (Google Sheets, HTTP Request, Telegram)
+- [🌍 AI Interpreter and Translator for WhatsApp – Translate Voice & Text](https://n8n.io/workflows/3875-ai-interpreter-and-translator-for-whatsapp-translate-voice) — @brunodias ✓ — 823 views — 9 nodes (HTTP Request, Code, AI Agent)
+- [Process Multiple Media Files in Telegram with Gemini AI & PostgreSQL Database](https://n8n.io/workflows/7455-process-multiple-media-files-in-telegram-with-gemini-ai-and) — @alejandro-silva ✓ — 794 views — 8 nodes (Postgres, Telegram, Code)
+- [Customer Authentication for Chat Support with OpenAI and Redis Session Management](https://n8n.io/workflows/4216-customer-authentication-for-chat-support-with-openai-and-red) — @jimleuk ✓ — 790 views — 5 nodes (Redis, AI Agent, OpenAI Chat Model)
+- [WhatsApp Group Chat with Your Vector Database — No Facebook Business Required](https://n8n.io/workflows/4838-whatsapp-group-chat-with-your-vector-database-no-facebook-b) — @cecilia — 779 views — 9 nodes (Google Drive, Code, AI Agent)
+- [Automate Customer Support with Gmail, Google Sheets, ERP Data & GPT-4o AI](https://n8n.io/workflows/5152-automate-customer-support-with-gmail-google-sheets-erp-data) — @aoepeople ✓ — 778 views — 7 nodes (Google Sheets, HTTP Request, Google Drive)
+- [Store Chat Data in Supabase PostgreSQL for WhatsApp/Slack Chatbot ](https://n8n.io/workflows/3867-store-chat-data-in-supabase-postgresql-for-whatsapp-slack-ch) — @stardawnai ✓ — 764 views — 4 nodes (Supabase, AI Agent, Google Gemini Chat Model)
+- [Query PostgreSQL Database with Natural Language Using Groq AI Chatbot](https://n8n.io/workflows/3680-query-postgresql-database-with-natural-language-using-groq-a) — @gegenfeld ✓ — 742 views — 3 nodes (AI Agent, Simple Memory, Groq Chat Model)
+- [Automate HVAC Service Scheduling with AI Agent, Google Calendar and Gmail](https://n8n.io/workflows/9974-automate-hvac-service-scheduling-with-ai-agent-google-calend) — @bhuvanesh ✓ — 741 views — 7 nodes (Gmail, Google Chat, AI Agent)
+- [Website Chatbot with Google Drive Knowledge Base using GPT-4 and Mistral AI](https://n8n.io/workflows/10142-website-chatbot-with-google-drive-knowledge-base-using-gpt-4) — @dbt ✓ — 741 views — 10 nodes (HTTP Request, Google Drive, Code)
+- [Create an AI-powered Telegram customer support bot with lead management](https://n8n.io/workflows/11165-create-an-ai-powered-telegram-customer-support-bot-with-lead) — @osamagoda ✓ — 733 views — 5 nodes (Telegram, Code, AI Agent)
+- [Create an AI-Powered Virtual Receptionist with Google Calendar & Sheets](https://n8n.io/workflows/8326-create-an-ai-powered-virtual-receptionist-with-google-calend) — @risper254 — 706 views — 5 nodes (Google Sheets, AI Agent, OpenAI Chat Model)
+- [Create Adaptive RAG Chat Agent with Google Gemini and Qdrant](https://n8n.io/workflows/5111-create-adaptive-rag-chat-agent-with-google-gemini-and-qdrant) — @brandononchain — 696 views — 5 nodes (AI Agent, Simple Memory, Qdrant Vector Store)
+- [Build a RAG System with Automatic Citations using Qdrant, Gemini & OpenAI](https://n8n.io/workflows/5023-build-a-rag-system-with-automatic-citations-using-qdrant-gem) — @n3witalia ✓ — 693 views — 10 nodes (HTTP Request, Google Drive, Code)
+- [Populate Retell Dynamic Variables with Google Sheets Data for Call Handling](https://n8n.io/workflows/3385-populate-retell-dynamic-variables-with-google-sheets-data-fo) — @agentstudio ✓ — 618 views — 1 nodes (Google Sheets)
+- [Documentation Lookup AI Agent using Context7 and Gemini](https://n8n.io/workflows/4547-documentation-lookup-ai-agent-using-context7-and-gemini) — @jez ✓ — 617 views — 4 nodes (AI Agent, Simple Memory, Call n8n Workflow Tool)
+- [End of Turn Detection for smoother AI agent chats with Telegram and Gemini](https://n8n.io/workflows/5014-end-of-turn-detection-for-smoother-ai-agent-chats-with-teleg) — @jimleuk ✓ — 597 views — 7 nodes (HTTP Request, Redis, Telegram)
+- [AI-Powered Restaurant Order and Menu Management with WhatsApp and Google Gemini](https://n8n.io/workflows/5096-ai-powered-restaurant-order-and-menu-management-with-whatsap) — @tamerelzein ✓ — 594 views — 9 nodes (Supabase, WhatsApp Business Cloud, AI Agent)
+- [Automatic Travel Itinerary Generation via Email with Llama AI](https://n8n.io/workflows/4917-automatic-travel-itinerary-generation-via-email-with-llama-a) — @oneclick-it — 586 views — 3 nodes (Send Email, Basic LLM Chain, Ollama Model)
+- [Local Document Question Answering with Ollama AI, Agentic RAG & PGVector](https://n8n.io/workflows/10157-local-document-question-answering-with-ollama-ai-agentic-rag) — @jadai-ai-automation ✓ — 541 views — 8 nodes (Postgres, AI Agent, OpenAI Chat Model)
+- [AI Agent to chat with Snowflake database](https://n8n.io/workflows/5435-ai-agent-to-chat-with-snowflake-database) — @lowcodingdev ✓ — 519 views — 5 nodes (Snowflake, AI Agent, OpenAI Chat Model)
+- [AI Chatbot Call Center: Taxi Booking Support (Production-Ready, Part 7)](https://n8n.io/workflows/4051-ai-chatbot-call-center-taxi-booking-support-production-ready) — @chatpaylabs ✓ — 489 views — 4 nodes (Postgres, Google Calendar, AI Agent)
+- [Telegram bot for item multi select and saving to Postgres (Module "Checkbox")](https://n8n.io/workflows/3648-telegram-bot-for-item-multi-select-and-saving-to-postgres-mo) — @boanse ✓ — 472 views — 3 nodes (Postgres, Telegram, Code)
+- [RAG Chatbot with Supabase + TogetherAI + Openrouter](https://n8n.io/workflows/5680-rag-chatbot-with-supabase-togetherai-openrouter) — @iamvaar ✓ — 461 views — 6 nodes (HTTP Request, Google Docs, Supabase)
+- [Analyze Telegram Messages with OpenAI and Send Notifications via Gmail & Telegram](https://n8n.io/workflows/3306-analyze-telegram-messages-with-openai-and-send-notifications) — @spectrabit ✓ — 459 views — 5 nodes (Telegram, Gmail, AI Agent)
+- [Build a Multichannel Customer Support AI Assistant with Chatwoot & OpenRouter](https://n8n.io/workflows/8260-build-a-multichannel-customer-support-ai-assistant-with-chat) — @zrgrn — 450 views — 4 nodes (HTTP Request, Code, Basic LLM Chain)
+- [Autonomous Customizable Support Chatbot on Intercom + Discord Thread Reports](https://n8n.io/workflows/3558-autonomous-customizable-support-chatbot-on-intercom-discord) — @theomarcadet ✓ — 433 views — 7 nodes (HTTP Request, Intercom, AI Agent)
+- [Company Website Chatbot Agent (RAG, Calendar integrations)](https://n8n.io/workflows/6290-company-website-chatbot-agent-rag-calendar-integrations) — @abdulmir ✓ — 427 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Facebook Messenger chatbot with GPT-4.1 & human escalation support](https://n8n.io/workflows/10321-facebook-messenger-chatbot-with-gpt-41-and-human-escalation) — @spagreen ✓ — 424 views — 6 nodes (Facebook Graph API, AI Agent, OpenAI Chat Model)
+- [Multilingual WhatsApp Translator with OpenAI Whisper & GPT-4 and HubSpot Integration](https://n8n.io/workflows/3972-multilingual-whatsapp-translator-with-openai-whisper-and-gpt) — @amanda ✓ — 403 views — 10 nodes (HTTP Request, HubSpot, Code)
+- [Vacation Planning Agent](https://n8n.io/workflows/5309-vacation-planning-agent) — @tamerelzein ✓ — 378 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [AI-Powered Knowledge Assistant using Google Sheets, OpenAI, and Supabase Vector Search](https://n8n.io/workflows/4476-ai-powered-knowledge-assistant-using-google-sheets-openai-an) — @alexhuy ✓ — 376 views — 8 nodes (Google Sheets, AI Agent, Embeddings OpenAI)
+- [Create a Private Document Q&A System with Llama3, Postgres, Qdrant and Google Drive](https://n8n.io/workflows/5508-create-a-private-document-qanda-system-with-llama3-postgres) — @dae221 ✓ — 343 views — 10 nodes (Google Drive, AI Agent, Ollama Chat Model)
+- [Automated Reservation System with Telegram, Google Gemini AI, and Google Sheets](https://n8n.io/workflows/5454-automated-reservation-system-with-telegram-google-gemini-ai) — @tharwatelsayed ✓ — 323 views — 4 nodes (Telegram, AI Agent, Google Gemini Chat Model)
+- [Create an AI-Powered Discord Assistant with GPT-4o for Multi-Channel Messaging](https://n8n.io/workflows/3346-create-an-ai-powered-discord-assistant-with-gpt-4o-for-multi) — @yungceo — 312 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [AI Chatbot Call Center: Taxi Booking Worker (Production-Ready, Part 5)](https://n8n.io/workflows/4048-ai-chatbot-call-center-taxi-booking-worker-production-ready) — @chatpaylabs ✓ — 308 views — 3 nodes (Postgres, Redis, Google Calendar)
+- [AI Chatbot Call Center: Demo Call Back (Production-Ready, Part 6)](https://n8n.io/workflows/4050-ai-chatbot-call-center-demo-call-back-production-ready-part) — @chatpaylabs ✓ — 288 views — 5 nodes (HTTP Request, Postgres, Redis)
+- [Wix Chat Auto-Responder with OpenAI GPT and Email Fallback](https://n8n.io/workflows/3925-wix-chat-auto-responder-with-openai-gpt-and-email-fallback) — @owner232 — 287 views — 5 nodes (HTTP Request, Code, AI Agent)
+- [Build a Document-based AI Chatbot with Google Drive, Llama 3, and Qdrant RAG](https://n8n.io/workflows/4773-build-a-document-based-ai-chatbot-with-google-drive-llama-3) — @mohsinobsidian — 271 views — 7 nodes (Google Drive, AI Agent, Ollama Chat Model)
+- [AI-Powered Email Replies with Spam Filtering & FAQ Lookup using GPT-4o mini & Pinecone](https://n8n.io/workflows/5142-ai-powered-email-replies-with-spam-filtering-and-faq-lookup) — @mattabott — 255 views — 7 nodes (Gmail, AI Agent, Embeddings OpenAI)
+- [AI Chatbot Call Center: Telegram Call In (Production-Ready, Part 1a)](https://n8n.io/workflows/4044-ai-chatbot-call-center-telegram-call-in-production-ready-par) — @chatpaylabs ✓ — 252 views — 4 nodes (Postgres, Redis, Telegram)
+- [AI Chatbot Call Center: Taxi Service (Production-Ready, Part 3)](https://n8n.io/workflows/4046-ai-chatbot-call-center-taxi-service-production-ready-part-3) — @chatpaylabs ✓ — 237 views — 6 nodes (Postgres, Redis, Code)
+- [Multilingual Voice & Text Telegram Bot with ElevenLabs TTS and LangChain Agents](https://n8n.io/workflows/5511-multilingual-voice-and-text-telegram-bot-with-elevenlabs-tts) — @ivancore — 220 views — 6 nodes (HTTP Request, Telegram, AI Agent)
+- [Build an All-Source Knowledge Assistant with Claude, RAG, Perplexity, and Drive](https://n8n.io/workflows/6542-build-an-all-source-knowledge-assistant-with-claude-rag-perp) — @diagopl ✓ — 176 views — 13 nodes (Google Drive, AI Agent, Embeddings OpenAI)
+- [Build a Facebook Messenger customer service AI chatbot with Google Gemini](https://n8n.io/workflows/13080-build-a-facebook-messenger-customer-service-ai-chatbot-with) — @nguyenthieutoan ✓ — 141 views — 6 nodes (HTTP Request, Code, AI Agent)
+- [Create a Webhook-Ready Conversational Assistant with Google Gemini and Session Memory](https://n8n.io/workflows/5426-create-a-webhook-ready-conversational-assistant-with-google) — @dae221 ✓ — 130 views — 3 nodes (AI Agent, Simple Memory, Google Gemini Chat Model)
+- [ Smart human takeover & auto pause AI-powered Facebook Messenger chatbot](https://n8n.io/workflows/11920-smart-human-takeover-and-auto-pause-ai-powered-facebook-mes) — @nguyenthieutoan ✓ — 107 views — 4 nodes (HTTP Request, Code, AI Agent)
+- [WhatsApp RAG Chatbot with Supabase, Gemini 2.5 Flash, and OpenAI Embeddings](https://n8n.io/workflows/6771-whatsapp-rag-chatbot-with-supabase-gemini-25-flash-and-opena) — @manavdesai17 ✓ — 104 views — 7 nodes (HTTP Request, WhatsApp Business Cloud, AI Agent)
+- [OpenClaw Clone 🦞: Expandable Personal Telegram AI Agent Template](https://n8n.io/workflows/14008-openclaw-clone-expandable-personal-telegram-ai-agent-templa) — @n3witalia ✓ — 102 views — 13 nodes (Telegram, FTP, Code)
+- [WhatsApp AI agent that understand text, image , audio ](https://n8n.io/workflows/8251-whatsapp-ai-agent-that-understand-text-image-audio) — @tharwatelsayed ✓ — 98 views — 7 nodes (HTTP Request, WhatsApp Business Cloud, Code)
+- [Create an AI chatbot for WhatsApp with Whapi.Cloud and OpenAI GPT-3.5](https://n8n.io/workflows/12722-create-an-ai-chatbot-for-whatsapp-with-whapicloud-and-openai) — @whapi-cloud — 87 views — 2 nodes (HTTP Request, OpenAI)
+- [Company Knowledge Base Agent (RAG)](https://n8n.io/workflows/6538-company-knowledge-base-agent-rag) — @abdulmir ✓ — 86 views — 12 nodes (Telegram, Google Drive, Supabase)
+- [Gmail Assistant with Full Gmail history RAG using OpenAI](https://n8n.io/workflows/6169-gmail-assistant-with-full-gmail-history-rag-using-openai) — @zain104 ✓ — 79 views — 9 nodes (Gmail, Code, AI Agent)
+- [Build Enterprise RAG System with Google Gemini File Search & Retell AI Voice](https://n8n.io/workflows/11269-build-enterprise-rag-system-with-google-gemini-file-search-a) — @sandy4v ✓ — 79 views — 5 nodes (Google Sheets, HTTP Request, Google Drive)
+- [📩 Automated Email Management System with GPT-5, Multi-Agent AI & Pinecone DB](https://n8n.io/workflows/8490-automated-email-management-system-with-gpt-5-multi-agent-ai) — @zawanah — 79 views — 8 nodes (Telegram, Gmail, AI Agent)
+- [Multimodal Chat Assistant with GPT-4o for Text, Images, and PDFs](https://n8n.io/workflows/5857-multimodal-chat-assistant-with-gpt-4o-for-text-images-and-pd) — @cooper ✓ — 58 views — 6 nodes (AI Agent, Basic LLM Chain, OpenAI Chat Model)
+- [Automatically Reply to Customer Emails with Airtable, Gmail, and GPT-4.1 Mini](https://n8n.io/workflows/8676-automatically-reply-to-customer-emails-with-airtable-gmail-a) — @baptistefort ✓ — 55 views — 5 nodes (Airtable, Gmail, AI Agent)
+- [AI WhatsApp Chatbot with RAG: Automate Text, Voice, Image & PDF Responses](https://n8n.io/workflows/13173-ai-whatsapp-chatbot-with-rag-automate-text-voice-image-and-p) — @spagreen ✓ — 55 views — 9 nodes (Google Sheets, HTTP Request, Code)
+- [Ask questions about past meetings using voice with OpenAI and Pinecone](https://n8n.io/workflows/12757-ask-questions-about-past-meetings-using-voice-with-openai-an) — @rahul08 ✓ — 51 views — 6 nodes (Code, AI Agent, Embeddings OpenAI)
+- [Build a PDF-Based RAG System with OpenAI, Pinecone and Cohere Reranking](https://n8n.io/workflows/5734-build-a-pdf-based-rag-system-with-openai-pinecone-and-cohere) — @jipraks — 51 views — 8 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [Team Knowledge Management with Google Docs, Discord, and AI Assistant](https://n8n.io/workflows/5560-team-knowledge-management-with-google-docs-discord-and-ai-as) — @cfomodz ✓ — 47 views — 4 nodes (Google Docs, AI Agent, OpenAI Chat Model)
+- [PDF RAG Agent with Telegram Chat & Auto-Ingestion from Google Drive](https://n8n.io/workflows/8860-pdf-rag-agent-with-telegram-chat-and-auto-ingestion-from-goo) — @mookielian ✓ — 45 views — 10 nodes (HTTP Request, Telegram, Google Drive)
+- [Send Rapiwa WhatsApp Apology & Reorder Link When Shopify Order is Cancelled](https://n8n.io/workflows/10237-send-rapiwa-whatsapp-apology-and-reorder-link-when-shopify-o) — @rapiwa ✓ — 35 views — 2 nodes (Google Sheets, Code)
+- [Turn any website into an AI support chatbot with OpenAI and Pinecone](https://n8n.io/workflows/12981-turn-any-website-into-an-ai-support-chatbot-with-openai-and) — @jamesdinakar ✓ — 31 views — 8 nodes (HTTP Request, Code, AI Agent)
+- [Build a RAG-powered AI Assistant with OpenAI, Google Drive & Supabase Vector DB](https://n8n.io/workflows/3250-build-a-rag-powered-ai-assistant-with-openai-google-drive-an) — @nocodeinnovate — 26 views — 8 nodes (Google Drive, AI Agent, Embeddings OpenAI)
+- [Manage patient appointments and care follow-ups with OpenAI, Gmail and Twilio](https://n8n.io/workflows/12985-manage-patient-appointments-and-care-follow-ups-with-openai) — @cschin ✓ — 23 views — 7 nodes (Send Email, Twilio, AI Agent)
+- [Build a Scalable AI Chatbot with GPT-4 and Pipedream: Calendly, Gmail Integration](https://n8n.io/workflows/5821-build-a-scalable-ai-chatbot-with-gpt-4-and-pipedream-calendl) — @n3witalia ✓ — 22 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Automated Product Inquiry Responder with GPT-4 and Google Sheets](https://n8n.io/workflows/5809-automated-product-inquiry-responder-with-gpt-4-and-google-sh) — @dima-ai — 22 views — 4 nodes (Google Sheets, Code, Basic LLM Chain)
+- [Automate Restaurant Customer Service with WhatsApp and Llama AI Chatbot](https://n8n.io/workflows/5881-automate-restaurant-customer-service-with-whatsapp-and-llama) — @oneclick-ai ✓ — 21 views — 4 nodes (Postgres, WhatsApp Business Cloud, AI Agent)
+- [Schedule client meetings via web forms with Google Calendar, Zoom](https://n8n.io/workflows/13579-schedule-client-meetings-via-web-forms-with-google-calendar) — @spagreen ✓ — 18 views — 6 nodes (Discord, Google Calendar, Zoom)
+- [Generate and post Apple App Store review replies with Anthropic Claude](https://n8n.io/workflows/12927-generate-and-post-apple-app-store-review-replies-with-anthro) — @ertay ✓ — 17 views — 7 nodes (HTTP Request, Slack, Google Drive)
+- [AI secretary for scheduling with WhatsApp and Telegram](https://n8n.io/workflows/9211-ai-secretary-for-scheduling-with-whatsapp-and-telegram) — @thiagovazzoler ✓ — 17 views — 6 nodes (Redis, Telegram, Code)
+- [Build a WordPress RAG chatbot with OpenAI, Qdrant or MongoDB](https://n8n.io/workflows/13291-build-a-wordpress-rag-chatbot-with-openai-qdrant-or-mongodb) — @paoloronco ✓ — 15 views — 14 nodes (Wordpress, Crypto, Google Cloud Storage)
+- [Use skills In n8n agent node](https://n8n.io/workflows/13270-use-skills-in-n8n-agent-node) — @liammcgarrigle ✓ — 15 views — 4 nodes (GitHub, AI Agent, Simple Memory)
+- [Build a Product Catalog Chatbot with Mistral AI, Google Drive & Supabase RAG](https://n8n.io/workflows/10459-build-a-product-catalog-chatbot-with-mistral-ai-google-drive) — @dbt ✓ — 13 views — 9 nodes (Google Drive, Code, AI Agent)
+- [Transform chatbots into AI advisors with memory and real-time context](https://n8n.io/workflows/12885-transform-chatbots-into-ai-advisors-with-memory-and-real-tim) — @yenire — 12 views — 6 nodes (Telegram, Shopify, Code)
+- [Build a Restaurant Voice Assistant with VAPI and PostgreSQL for Bookings & Orders](https://n8n.io/workflows/5847-build-a-restaurant-voice-assistant-with-vapi-and-postgresql) — @oneclick-ai ✓ — 12 views — 1 nodes (Postgres)
+- [Build a Shopify store chat agent with Shopify MCP and C1 by Thesys](https://n8n.io/workflows/12690-build-a-shopify-store-chat-agent-with-shopify-mcp-and-c1-by) — @thesys — 8 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Generate Contextual Recommendations from Slack using Pinecone](https://n8n.io/workflows/6018-generate-contextual-recommendations-from-slack-using-pinecon) — @rahul08 ✓ — 6 views — 9 nodes (Slack, Google Drive, AI Agent)
+- [Document Q&A System with OpenAI GPT, Pinecone Vector DB & Google Drive Integration](https://n8n.io/workflows/5807-document-qanda-system-with-openai-gpt-pinecone-vector-db-and) — @mohan ✓ — 6 views — 9 nodes (Google Drive, AI Agent, Embeddings OpenAI)
+- [Book WhatsApp consultations and sync contacts with Airtable and Google Calendar](https://n8n.io/workflows/12763-book-whatsapp-consultations-and-sync-contacts-with-airtable) — @fenrirlabsnl — 6 views — 6 nodes (Airtable, HTTP Request, Google Calendar)
+- [Slack AI ChatBot : Context-Aware, Replies to Mentions AND also DMs](https://n8n.io/workflows/5845-slack-ai-chatbot-context-aware-replies-to-mentions-and-also) — @theomarcadet ✓ — 5 views — 7 nodes (Slack, AI Agent, Embeddings OpenAI)
+- [Create a Telegram Bot with Mistral Nemotron AI and Conversation Memory](https://n8n.io/workflows/5438-create-a-telegram-bot-with-mistral-nemotron-ai-and-conversat) — @codzz — 5 views — 3 nodes (HTTP Request, Telegram, Code)
+- [Create a Context-Aware Slack Assistant with Google Sheets, Pinecone & GPT-4o](https://n8n.io/workflows/6020-create-a-context-aware-slack-assistant-with-google-sheets-pi) — @rahul08 ✓ — 5 views — 8 nodes (Slack, AI Agent, Auto-fixing Output Parser)
+- [Build a company website RAG chatbot using Apify, Pinecone and Gemini](https://n8n.io/workflows/14157-build-a-company-website-rag-chatbot-using-apify-pinecone-and) — @fabian-m — 5 views — 8 nodes (AI Agent, Simple Memory, Recursive Character Text Splitter)
+- [Debounce Telegram support messages and aggregate replies with OpenAI](https://n8n.io/workflows/13070-debounce-telegram-support-messages-and-aggregate-replies-wit) — @n8nstein ✓ — 5 views — 5 nodes (Postgres, Telegram, Code)
+- [Voice AI Chatbot with OpenAI, RAG (Qdrant) & Guardrails for WordPress](https://n8n.io/workflows/10924-voice-ai-chatbot-with-openai-rag-qdrant-and-guardrails-for-w) — @n3witalia ✓ — 4 views — 13 nodes (HTTP Request, Google Drive, AI Agent)
+- [Create AI Support Assistant for Any Device with GPT-4-mini & Pinecone](https://n8n.io/workflows/5918-create-ai-support-assistant-for-any-device-with-gpt-4-mini-a) — @jahcoozi ✓ — 4 views — 7 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [Store AI chat conversations with OpenAI GPT-4.1-mini and Pinecone](https://n8n.io/workflows/13091-store-ai-chat-conversations-with-openai-gpt-41-mini-and-pine) — @the17thhokage — 4 views — 3 nodes (HTTP Request, AI Agent, OpenAI Chat Model)
+- [Hotel Receptionist with WhatsApp, Gemini Model-Switching, Redis & Google Sheets](https://n8n.io/workflows/10214-hotel-receptionist-with-whatsapp-gemini-model-switching-redi) — @akshay6 — 4 views — 7 nodes (Redis, WhatsApp Business Cloud, Code)
+- [Voice Agent for Dental Appointment Booking with Gemini AI](https://n8n.io/workflows/6153-voice-agent-for-dental-appointment-booking-with-gemini-ai) — @lucaswalter ✓ — 4 views — 4 nodes (AI Agent, Simple Memory, Google Gemini Chat Model)
+- [Create a Knowledge Base Chatbot with OpenAI and Notion for Website Embedding](https://n8n.io/workflows/6500-create-a-knowledge-base-chatbot-with-openai-and-notion-for-w) — @gegenfeld ✓ — 3 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [University FAQ & Calendar Assistant with Telegram, MongoDB and Gemini AI](https://n8n.io/workflows/10665-university-faq-and-calendar-assistant-with-telegram-mongodb) — @ciap ✓ — 3 views — 9 nodes (Google Sheets, HTTP Request, Telegram)
+- [AI-Powered WhatsApp Support Bot with Ticket Creation for Google Sheets](https://n8n.io/workflows/7405-ai-powered-whatsapp-support-bot-with-ticket-creation-for-goo) — @zain ✓ — 2 views — 9 nodes (HTTP Request, Code, HTML)
+- [Automate Support QA Reviews with Intercom, GPT and Google Sheets](https://n8n.io/workflows/5831-automate-support-qa-reviews-with-intercom-gpt-and-google-she) — @saleshandy ✓ — 2 views — 5 nodes (Google Sheets, HTTP Request, Code)
+- [Draft Gmail replies with OpenAI and OpenRouter for an inbox-zero workflow](https://n8n.io/workflows/13203-draft-gmail-replies-with-openai-and-openrouter-for-an-inbox) — @itszacnielsen — 2 views — 9 nodes (Telegram, AI Agent, Basic LLM Chain)
+- [WhatsApp Virtual Receptionist with Gemini AI - Handles Text & Voice with Knowledge Base](https://n8n.io/workflows/10033-whatsapp-virtual-receptionist-with-gemini-ai-handles-text) — @akshay6 — 1 views — 9 nodes (HTTP Request, WhatsApp Business Cloud, Code)
+- [Turn your portfolio into an AI assistant with OpenAI, Claude, Pinecone and Gmail](https://n8n.io/workflows/13408-turn-your-portfolio-into-an-ai-assistant-with-openai-claude) — @suryayalavarthi ✓ — 1 views — 12 nodes (Google Drive, Gmail, AI Agent)
+- [Automate Airlines Customer Support with GPT-4 and Question Classification](https://n8n.io/workflows/10382-automate-airlines-customer-support-with-gpt-4-and-question-c) — @oneclick-ai ✓ — 1 views — 2 nodes (HTTP Request, Code)
+- [Telegram Appointment Scheduler Bot with Google Calendar & Sheets](https://n8n.io/workflows/8809-telegram-appointment-scheduler-bot-with-google-calendar-and) — @ciap ✓ — 1 views — 4 nodes (Google Sheets, Telegram, Google Calendar)
+- [Create a human-like Evolution API WhatsApp agent with Redis, PostgreSQL and Gemini](https://n8n.io/workflows/13407-create-a-human-like-evolution-api-whatsapp-agent-with-redis) — @alejandro-silva ✓ — 1 views — 8 nodes (Postgres, Redis, Code)
+- [Create a Calendly Availability API Endpoint for Real-time Scheduling Data](https://n8n.io/workflows/11254-create-a-calendly-availability-api-endpoint-for-real-time-sc) — @omerfayyaz ✓ — 1 views — 1 nodes (HTTP Request)
+- [Build an omnichannel OTP verification flow](https://n8n.io/workflows/14209-build-an-omnichannel-otp-verification-flow) — @yenire — 1 views — 3 nodes (Send Email, Postgres, Code)
+- [Get AI insights from Databox in Slack using OpenAI](https://n8n.io/workflows/14322-get-ai-insights-from-databox-in-slack-using-openai) — @databox ✓ — 1 views — 4 nodes (Slack, AI Agent, OpenAI Chat Model)
+- [Handle Spanish-speaking vet clinic bookings with GPT-4o, Sheets, Calendar and Gmail](https://n8n.io/workflows/13864-handle-spanish-speaking-vet-clinic-bookings-with-gpt-4o-shee) — @ailinwerner ✓ — 1 views — 5 nodes (Gmail, AI Agent, OpenAI Chat Model)
+- [Automate Workflow Execution with Telegram Bot Command Center](https://n8n.io/workflows/9951-automate-workflow-execution-with-telegram-bot-command-center) — @amandegar — 1 views — 2 nodes (Telegram, Code)
+- [Handle e-commerce support on Telegram with Gemini and Google Sheets](https://n8n.io/workflows/14550-handle-e-commerce-support-on-telegram-with-gemini-and-google) — @niravgajera ✓ — 1 views — 5 nodes (Telegram, Code, AI Agent)
+- [Build a RAG system by uploading PDFs to the Google Gemini File Search Store](https://n8n.io/workflows/11197-build-a-rag-system-by-uploading-pdfs-to-the-google-gemini-fi) — @n3witalia ✓ — 1 views — 4 nodes (HTTP Request, AI Agent, Simple Memory)
+- [Answer WhatsApp Questions from PDF Documents using RAG, Google Drive and Pinecone](https://n8n.io/workflows/10980-answer-whatsapp-questions-from-pdf-documents-using-rag-googl) — @neeraj0604 — 1 views — 9 nodes (Google Drive, WhatsApp Business Cloud, AI Agent)
+- [Customer Support & Lead Collection Chatbot with RAG, GPT-4o, Sheets & Telegram](https://n8n.io/workflows/9234-customer-support-and-lead-collection-chatbot-with-rag-gpt-4o) — @smart-camp-ai ✓ — 1 views — 6 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [Automate Document Q&A with Multi-Agent RAG Orchestration using Contextual AI & Gemini](https://n8n.io/workflows/11619-automate-document-qanda-with-multi-agent-rag-orchestration-u) — @jinash ✓ — 1 views — 4 nodes (Code, AI Agent, Simple Memory)
+- [Telegram Support Bot with OpenAI, Pinecone and Human Expert Escalation](https://n8n.io/workflows/11324-telegram-support-bot-with-openai-pinecone-and-human-expert-e) — @chernyaevi — 0 views — 6 nodes (Telegram, Code, Embeddings OpenAI)
+- [WhatsApp Customer Support Bot with GPT-4 Mini, Google Sheets & Rapiwa API](https://n8n.io/workflows/10716-whatsapp-customer-support-bot-with-gpt-4-mini-google-sheets) — @rapiwa ✓ — 0 views — 5 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Build a Telegram Mental Health Support Bot with GPT-4o](https://n8n.io/workflows/6556-build-a-telegram-mental-health-support-bot-with-gpt-4o) — @d1m7asis ✓ — 0 views — 1 nodes (Telegram)
+- [Multi-Department Support Bot with Slash Commands, Pinecone & Telegram](https://n8n.io/workflows/6010-multi-department-support-bot-with-slash-commands-pinecone-an) — @moosa ✓ — 0 views — 10 nodes (Postgres, Telegram, Google Drive)
+- [Create an Intelligent FAQ Telegram Bot with Google Gemini and Supabase](https://n8n.io/workflows/9762-create-an-intelligent-faq-telegram-bot-with-google-gemini-an) — @muimsa — 0 views — 4 nodes (Telegram, Supabase, AI Agent)
+- [Answer wealth management portfolio questions with Google Sheets, live prices and Google Gemini](https://n8n.io/workflows/14552-answer-wealth-management-portfolio-questions-with-google-she) — @weblineindia ✓ — 0 views — 5 nodes (Google Sheets, HTTP Request, Gmail)
+- [AI WhatsApp Support with Human Handoff using Gemini, Twilio, and Supabase RAG](https://n8n.io/workflows/11648-ai-whatsapp-support-with-human-handoff-using-gemini-twilio-a) — @shadrack ✓ — 0 views — 13 nodes (HTTP Request, Twilio, Google Drive)
+- [Build a WhatsApp AI shopping bot with virtual try-on using Gemini and GPT](https://n8n.io/workflows/13506-build-a-whatsapp-ai-shopping-bot-with-virtual-try-on-using-g) — @chintan ✓ — 0 views — 13 nodes (Edit Image, HTTP Request, Redis)
+- [Conversational VK Bot with GPT-4 Mini & Whisper Voice Transcription](https://n8n.io/workflows/10579-conversational-vk-bot-with-gpt-4-mini-and-whisper-voice-tran) — @zzsnowballzz ✓ — 0 views — 5 nodes (HTTP Request, AI Agent, OpenAI Chat Model)
+- [Manage WhatsApp vehicle service reminders and bookings with WATI and Google Sheets](https://n8n.io/workflows/13733-manage-whatsapp-vehicle-service-reminders-and-bookings-with) — @jiteshdugar ✓ — 0 views — 2 nodes (Google Sheets, Code)
+- [Generate Personalized Travel Itineraries with Llama AI via Email & WhatsApp](https://n8n.io/workflows/6051-generate-personalized-travel-itineraries-with-llama-ai-via-e) — @oneclick-ai ✓ — 0 views — 4 nodes (Send Email, WhatsApp Business Cloud, Basic LLM Chain)
+- [Simple Scheduling and Internal Document Query Bot with Telegram](https://n8n.io/workflows/11234-simple-scheduling-and-internal-document-query-bot-with-teleg) — @cursobotcomia — 0 views — 5 nodes (Telegram, AI Agent, Redis Chat Memory)
+- [Chat with Internal Documents using Ollama, Supabase Vector DB & Google Drive](https://n8n.io/workflows/6894-chat-with-internal-documents-using-ollama-supabase-vector-db) — @laki99 ✓ — 0 views — 11 nodes (Google Drive, Supabase, AI Agent)
+- [Book beauty appointments and answer FAQs with GPT-4, Google Calendar, Gmail, and Instagram](https://n8n.io/workflows/11771-book-beauty-appointments-and-answer-faqs-with-gpt-4-google-c) — @tharwatelsayed ✓ — 0 views — 6 nodes (HTTP Request, Code, AI Agent)
+- [Production AI Playbook: Human Oversight (Exercise 1)](https://n8n.io/workflows/13847-production-ai-playbook-human-oversight-exercise-1) — @elvissaravia ✓ — 0 views — 3 nodes (Gmail, AI Agent, OpenRouter Chat Model)
+- [AI-Powered Company Documents Q&A Assistant with Google Drive and GPT-4 Mini](https://n8n.io/workflows/10947-ai-powered-company-documents-qanda-assistant-with-google-dri) — @rawsun007 ✓ — 0 views — 8 nodes (Google Drive, AI Agent, Embeddings OpenAI)
+- [Guide students with an AI tutor chatbot using RAG, intent classification and GPT-4o-mini](https://n8n.io/workflows/14291-guide-students-with-an-ai-tutor-chatbot-using-rag-intent-cla) — @isawow ✓ — 0 views — 7 nodes (Google Sheets, AI Agent, Embeddings OpenAI)
+- [Plan voice-based travel and calendar bookings with Claude AI](https://n8n.io/workflows/14914-plan-voice-based-travel-and-calendar-bookings-with-claude-ai) — @oneclick-ai ✓ — 0 views — 7 nodes (Google Sheets, HTTP Request, Telegram)
+- [Create a Voice-Enabled AI Assistant with Groq, SerpAPI and TTS](https://n8n.io/workflows/10658-create-a-voice-enabled-ai-assistant-with-groq-serpapi-and-tt) — @shaheer03 ✓ — 0 views — 5 nodes (HTTP Request, AI Agent, Simple Memory)
+- [WhatsApp AI Assistant for Google Calendar & Gmail Management with Gemini/GPT](https://n8n.io/workflows/9931-whatsapp-ai-assistant-for-google-calendar-and-gmail-manageme) — @praneel7015 ✓ — 0 views — 4 nodes (WhatsApp Business Cloud, AI Agent, Simple Memory)
+- [Create an Intelligent Facebook Messenger Chatbot with GPT-4o-mini & Message Memory](https://n8n.io/workflows/11993-create-an-intelligent-facebook-messenger-chatbot-with-gpt-4o) — @tristanv ✓ — 0 views — 5 nodes (HTTP Request, Code, AI Agent)
+- [Discord AI Chatbot with GPT-4o-mini & Redis Memory Persistence](https://n8n.io/workflows/5816-discord-ai-chatbot-with-gpt-4o-mini-and-redis-memory-persist) — @ddm21 ✓ — 0 views — 5 nodes (Discord, AI Agent, OpenAI Chat Model)
+- [Automate Meeting Scheduling through Telegram with Google Calendar & Notion CRM](https://n8n.io/workflows/8593-automate-meeting-scheduling-through-telegram-with-google-cal) — @SheCodesFlow ✓ — 0 views — 4 nodes (Send Email, HTTP Request, Telegram)
+- [E-Commerce Assistant for Shopify & WooCommerce with GPT-4o, Gemini & RAG](https://n8n.io/workflows/6100-e-commerce-assistant-for-shopify-and-woocommerce-with-gpt-4o) — @harshmaniya1 ✓ — 0 views — 6 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [WordPress Content Assistant: Article Recommendations & Q&A with Mistral AI](https://n8n.io/workflows/3220-wordpress-content-assistant-article-recommendations-and-qand) — @tan-yong-sheng — 0 views — 11 nodes (HTTP Request, Code, AI Agent)
+- [Restaurant GPT-4 Receptionist for Bookings & Delivery using Vapi, Telegram, Airtable](https://n8n.io/workflows/12004-restaurant-gpt-4-receptionist-for-bookings-and-delivery-usin) — @maksik ✓ — 0 views — 10 nodes (Airtable, HTTP Request, Telegram)
+- [Automated Facebook Message Response with GPT-4o and Airtable Inventory Matching](https://n8n.io/workflows/11321-automated-facebook-message-response-with-gpt-4o-and-airtable) — @rahul08 ✓ — 0 views — 6 nodes (Airtable, Google Sheets, Facebook Graph API)
+- [Automated Email Replies with GPT-4o, Outlook, and GoToHuman Approval](https://n8n.io/workflows/7049-automated-email-replies-with-gpt-4o-outlook-and-gotohuman-ap) — @rbreen ✓ — 0 views — 6 nodes (Microsoft Outlook, Code, AI Agent)
+- [Automated Inbox Organization for Outlook using GPT-4.1 Agent](https://n8n.io/workflows/6454-automated-inbox-organization-for-outlook-using-gpt-41-agent) — @automatoralex — 0 views — 3 nodes (Code, AI Agent, OpenRouter Chat Model)
+- [Schedule and manage appointments with Groq, Google Calendar, Gmail and Sheets](https://n8n.io/workflows/13905-schedule-and-manage-appointments-with-groq-google-calendar-g) — @chintan ✓ — 0 views — 7 nodes (Google Sheets, Google Calendar, Gmail)
+- [Monitor Google reviews and draft AI responses with Gemini and Slack](https://n8n.io/workflows/13562-monitor-google-reviews-and-draft-ai-responses-with-gemini-an) — @okp29 ✓ — 0 views — 7 nodes (Google Sheets, HTTP Request, Slack)
+- [Customer Financial Report Delivery System with Telegram and Google Sheets](https://n8n.io/workflows/10377-customer-financial-report-delivery-system-with-telegram-and) — @miad-dadbin — 0 views — 3 nodes (Google Sheets, Telegram, Code)
+- [Get long-lived Facebook Page access tokens and subscribe Messenger webhook fields via Graph API](https://n8n.io/workflows/14027-get-long-lived-facebook-page-access-tokens-and-subscribe-mes) — @nguyenthieutoan ✓ — 0 views — 2 nodes (HTTP Request, Code)
+- [Build a WhatsApp Assistant for Text, Audio & Images using GPT-4o & Evolution API](https://n8n.io/workflows/11754-build-a-whatsapp-assistant-for-text-audio-and-images-using-g) — @akav ✓ — 0 views — 7 nodes (Redis, AI Agent, Basic LLM Chain)
+- [Automate Google Business Reviews with AI Responses, Slack Alerts & Sheets Logging](https://n8n.io/workflows/6590-automate-google-business-reviews-with-ai-responses-slack-ale) — @grace-bola ✓ — 0 views — 2 nodes (Google Sheets, HTTP Request)
+- [AI-Powered Webinar Feedback Replies with GPT-4, Google Sheets, and Gmail](https://n8n.io/workflows/11889-ai-powered-webinar-feedback-replies-with-gpt-4-google-sheets) — @itechnotion ✓ — 0 views — 4 nodes (Google Sheets, Gmail, Code)
+- [Generate and approve Google review replies with Groq AI and Slack](https://n8n.io/workflows/14360-generate-and-approve-google-review-replies-with-groq-ai-and) — @itechnotion ✓ — 0 views — 4 nodes (Slack, AI Agent, Groq Chat Model)
+- [Generate and post Google Play review replies with Anthropic Claude and Google Drive](https://n8n.io/workflows/12591-generate-and-post-google-play-review-replies-with-anthropic) — @ertay ✓ — 0 views — 5 nodes (HTTP Request, Google Drive, Basic LLM Chain)
+- [Telegram Bot Inline Keyboard with Dynamic Menus & Rating System](https://n8n.io/workflows/7664-telegram-bot-inline-keyboard-with-dynamic-menus-and-rating-s) — @relishev ✓ — 0 views — 1 nodes (HTTP Request)
+- [Build a Website-Powered Customer Support Chatbot with Decodo, Pinecone and Gemini](https://n8n.io/workflows/12146-build-a-website-powered-customer-support-chatbot-with-decodo) — @zain ✓ — 0 views — 9 nodes (HTTP Request, Code, HTML)
+- [Dynamic Website Assistant with DeepSeek AI, Pinecone Vectorstore & Site-Based Routing](https://n8n.io/workflows/6295-dynamic-website-assistant-with-deepseek-ai-pinecone-vectorst) — @moosa ✓ — 0 views — 5 nodes (AI Agent, Embeddings Cohere, Pinecone Vector Store)
+- [Draft and send AI customer support email replies with Gmail and Google Sheets](https://n8n.io/workflows/14038-draft-and-send-ai-customer-support-email-replies-with-gmail) — @georgedanp ✓ — 0 views — 4 nodes (Google Sheets, Gmail, Basic LLM Chain)
+- [Route AI-powered customer support via email and Slack with PostgreSQL and Google Sheets](https://n8n.io/workflows/12891-route-ai-powered-customer-support-via-email-and-slack-with-p) — @yuta-tokumitsu ✓ — 0 views — 5 nodes (Send Email, Google Sheets, HTTP Request)
+- [Route AI tasks with OpenAI GPT‑4.1‑mini and confidence‑based email fallback](https://n8n.io/workflows/14683-route-ai-tasks-with-openai-gpt41mini-and-confidencebased-ema) — @rnair1996 ✓ — 0 views — 5 nodes (Send Email, AI Agent, OpenAI Chat Model)
+- [Build a Telegram AI chatbot with human takeover using Trilox and GPT-4o-mini](https://n8n.io/workflows/13394-build-a-telegram-ai-chatbot-with-human-takeover-using-trilox) — @trilox — 0 views — 6 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [Triage HVAC issues and AI diagnosis with Gemini Vision, GoHighLevel and WhatsApp](https://n8n.io/workflows/15104-triage-hvac-issues-and-ai-diagnosis-with-gemini-vision-gohig) — @iamvaar ✓ — 0 views — 4 nodes (HTTP Request, HighLevel, WhatsApp Business Cloud)
+- [Schedule Meetings via WhatsApp Using Natural Language with Gemini AI & Google Suite](https://n8n.io/workflows/10468-schedule-meetings-via-whatsapp-using-natural-language-with-g) — @ali01 ✓ — 0 views — 5 nodes (WhatsApp Business Cloud, Code, AI Agent)
+- [Generate BigQuery SQL from Natural Language Queries using GPT-4o Chat](https://n8n.io/workflows/6745-generate-bigquery-sql-from-natural-language-queries-using-gp) — @rbreen ✓ — 0 views — 6 nodes (Google BigQuery, Code, AI Agent)
+- [AI-Powered WhatsApp Chatbot 🤖📅: Complete Booking Assistant with Gemini & Google](https://n8n.io/workflows/13984-ai-powered-whatsapp-chatbot-complete-booking-assistant-with) — @n3witalia ✓ — 0 views — 10 nodes (HTTP Request, Gmail, WhatsApp Business Cloud)
+- [Search Slack for n8n templates with OpenAI tips, Google Sheets cache and weekly analytics](https://n8n.io/workflows/13195-search-slack-for-n8n-templates-with-openai-tips-google-sheet) — @pippi ✓ — 0 views — 4 nodes (Google Sheets, HTTP Request, Slack)
+- [Business Intelligence Assistant for Slack using Explorium MCP & Claude AI](https://n8n.io/workflows/9935-business-intelligence-assistant-for-slack-using-explorium-mc) — @explorium ✓ — 0 views — 7 nodes (HTTP Request, Slack, Code)
+- [Build a Voice & Text Telegram Bot with GPT-4.1-Mini and Gemini Transcription](https://n8n.io/workflows/12003-build-a-voice-and-text-telegram-bot-with-gpt-41-mini-and-gem) — @hussammuhammadkazim — 0 views — 7 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [AI-Powered WhatsApp Chatbot with Venom Bot & Google Gemini (No Official API)](https://n8n.io/workflows/5736-ai-powered-whatsapp-chatbot-with-venom-bot-and-google-gemini) — @obisdev ✓ — 0 views — 6 nodes (HTTP Request, Google Docs, Code)
+- [Automate Telegram Support Handover from AI to Humans with GPT4 and Email Alerts](https://n8n.io/workflows/9987-automate-telegram-support-handover-from-ai-to-humans-with-gp) — @mookielian ✓ — 0 views — 7 nodes (Send Email, HTTP Request, Telegram)
+- [Automate Email Management with Gemini AI and Gmail for Smart Responses](https://n8n.io/workflows/8688-automate-email-management-with-gemini-ai-and-gmail-for-smart) — @hashirxn8n — 0 views — 3 nodes (Gmail, AI Agent, Google Gemini Chat Model)
+- [Build an AI Chatbot with InfraNodus Knowledge Graph for Enhanced Responses](https://n8n.io/workflows/6818-build-an-ai-chatbot-with-infranodus-knowledge-graph-for-enha) — @infranodus ✓ — 0 views — 1 nodes (HTTP Request)
+- [Automatic AI reply when mentioned in a Liveblocks comment](https://n8n.io/workflows/14299-automatic-ai-reply-when-mentioned-in-a-liveblocks-comment) — @liveblocks ✓ — 0 views — 2 nodes (AI Agent, Anthropic Chat Model)
+- [Automate WooCommerce Customer Support with Gemini & GPT via Telegram & Gmail](https://n8n.io/workflows/7037-automate-woocommerce-customer-support-with-gemini-and-gpt-vi) — @appstonelab ✓ — 0 views — 6 nodes (Telegram, Gmail, AI Agent)
+- [Automate Customer Support & Calendar Bookings with OpenAI GPT and Google Calendar](https://n8n.io/workflows/5387-automate-customer-support-and-calendar-bookings-with-openai) — @nicksaraev ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Dynamic MongoDB Knowledge Base Chatbot with OpenAI GPT](https://n8n.io/workflows/6622-dynamic-mongodb-knowledge-base-chatbot-with-openai-gpt) — @gegenfeld ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Create a Smart Chatbot using OpenAI GPT and Airtable Knowledge Base](https://n8n.io/workflows/6470-create-a-smart-chatbot-using-openai-gpt-and-airtable-knowled) — @gegenfeld ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Query Business Data from Uniconta ERP with OpenAI Chatbot via Peliqan](https://n8n.io/workflows/7391-query-business-data-from-uniconta-erp-with-openai-chatbot-vi) — @peliqan ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Query Business Data from Cin7 ERP with OpenAI Chatbot via Peliqan](https://n8n.io/workflows/7315-query-business-data-from-cin7-erp-with-openai-chatbot-via-pe) — @peliqan ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Query Business Data with OpenAI Chatbot Using RAG and Text-to-SQL via Peliqan](https://n8n.io/workflows/6706-query-business-data-with-openai-chatbot-using-rag-and-text-t) — @peliqan ✓ — 0 views — 7 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [Automated Gmail Reply Drafts with OpenAI Assistant for Labeled Emails](https://n8n.io/workflows/6442-automated-gmail-reply-drafts-with-openai-assistant-for-label) — @melikahichul — 0 views — 4 nodes (HTTP Request, Gmail, Code)
+- [RAG-Powered AI Voice Customer Support Agent (Supabase + Gemini + ElevenLabs)](https://n8n.io/workflows/7188-rag-powered-ai-voice-customer-support-agent-supabase-gemini) — @iamvaar ✓ — 0 views — 6 nodes (HTTP Request, Google Docs, Supabase)
+- [Auto-reply to Instagram DMs with an AI chatbot and Google Gemini history](https://n8n.io/workflows/14026-auto-reply-to-instagram-dms-with-an-ai-chatbot-and-google-ge) — @nguyenthieutoan ✓ — 0 views — 4 nodes (HTTP Request, Code, AI Agent)
+- [Create an All-in-One Discord Assistant with Gemini, Llama Vision & Flux Images](https://n8n.io/workflows/12097-create-an-all-in-one-discord-assistant-with-gemini-llama-vis) — @asla — 0 views — 6 nodes (HTTP Request, Code, AI Agent)
+- [WhatsApp Assistant with Gemini AI for Calendar Management via Evolution API](https://n8n.io/workflows/10944-whatsapp-assistant-with-gemini-ai-for-calendar-management-vi) — @pedroprotes — 0 views — 5 nodes (AI Agent, Simple Memory, Google Gemini Chat Model)
+- [Conversational WhatsApp Assistant with Gemini AI and Pinecone Memory](https://n8n.io/workflows/6170-conversational-whatsapp-assistant-with-gemini-ai-and-pinecon) — @adrian-from-robomarketing — 0 views — 7 nodes (Code, AI Agent, Embeddings OpenAI)
+- [Build a Comprehensive Multimodal Assistant on Telegram with OpenAI, SERP and Vector Store](https://n8n.io/workflows/6813-build-a-comprehensive-multimodal-assistant-on-telegram-with) — @fabiointech ✓ — 0 views — 14 nodes (Telegram, Code, AI Agent)
+- [Analyze Liveblocks comment attachments with Anthropic Claude AI](https://n8n.io/workflows/14300-analyze-liveblocks-comment-attachments-with-anthropic-claude) — @liveblocks ✓ — 0 views — 4 nodes (Code, AI Agent, Anthropic Chat Model)
+- [Create Multilingual Voice Calling Bot with GPT-4o, ElevenLabs & Twilio](https://n8n.io/workflows/6309-create-multilingual-voice-calling-bot-with-gpt-4o-elevenlabs) — @shivp1413 ✓ — 0 views — 3 nodes (Google Sheets, HTTP Request, OpenAI)
+- [AI-Powered E-commerce Customer Support Chatbot with GPT-4 & Supabase](https://n8n.io/workflows/7256-ai-powered-e-commerce-customer-support-chatbot-with-gpt-4-an) — @automates-with-eaze — 0 views — 5 nodes (Code, AI Agent, OpenAI Chat Model)
+- [Turn your website docs into a GPT-4.1-mini support chatbot with MrScraper and Pinecone](https://n8n.io/workflows/13802-turn-your-website-docs-into-a-gpt-41-mini-support-chatbot-wi) — @riandradiva ✓ — 0 views — 7 nodes (Code, AI Agent, Embeddings OpenAI)
+- [Build a document-upload RAG chatbot with OpenAI, Pinecone and daily analytics](https://n8n.io/workflows/14041-build-a-document-upload-rag-chatbot-with-openai-pinecone-and) — @rnair1996 ✓ — 0 views — 9 nodes (Gmail, Code, AI Agent)
+- [Chat with your PDF documents using PageIndex vectorless RAG via Telegram](https://n8n.io/workflows/13977-chat-with-your-pdf-documents-using-pageindex-vectorless-rag) — @appstonelab ✓ — 0 views — 2 nodes (HTTP Request, Telegram)
+- [Build a RAG System for PDF Documents with Google Drive, Unstructured, and OpenAI](https://n8n.io/workflows/10577-build-a-rag-system-for-pdf-documents-with-google-drive-unstr) — @tluber — 0 views — 8 nodes (HTTP Request, Google Drive, Code)
+- [Query and Answer Questions from Excel Spreadsheets with GPT-4 Mini](https://n8n.io/workflows/6624-query-and-answer-questions-from-excel-spreadsheets-with-gpt) — @gegenfeld ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Build RAG-Powered WhatsApp Chatbots for Docs with GPT-4o-mini and MongoDB](https://n8n.io/workflows/6315-build-rag-powered-whatsapp-chatbots-for-docs-with-gpt-4o-min) — @shahzaib191 — 0 views — 12 nodes (HTTP Request, Google Docs, WhatsApp Business Cloud)
+- [Restaurant Reservation Management with OpenAI GPT and Google Sheets](https://n8n.io/workflows/7323-restaurant-reservation-management-with-openai-gpt-and-google) — @fakharkhan ✓ — 0 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Automate Restaurant Reservations with AI on WhatsApp and Google Sheets](https://n8n.io/workflows/6379-automate-restaurant-reservations-with-ai-on-whatsapp-and-goo) — @basil ✓ — 0 views — 6 nodes (Google Sheets, WhatsApp Business Cloud, AI Agent)
+- [Conversational Travel Booker: Automate Flight & Hotel Reservations with GPT-3.5](https://n8n.io/workflows/6262-conversational-travel-booker-automate-flight-and-hotel-reser) — @oneclick-ai ✓ — 0 views — 4 nodes (Send Email, HTTP Request, Code)
+- [Build a Website AI Chatbot with Lead Capture using Gemini and Supabase RAG](https://n8n.io/workflows/10365-build-a-website-ai-chatbot-with-lead-capture-using-gemini-an) — @shadrack ✓ — 0 views — 13 nodes (Google Drive, Supabase, Code)
+- [Automate Email Triage & Meeting Scheduling with Gmail, GPT-4 & Google Calendar](https://n8n.io/workflows/11243-automate-email-triage-and-meeting-scheduling-with-gmail-gpt) — @ademtasin ✓ — 0 views — 6 nodes (Google Sheets, Telegram, Google Calendar)
+- [Autonomous Meeting Scheduler with GPT-4o-mini, Telegram, and Google Calendar](https://n8n.io/workflows/11166-autonomous-meeting-scheduler-with-gpt-4o-mini-telegram-and-g) — @servifylabs ✓ — 0 views — 6 nodes (Google Sheets, Telegram, Google Calendar)
+- [Retrieve Answers from Knowledge Base with InfraNodus GraphRAG Chatbot](https://n8n.io/workflows/11570-retrieve-answers-from-knowledge-base-with-infranodus-graphra) — @infranodus ✓ — 0 views — 0 nodes ()
+- [Build an AI chat agent for your Zendesk knowledge base with GPT-4.1 and InfraNodus GraphRAG](https://n8n.io/workflows/11571-build-an-ai-chat-agent-for-your-zendesk-knowledge-base-with) — @infranodus ✓ — 0 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Deploy AI-Powered Website Chatbot with DeepSeek and Custom Branding](https://n8n.io/workflows/7416-deploy-ai-powered-website-chatbot-with-deepseek-and-custom-b) — @omerfayyaz ✓ — 0 views — 3 nodes (AI Agent, Simple Memory, DeepSeek Chat Model)
+- [Search hardware inventory with Supabase vector RAG and Google Gemini](https://n8n.io/workflows/13410-search-hardware-inventory-with-supabase-vector-rag-and-googl) — @vklepikovskyi ✓ — 0 views — 7 nodes (Google Sheets, AI Agent, Simple Memory)
+- [WhatsApp to Chatwoot Message Forwarder with Media Support](https://n8n.io/workflows/6988-whatsapp-to-chatwoot-message-forwarder-with-media-support) — @thiagovazzoler ✓ — 0 views — 4 nodes (HTTP Request, Postgres, Redis)
+- [Auto-Respond to Instagram, Facebook & WhatsApp with Llama 3.2 ](https://n8n.io/workflows/6632-auto-respond-to-instagram-facebook-and-whatsapp-with-llama-3) — @oneclick-ai ✓ — 0 views — 6 nodes (HTTP Request, WhatsApp Business Cloud, Code)
+- [Build a GLPI Knowledge Base RAG Pipeline with Google Gemini and PostgreSQL](https://n8n.io/workflows/7171-build-a-glpi-knowledge-base-rag-pipeline-with-google-gemini) — @thiagovazzoler ✓ — 0 views — 5 nodes (AI Agent, Simple Memory, Embeddings Google Gemini)
+- [Complete Appointment System with Supabase and AI Assistants for Scheduling & Management](https://n8n.io/workflows/11462-complete-appointment-system-with-supabase-and-ai-assistants) — @isight ✓ — 0 views — 2 nodes (AI Agent, Ollama Chat Model)
+- [Create Voice Assistant Interface with OpenAI GPT-4o-mini and Text-to-Speech](https://n8n.io/workflows/6399-create-voice-assistant-interface-with-openai-gpt-4o-mini-and) — @andersonadelino ✓ — 0 views — 5 nodes (HTML, AI Agent, OpenAI Chat Model)
+- [Multi-Agent Personal Assistant Orchestration with GPT-4o & WhatsApp](https://n8n.io/workflows/5415-multi-agent-personal-assistant-orchestration-with-gpt-4o-and) — @amanda ✓ — 0 views — 9 nodes (HTTP Request, Redis, Crypto)
+
+## Ticket Management (230 workflows)
+
+- [Chat with a Google Sheet using AI](https://n8n.io/workflows/2085-chat-with-a-google-sheet-using-ai) — @davidn8n ✓ — 49,906 views — 5 nodes (Google Sheets, Code, AI Agent)
+- [AI Customer Support Assistant · WhatsApp Ready · Works for Any Business](https://n8n.io/workflows/3859-ai-customer-support-assistant-whatsapp-ready-works-for-any) — @lemolex ✓ — 43,454 views — 6 nodes (WhatsApp Business Cloud, Code, AI Agent)
+- [Auto Categorise Outlook Emails with AI](https://n8n.io/workflows/2454-auto-categorise-outlook-emails-with-ai) — @nocodecreative ✓ — 38,584 views — 3 nodes (Microsoft Outlook, AI Agent, Ollama Chat Model)
+- [Gmail AI Email Manager](https://n8n.io/workflows/4722-gmail-ai-email-manager) — @maxmitcham ✓ — 29,066 views — 4 nodes (Gmail, AI Agent, Anthropic Chat Model)
+- [Chat with a database using AI](https://n8n.io/workflows/2090-chat-with-a-database-using-ai) — @davidn8n ✓ — 28,371 views — 2 nodes (AI Agent, OpenAI Chat Model)
+- [Automate Customer Support Issue Resolution using AI Text Classifier](https://n8n.io/workflows/2468-automate-customer-support-issue-resolution-using-ai-text-cla) — @jimleuk ✓ — 23,330 views — 8 nodes (Slack, Jira Software, AI Agent)
+- [Advanced Telegram Bot, Ticketing System, LiveChat, User Management, Broadcasting](https://n8n.io/workflows/2045-advanced-telegram-bot-ticketing-system-livechat-user-managem) — @nskha ✓ — 23,047 views — 4 nodes (HTTP Request, Redis, Telegram)
+- [Intelligent Email Organization with AI-Powered Content Classification for Gmail](https://n8n.io/workflows/4557-intelligent-email-organization-with-ai-powered-content-class) — @niranjan ✓ — 20,908 views — 4 nodes (Gmail, Code, AI Agent)
+- [AI Email Analyzer: Process PDFs, Images & Save to Google Drive + Telegram](https://n8n.io/workflows/3169-ai-email-analyzer-process-pdfs-images-and-save-to-google-dri) — @n3witalia ✓ — 20,751 views — 10 nodes (Google Sheets, Telegram, Google Drive)
+- [Reply to Outlook Emails with OpenAI](https://n8n.io/workflows/3089-reply-to-outlook-emails-with-openai) — @ryanh — 16,178 views — 2 nodes (AI Agent, OpenAI Chat Model)
+- [AI-Powered Email Automation for Business: Summarize & Respond with RAG](https://n8n.io/workflows/2852-ai-powered-email-automation-for-business-summarize-and-respo) — @n3witalia ✓ — 12,485 views — 12 nodes (Send Email, HTTP Request, Google Drive)
+- [Multi-Agent AI Clinic Management with WhatsApp, Telegram, and Google Calendar](https://n8n.io/workflows/3694-multi-agent-ai-clinic-management-with-whatsapp-telegram-and) — @koresoluciones ✓ — 12,047 views — 8 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [🗼 AI powered supply chain control tower with BigQuery and GPT-4o](https://n8n.io/workflows/3305-ai-powered-supply-chain-control-tower-with-bigquery-and-gpt) — @samirsaci ✓ — 7,497 views — 6 nodes (Google BigQuery, Code, AI Agent)
+- [Create ticket on specific customer messages in Telegram](https://n8n.io/workflows/368-create-ticket-on-specific-customer-messages-in-telegram) — @tanay1337 ✓ — 7,038 views — 3 nodes (Telegram, Freshdesk, Monday.com)
+- [Customer Support Channel and Ticketing System with Slack and Linear](https://n8n.io/workflows/2323-customer-support-channel-and-ticketing-system-with-slack-and) — @jimleuk ✓ — 6,594 views — 5 nodes (Slack, Linear, Basic LLM Chain)
+- [Smart Email Assistant: Automate Customer Support with AI & Supabase](https://n8n.io/workflows/2929-smart-email-assistant-automate-customer-support-with-ai-and) — @b4dr ✓ — 6,196 views — 10 nodes (Google Drive, Supabase, AI Agent)
+- [Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable](https://n8n.io/workflows/2809-microsoft-outlook-ai-email-assistant-with-contact-support-fr) — @cognitivecreators — 5,741 views — 6 nodes (Airtable, Monday.com, Microsoft Outlook)
+- [Create Teams Notifications for new Tickets in ConnectWise with Redis](https://n8n.io/workflows/2352-create-teams-notifications-for-new-tickets-in-connectwise-wi) — @sniped-you-fool — 4,083 views — 4 nodes (HTTP Request, Redis, Microsoft Teams)
+- [Modular & Customizable AI-Powered Email Routing: Text Classifier for eCommerce](https://n8n.io/workflows/2851-modular-and-customizable-ai-powered-email-routing-text-class) — @n3witalia ✓ — 4,052 views — 4 nodes (Send Email, Google Sheets, OpenAI Chat Model)
+- [Automate Support Ticket Triage and Resolution with JIRA and AI](https://n8n.io/workflows/3868-automate-support-ticket-triage-and-resolution-with-jira-and) — @jimleuk ✓ — 3,736 views — 4 nodes (Jira Software, Basic LLM Chain, OpenAI Chat Model)
+- [ Smart Email Responder Workflow using AI](https://n8n.io/workflows/4807-smart-email-responder-workflow-using-ai) — @ankur — 3,217 views — 6 nodes (Send Email, Google Calendar, Gmail)
+- [Parse Gmail Inbox and Transform into Todoist tasks with Solve Propositions](https://n8n.io/workflows/3507-parse-gmail-inbox-and-transform-into-todoist-tasks-with-solv) — @lukaszpp ✓ — 3,127 views — 5 nodes (Todoist, Gmail, AI Agent)
+- [Medical Symptom Checker & Health Assistant with GPT-4-mini](https://n8n.io/workflows/5920-medical-symptom-checker-and-health-assistant-with-gpt-4-mini) — @jahcoozi ✓ — 2,332 views — 3 nodes (Airtable, Code, OpenAI)
+- [Sentiment Analysis Tracking on Support Issues with Linear and Slack](https://n8n.io/workflows/2647-sentiment-analysis-tracking-on-support-issues-with-linear-an) — @jimleuk ✓ — 2,267 views — 5 nodes (Airtable, Slack, GraphQL)
+- [Automate Multi-Channel Customer Support with Gmail, Telegram, and GPT AI](https://n8n.io/workflows/4474-automate-multi-channel-customer-support-with-gmail-telegram) — @redone ✓ — 2,259 views — 7 nodes (Google Sheets, HTTP Request, Telegram)
+- [ServiceNow Incident Notifications to Slack Workflow](https://n8n.io/workflows/2704-servicenow-incident-notifications-to-slack-workflow) — @djangelic ✓ — 2,134 views — 2 nodes (Slack, ServiceNow)
+- [Send Typeform results to Google Sheet, Slack and email](https://n8n.io/workflows/29-send-typeform-results-to-google-sheet-slack-and-email) — @jan ✓ — 2,045 views — 3 nodes (Send Email, Google Sheets, Slack)
+- [AI Email Organizer for GMail - Advanced Email Management & Sorting](https://n8n.io/workflows/4687-ai-email-organizer-for-gmail-advanced-email-management-and) — @vasarmilan ✓ — 1,954 views — 4 nodes (Google Sheets, Gmail, AI Agent)
+- [Automatically Create JIRA Issues from Outlook Email Support Requests](https://n8n.io/workflows/3893-automatically-create-jira-issues-from-outlook-email-support) — @jimleuk ✓ — 1,865 views — 5 nodes (Jira Software, Microsoft Outlook, Basic LLM Chain)
+- [Automate Email Filtering & AI Summarization. 100% free & effective, works 7/24 ](https://n8n.io/workflows/5678-automate-email-filtering-and-ai-summarization-100-free-and-e) — @arre ✓ — 1,823 views — 4 nodes (Google Sheets, Code, AI Agent)
+- [Classify new bugs in Linear with OpenAI's GPT-4 and move them to the right team](https://n8n.io/workflows/2154-classify-new-bugs-in-linear-with-openais-gpt-4-and-move-them) — @nik8n ✓ — 1,801 views — 4 nodes (HTTP Request, Slack, Linear)
+- [Create a new Freshdesk ticket](https://n8n.io/workflows/448-create-a-new-freshdesk-ticket) — @sm-amudhan ✓ — 1,740 views — 1 nodes (Freshdesk)
+- [Auto-classify Gmail emails with AI and apply labels for inbox organization](https://n8n.io/workflows/4876-auto-classify-gmail-emails-with-ai-and-apply-labels-for-inbo) — @alexdunlop — 1,732 views — 4 nodes (Gmail, Code, Basic LLM Chain)
+- [Sync Zendesk tickets with subsequent comments to Jira issues](https://n8n.io/workflows/1833-sync-zendesk-tickets-with-subsequent-comments-to-jira-issues) — @n8n-team ✓ — 1,535 views — 2 nodes (Jira Software, Zendesk)
+- [Automate WordPress Contact Form (CF7) Responses and Classification with Gemini](https://n8n.io/workflows/3472-automate-wordpress-contact-form-cf7-responses-and-classifica) — @n3witalia ✓ — 1,533 views — 6 nodes (Google Sheets, Gmail, Basic LLM Chain)
+- [Sync Zendesk tickets to Slack thread](https://n8n.io/workflows/1820-sync-zendesk-tickets-to-slack-thread) — @n8n-team ✓ — 1,492 views — 3 nodes (Slack, Zendesk, Code)
+- [Message Buffer System with Redis for Efficient Processing](https://n8n.io/workflows/3832-message-buffer-system-with-redis-for-efficient-processing) — @eagarciah707 — 1,455 views — 2 nodes (Redis, Code)
+- [Auto-Respond to Gmail Inquiries using OpenAI, Google Sheet & AI Agent](https://n8n.io/workflows/4413-auto-respond-to-gmail-inquiries-using-openai-google-sheet-an) — @billy ✓ — 1,416 views — 6 nodes (Google Sheets, Gmail, AI Agent)
+- [Update people through Zulip about open tickets in Zammad](https://n8n.io/workflows/1575-update-people-through-zulip-about-open-tickets-in-zammad) — @riadvice — 1,409 views — 2 nodes (Zulip, Zammad)
+- [Create a ticket in Zendesk](https://n8n.io/workflows/496-create-a-ticket-in-zendesk) — @tanay1337 ✓ — 1,330 views — 1 nodes (Zendesk)
+- [Sync Shopify orders with Zendesk tickets](https://n8n.io/workflows/1809-sync-shopify-orders-with-zendesk-tickets) — @n8n-team ✓ — 1,247 views — 1 nodes (Zendesk)
+- [Smart helpdesk ticket alerts from Easy Redmine to Teams with GPT-4 summaries](https://n8n.io/workflows/7292-smart-helpdesk-ticket-alerts-from-easy-redmine-to-teams-with) — @easy8 ✓ — 1,157 views — 3 nodes (Microsoft Teams, AI Agent, OpenAI Chat Model)
+- [N8N Contact Form Workflow](https://n8n.io/workflows/4337-n8n-contact-form-workflow) — @akhilv7 ✓ — 1,123 views — 1 nodes (Send Email)
+- [List recent ServiceNow Incidents in Slack Using Pop Up Modal](https://n8n.io/workflows/2728-list-recent-servicenow-incidents-in-slack-using-pop-up-modal) — @djangelic ✓ — 1,118 views — 3 nodes (HTTP Request, Slack, ServiceNow)
+- [Automate CSAT Surveys with Freshdesk & Store Responses in Google Sheets](https://n8n.io/workflows/4238-automate-csat-surveys-with-freshdesk-and-store-responses-in) — @Pollup ✓ — 1,048 views — 3 nodes (Send Email, Google Sheets, Freshdesk)
+- [Auto-assign Support Tickets with JIRA, Supabase and AI](https://n8n.io/workflows/3395-auto-assign-support-tickets-with-jira-supabase-and-ai) — @jimleuk ✓ — 1,009 views — 8 nodes (Jira Software, AI Agent, Embeddings OpenAI)
+- [Update specific post-call information on Syncro](https://n8n.io/workflows/1489-update-specific-post-call-information-on-syncro) — @jon-n8n ✓ — 949 views — 2 nodes (Google Sheets, HTTP Request)
+- [Automated Multilingual Gmail Draft Reply with OpenAI GPT-4o](https://n8n.io/workflows/4870-automated-multilingual-gmail-draft-reply-with-openai-gpt-4o) — @henry ✓ — 906 views — 4 nodes (Gmail, Basic LLM Chain, OpenAI Chat Model)
+- [Push Dialpad call information to Syncro](https://n8n.io/workflows/1490-push-dialpad-call-information-to-syncro) — @jon-n8n ✓ — 885 views — 2 nodes (Google Sheets, HTTP Request)
+- [Display ServiceNow Incident Details in Slack using Slash Commands](https://n8n.io/workflows/2727-display-servicenow-incident-details-in-slack-using-slash-com) — @djangelic ✓ — 858 views — 1 nodes (ServiceNow)
+- [Post unassigned Zendesk tickets to Slack](https://n8n.io/workflows/1265-post-unassigned-zendesk-tickets-to-slack) — @8688 — 818 views — 2 nodes (Slack, Zendesk)
+- [Sync Zendesk tickets with subsequent comments to GitHub issues](https://n8n.io/workflows/1832-sync-zendesk-tickets-with-subsequent-comments-to-github-issu) — @n8n-team ✓ — 775 views — 2 nodes (GitHub, Zendesk)
+- [Forward Chatwoot Messages to WhatsApp via Evolution API with Media Support](https://n8n.io/workflows/6544-forward-chatwoot-messages-to-whatsapp-via-evolution-api-with) — @thiagovazzoler ✓ — 596 views — 1 nodes (Code)
+- [Automatically Create Linear Issues from Gmail Support Request Messages](https://n8n.io/workflows/3899-automatically-create-linear-issues-from-gmail-support-reques) — @jimleuk ✓ — 568 views — 5 nodes (Gmail, Linear, Basic LLM Chain)
+- [Categorize Support Tickets with Gemini AI, Typeform, and Google Sheets Reporting](https://n8n.io/workflows/4447-categorize-support-tickets-with-gemini-ai-typeform-and-googl) — @yaron-nofluff ✓ — 526 views — 5 nodes (Send Email, Google Sheets, Code)
+- [🎙️ VoiceFlow AI: Telegram + Deepgram + OpenAI + Supabase Audio Assistant](https://n8n.io/workflows/4638-voiceflow-ai-telegram-deepgram-openai-supabase-audio-ass) — @redone ✓ — 516 views — 5 nodes (HTTP Request, Telegram, AI Agent)
+- [Categorize and Label Incoming Gmail Emails Automatically with GPT-4o mini](https://n8n.io/workflows/5595-categorize-and-label-incoming-gmail-emails-automatically-wit) — @arlindeveloper ✓ — 513 views — 4 nodes (Gmail, AI Agent, OpenAI Chat Model)
+- [AI Email Triage & Alert System with GPT-4 and Telegram Notifications](https://n8n.io/workflows/3968-ai-email-triage-and-alert-system-with-gpt-4-and-telegram-not) — @pjawz — 491 views — 13 nodes (Airtable, HTTP Request, Telegram)
+- [Multi-Channel Customer Support Automation Suite](https://n8n.io/workflows/5135-multi-channel-customer-support-automation-suite) — @solutionflows — 461 views — 3 nodes (Send Email, HTTP Request, Slack)
+- [Update Zammad Roles by Excel](https://n8n.io/workflows/2598-update-zammad-roles-by-excel) — @sirhexalot ✓ — 456 views — 1 nodes (HTTP Request)
+- [Assign Zammad Users to Organizations Based on Email Domain](https://n8n.io/workflows/2588-assign-zammad-users-to-organizations-based-on-email-domain) — @sirhexalot ✓ — 450 views — 1 nodes (Zammad)
+- [Automate Service Ticket Triage with GPT-4o & Taiga](https://n8n.io/workflows/4665-automate-service-ticket-triage-with-gpt-4o-and-taiga) — @emooney — 433 views — 4 nodes (Taiga, AI Agent, OpenAI Chat Model)
+- [Assign Requests Using AI and Send Reminders Based On NocoDB Kanban Board Status](https://n8n.io/workflows/3784-assign-requests-using-ai-and-send-reminders-based-on-nocodb) — @lukaszpp ✓ — 427 views — 6 nodes (Send Email, Slack, NocoDB)
+- [AI Email Assistant: Prioritize Gmail with ChatGPT Summaries and Slack Digests](https://n8n.io/workflows/5446-ai-email-assistant-prioritize-gmail-with-chatgpt-summaries-a) — @n8ndarsheel — 407 views — 5 nodes (Google Sheets, Slack, Gmail)
+- [Automatic Gmail Message Categorization with GPT-4 Content Analysis & Labels](https://n8n.io/workflows/4680-automatic-gmail-message-categorization-with-gpt-4-content-an) — @henry ✓ — 399 views — 4 nodes (Gmail, Basic LLM Chain, OpenAI Chat Model)
+- [ Gmail Customer Support Auto-Responder with Ollama LLM and Pinecone RAG](https://n8n.io/workflows/4760-gmail-customer-support-auto-responder-with-ollama-llm-and-p) — @aashitsharma ✓ — 392 views — 8 nodes (Gmail, AI Agent, Ollama Chat Model)
+- [Create a Two-Way WhatsApp + Telegram Integration for 10k+ Customer Support Chats](https://n8n.io/workflows/8350-create-a-two-way-whatsapp-telegram-integration-for-10k-cust) — @ruthwik ✓ — 333 views — 3 nodes (HTTP Request, Supabase, WhatsApp Business Cloud)
+- [AI-Powered WhatsApp Customer Support for Shopify Brands with LLM Agents](https://n8n.io/workflows/8323-ai-powered-whatsapp-customer-support-for-shopify-brands-with) — @ruthwik ✓ — 306 views — 8 nodes (HTTP Request, Slack, WhatsApp Business Cloud)
+- [Interactive recruitment customer service with WhatsApp, Google Sheets CRM](https://n8n.io/workflows/11604-interactive-recruitment-customer-service-with-whatsapp-googl) — @melhem ✓ — 300 views — 4 nodes (Google Sheets, HTTP Request, Gmail)
+- [Daily Email Digest with AI Summarization using Gmail, OpenRouter and LangChain](https://n8n.io/workflows/5003-daily-email-digest-with-ai-summarization-using-gmail-openrou) — @rawsun007 ✓ — 296 views — 4 nodes (Gmail, AI Agent, Simple Memory)
+- [Automatic Email Categorization & Labeling in Zoho Mail with GPT-4o-mini](https://n8n.io/workflows/8212-automatic-email-categorization-and-labeling-in-zoho-mail-wit) — @ruthwik ✓ — 295 views — 4 nodes (HTTP Request, Code, Text Classifier)
+- [Automate Multi-Channel Customer Support with WhatsApp, Email & AI Translation](https://n8n.io/workflows/5194-automate-multi-channel-customer-support-with-whatsapp-email) — @oneclick-ai ✓ — 278 views — 5 nodes (Send Email, Google Sheets, Google Translate)
+- [🛠️ SyncroMSP Tool MCP Server 💪 all 20 operations](https://n8n.io/workflows/5364-syncromsp-tool-mcp-server-all-20-operations) — @cfomodz ✓ — 271 views — 0 nodes ()
+- [Outlook Inbox Tamer: GPT-4.1 Powered Categorization, Auto Replies & Team Alerts](https://n8n.io/workflows/9529-outlook-inbox-tamer-gpt-41-powered-categorization-auto-repli) — @sandy4v ✓ — 244 views — 5 nodes (Google Sheets, Telegram, Gmail)
+- [Automate Customer Support with Mintlify Documentation & Zendesk AI Agent](https://n8n.io/workflows/5046-automate-customer-support-with-mintlify-documentation-and-ze) — @alexg ✓ — 243 views — 4 nodes (HTTP Request, Code, AI Agent)
+- [Automated Nicereply feedback routing to MS Teams by team and sentiment](https://n8n.io/workflows/10113-automated-nicereply-feedback-routing-to-ms-teams-by-team-and) — @easy8 ✓ — 205 views — 3 nodes (HTTP Request, Microsoft Teams, Code)
+- [Automate IT Support: Convert Emails to Jira Tickets with AI Resolution](https://n8n.io/workflows/6735-automate-it-support-convert-emails-to-jira-tickets-with-ai-r) — @trungtran ✓ — 189 views — 8 nodes (Slack, Jira Software, Gmail)
+- [Starred Slack Messages to Notion Database with AI Auto-Tagging](https://n8n.io/workflows/4502-starred-slack-messages-to-notion-database-with-ai-auto-taggi) — @mattyreed1 ✓ — 173 views — 5 nodes (Slack, Notion, AI Agent)
+- [Zendesk: Visual Summarization, Sentiment Analysis, and Slack Integration](https://n8n.io/workflows/4688-zendesk-visual-summarization-sentiment-analysis-and-slack-in) — @infranodus ✓ — 171 views — 6 nodes (HTTP Request, Slack, Telegram)
+- [Automate Email Management with OpenAI Classification, Gmail Drafts & Slack Alerts](https://n8n.io/workflows/5475-automate-email-management-with-openai-classification-gmail-d) — @zntl — 140 views — 5 nodes (Slack, Gmail, Code)
+- [ AI Email Support System: Gmail, Gemini, GPT-4, Slack & Google Sheets Workflow](https://n8n.io/workflows/6288-ai-email-support-system-gmail-gemini-gpt-4-slack-and-google) — @dae221 ✓ — 99 views — 12 nodes (Google Sheets, Slack, Google Drive)
+- [Smart Gmail auto-labeler with Gemini AI & sender history](https://n8n.io/workflows/11518-smart-gmail-auto-labeler-with-gemini-ai-and-sender-history) — @anasn-farooq ✓ — 97 views — 5 nodes (Gmail, Code, AI Agent)
+- [Automate Gmail Inbox Organization with Rule-based Categorization and Smart Actions](https://n8n.io/workflows/5518-automate-gmail-inbox-organization-with-rule-based-categoriza) — @solidoai ✓ — 85 views — 1 nodes (Gmail)
+- [✉️ Automated Email Sorting & Drafting for Customer Support - with AI 🤖](https://n8n.io/workflows/4279-automated-email-sorting-and-drafting-for-customer-support) — @louisdl ✓ — 77 views — 3 nodes (Gmail, AI Agent, Google Gemini Chat Model)
+- [🛠️ Freshdesk Tool MCP Server 💪 all 10 operations](https://n8n.io/workflows/5269-freshdesk-tool-mcp-server-all-10-operations) — @cfomodz ✓ — 54 views — 0 nodes ()
+- [🛠️ HaloPSA Tool MCP Server 💪 all 20 operations](https://n8n.io/workflows/5243-halopsa-tool-mcp-server-all-20-operations) — @cfomodz ✓ — 51 views — 0 nodes ()
+- [Schedule appointments with manual approval using Google Calendar and Gmail](https://n8n.io/workflows/12419-schedule-appointments-with-manual-approval-using-google-cale) — @smathur — 50 views — 2 nodes (Google Calendar, Gmail)
+- [Multi-Account Email Classifier with AI, Gmail, Discord & Google Sheets](https://n8n.io/workflows/5789-multi-account-email-classifier-with-ai-gmail-discord-and-goo) — @jay-emp0 ✓ — 42 views — 4 nodes (Discord, AI Agent, OpenAI Chat Model)
+- [Inbox Manager (GPT, Google Calendar & Supabase)](https://n8n.io/workflows/6537-inbox-manager-gpt-google-calendar-and-supabase) — @abdulmir ✓ — 37 views — 13 nodes (Telegram, Gmail, Code)
+- [Automatic Email Classification with Gmail and Claude AI](https://n8n.io/workflows/11114-automatic-email-classification-with-gmail-and-claude-ai) — @ayissf ✓ — 37 views — 3 nodes (Gmail, Anthropic Chat Model, Text Classifier)
+- [Classify guest enquiries and send replies with GPT-4o, Gmail and Slack](https://n8n.io/workflows/12946-classify-guest-enquiries-and-send-replies-with-gpt-4o-gmail) — @rahul08 ✓ — 37 views — 5 nodes (Slack, Gmail, AI Agent)
+- [Escalate payment issues with Azure OpenAI, Google Sheets, Slack and Zendesk](https://n8n.io/workflows/13178-escalate-payment-issues-with-azure-openai-google-sheets-slac) — @rahul08 ✓ — 30 views — 7 nodes (Google Sheets, Slack, Zendesk)
+- [Create a Slack AI Chatbot with Threads & Thinking UI using OpenRouter & Postgres](https://n8n.io/workflows/5749-create-a-slack-ai-chatbot-with-threads-and-thinking-ui-using) — @paperjam ✓ — 25 views — 5 nodes (HTTP Request, Slack, AI Agent)
+- [AI-Powered Customer Feedback Analysis & Routing for Gmail, Zendesk, Slack & Pipedrive](https://n8n.io/workflows/9782-ai-powered-customer-feedback-analysis-and-routing-for-gmail) — @Pollup ✓ — 25 views — 5 nodes (AI Agent, Basic LLM Chain, OpenAI Chat Model)
+- [Triage LinkedIn notifications and InMails using Gmail, OpenAI, Notion, and Slack](https://n8n.io/workflows/13121-triage-linkedin-notifications-and-inmails-using-gmail-openai) — @pk-consulting-ai ✓ — 24 views — 6 nodes (Slack, Gmail, Notion)
+- [Automated Customer Feedback Triage & Follow-up with Gemini, Jotform, Gmail, Jira](https://n8n.io/workflows/9976-automated-customer-feedback-triage-and-follow-up-with-gemini) — @zain ✓ — 18 views — 4 nodes (AI Agent, Simple Memory, Structured Output Parser)
+- [Route and categorize Gmail emails to Slack with Llama 3 via OpenRouter](https://n8n.io/workflows/12671-route-and-categorize-gmail-emails-to-slack-with-llama-3-via) — @intuz ✓ — 13 views — 5 nodes (Slack, Code, AI Agent)
+- [Triage emergency patients via chat with GPT-4.1 and hospital systems](https://n8n.io/workflows/12986-triage-emergency-patients-via-chat-with-gpt-41-and-hospital) — @cschin ✓ — 13 views — 8 nodes (HTTP Request, Postgres, Code)
+- [Automate Support Ticket Prioritization with Jotform, Gemini AI, ClickUp Tasks](https://n8n.io/workflows/9736-automate-support-ticket-prioritization-with-jotform-gemini-a) — @zain ✓ — 11 views — 6 nodes (Google Sheets, Slack, ClickUp)
+- [Automate Marker.io Issues to Zendesk Support Tickets with Full Technical Context](https://n8n.io/workflows/7390-automate-markerio-issues-to-zendesk-support-tickets-with-ful) — @markerio ✓ — 8 views — 2 nodes (HTTP Request, Code)
+- [Automated DHL Shipment Tracking Bot for Web Forms and Email Inquiries](https://n8n.io/workflows/9876-automated-dhl-shipment-tracking-bot-for-web-forms-and-email) — @yusuke-yamamoto ✓ — 6 views — 3 nodes (HTTP Request, Gmail, Code)
+- [Email AI Agent (with step by step video)](https://n8n.io/workflows/12955-email-ai-agent-with-step-by-step-video) — @vasarmilan ✓ — 6 views — 3 nodes (Gmail, AI Agent, OpenAI Chat Model)
+- [Automate Marker.io Issues to Intercom Conversations with Full Technical Context](https://n8n.io/workflows/7388-automate-markerio-issues-to-intercom-conversations-with-full) — @markerio ✓ — 5 views — 2 nodes (HTTP Request, Code)
+- [Real-time Vtiger Support Tickets to Telegram with Auto Status Updates](https://n8n.io/workflows/6329-real-time-vtiger-support-tickets-to-telegram-with-auto-statu) — @ahmedsaadawi ✓ — 4 views — 1 nodes (Telegram)
+- [Automated Email Triage with Gmail, GPT-4o, and Slack Urgency Notifications](https://n8n.io/workflows/6588-automated-email-triage-with-gmail-gpt-4o-and-slack-urgency-n) — @siddhant — 4 views — 5 nodes (Google Sheets, Slack, Gmail)
+- [Moderate user content and route governance decisions with Claude and APIs](https://n8n.io/workflows/13154-moderate-user-content-and-route-governance-decisions-with-cl) — @cschin ✓ — 4 views — 4 nodes (HTTP Request, AI Agent, Anthropic Chat Model)
+- [Sync Beex WhatsApp ticket messages with HubSpot contact activities](https://n8n.io/workflows/12744-sync-beex-whatsapp-ticket-messages-with-hubspot-contact-acti) — @zapix ✓ — 3 views — 3 nodes (HTTP Request, HubSpot, Code)
+- [Triage and escalate HubSpot tickets to Jira with Slack SLA alerts](https://n8n.io/workflows/12940-triage-and-escalate-hubspot-tickets-to-jira-with-slack-sla-a) — @Pollup ✓ — 3 views — 5 nodes (HTTP Request, Slack, HubSpot)
+- [Send AI pre-op reminders with Google Calendar, Gmail, Sheets, Slack and GPT-4o](https://n8n.io/workflows/13516-send-ai-pre-op-reminders-with-google-calendar-gmail-sheets-s) — @rahul08 ✓ — 3 views — 8 nodes (Google Sheets, Slack, Google Calendar)
+- [Generate AI voice receptionists for local businesses with Claude, VAPI and Google Maps](https://n8n.io/workflows/12956-generate-ai-voice-receptionists-for-local-businesses-with-cl) — @monetizia ✓ — 3 views — 6 nodes (Google Sheets, HTTP Request, Code)
+- [Enhance Customer Support with RAG-Powered AI](https://n8n.io/workflows/11807-enhance-customer-support-with-rag-powered-ai) — @tuguidragos ✓ — 2 views — 13 nodes (Send Email, Google Sheets, Slack)
+- [Match WooCommerce orders to new Zendesk tickets and send confirmation emails](https://n8n.io/workflows/12906-match-woocommerce-orders-to-new-zendesk-tickets-and-send-con) — @weblineindia ✓ — 2 views — 4 nodes (Zendesk, WooCommerce, Gmail)
+- [Automate Internal Complaint Resolution with Jotform, Gemini AI & Google Sheets](https://n8n.io/workflows/9592-automate-internal-complaint-resolution-with-jotform-gemini-a) — @iamvaar ✓ — 2 views — 5 nodes (Google Sheets, Gmail, AI Agent)
+- [Label Gmail inbox emails with GPT-4o and store them in Mem0](https://n8n.io/workflows/12826-label-gmail-inbox-emails-with-gpt-4o-and-store-them-in-mem0) — @reklaim ✓ — 2 views — 6 nodes (HTTP Request, Gmail, Code)
+- [AI Gmail Support Automation with Google Gemini, OpenAI & Pinecone](https://n8n.io/workflows/10465-ai-gmail-support-automation-with-google-gemini-openai-and-pi) — @ali01 ✓ — 1 views — 7 nodes (Slack, Gmail, AI Agent)
+- [Automate ITSM ticket classification and resolution using Gemini, Qdrant and ServiceNow](https://n8n.io/workflows/10241-automate-itsm-ticket-classification-and-resolution-using-gem) — @nikitha-didikadi — 1 views — 10 nodes (HTTP Request, ServiceNow, AI Agent)
+- [Triage video bug support tickets using WayinVideo and GPT-4o-mini to Google Sheets](https://n8n.io/workflows/14553-triage-video-bug-support-tickets-using-wayinvideo-and-gpt-4o) — @isawow ✓ — 1 views — 4 nodes (Google Sheets, HTTP Request, AI Agent)
+- [AI-Powered Customer Feedback Collection with GPT-4o, Google Sheets & Slack Alerts](https://n8n.io/workflows/8752-ai-powered-customer-feedback-collection-with-gpt-4o-google-s) — @rahul08 ✓ — 1 views — 6 nodes (Google Sheets, Slack, Gmail)
+- [Route and prioritize Gmail support tickets to Notion with Gemini AI and Slack alerts](https://n8n.io/workflows/13770-route-and-prioritize-gmail-support-tickets-to-notion-with-ge) — @okp29 ✓ — 1 views — 5 nodes (Slack, Notion, Code)
+- [Triage and escalate tenant complaints from Gmail or forms to Slack with Claude AI](https://n8n.io/workflows/14292-triage-and-escalate-tenant-complaints-from-gmail-or-forms-to) — @andrewloh — 1 views — 5 nodes (Airtable, Slack, Gmail)
+- [Triage incidents and enforce SLAs with Gemini, Groq, Google Sheets and Slack](https://n8n.io/workflows/14237-triage-incidents-and-enforce-slas-with-gemini-groq-google-sh) — @mychel-garzon ✓ — 1 views — 6 nodes (Google Sheets, Slack, Code)
+- [Triage and reply to multilingual support tickets with Anthropic Claude](https://n8n.io/workflows/13940-triage-and-reply-to-multilingual-support-tickets-with-anthro) — @rnair1996 ✓ — 1 views — 6 nodes (HTTP Request, Code, HTML)
+- [Triage customer support emails with Groq AI, ClickUp and Google Sheets](https://n8n.io/workflows/13289-triage-customer-support-emails-with-groq-ai-clickup-and-goog) — @vivek120819 ✓ — 1 views — 6 nodes (Google Sheets, HTTP Request, Slack)
+- [Travel Itinerary Reminders with Google Calendar, Excel, and SMS/Email Alerts](https://n8n.io/workflows/9846-travel-itinerary-reminders-with-google-calendar-excel-and-sm) — @oneclick-ai ✓ — 1 views — 3 nodes (Google Calendar, Microsoft Excel 365, Code)
+- [Production AI Playbook: Deterministic Steps & AI Steps (5 of 5)](https://n8n.io/workflows/13855-production-ai-playbook-deterministic-steps-and-ai-steps-5-of) — @elvissaravia ✓ — 1 views — 5 nodes (Code, AI Agent, OpenAI Chat Model)
+- [Process Customer Feedback with OpenAI, PDF Reports, Gmail & Slack Notifications](https://n8n.io/workflows/9489-process-customer-feedback-with-openai-pdf-reports-gmail-and) — @jiteshdugar ✓ — 1 views — 5 nodes (Google Sheets, Slack, Gmail)
+- [Chat with GitHub Issues using OpenAI and Redis Vector Search](https://n8n.io/workflows/10837-chat-with-github-issues-using-openai-and-redis-vector-search) — @tishun — 1 views — 7 nodes (HTTP Request, AI Agent, Embeddings OpenAI)
+- [Handle WhatsApp Customer Inquiries with AI and Intent Routing](https://n8n.io/workflows/10240-handle-whatsapp-customer-inquiries-with-ai-and-intent-routin) — @hemantharety ✓ — 1 views — 5 nodes (WhatsApp Business Cloud, Code, AI Agent)
+- [Generate PII-Safe Helpdocs from Crisp Support Chats with GPT-4.1-mini](https://n8n.io/workflows/10773-generate-pii-safe-helpdocs-from-crisp-support-chats-with-gpt) — @cooper ✓ — 1 views — 3 nodes (Code, Basic LLM Chain, OpenAI Chat Model)
+- [Automated Slack IT Helpdesk with GPT, Supabase Vector Search, and JIRA Ticketing](https://n8n.io/workflows/6549-automated-slack-it-helpdesk-with-gpt-supabase-vector-search) — @idsinghbhambra ✓ — 0 views — 8 nodes (Slack, AI Agent, Embeddings OpenAI)
+- [Gmail Email Categorization & Auto Reply with GPT-4o and Google Sheets](https://n8n.io/workflows/10118-gmail-email-categorization-and-auto-reply-with-gpt-4o-and-go) — @harukikuwai8098 ✓ — 0 views — 5 nodes (Google Sheets, Gmail, OpenAI Chat Model)
+- [Handle Zendesk WooCommerce refund tickets with Slack and Gmail](https://n8n.io/workflows/14861-handle-zendesk-woocommerce-refund-tickets-with-slack-and-gma) — @weblineindia ✓ — 0 views — 4 nodes (Slack, WooCommerce, Gmail)
+- [Escalate VIP Zendesk tickets with GPT-4, Slack alerts and email summaries](https://n8n.io/workflows/14530-escalate-vip-zendesk-tickets-with-gpt-4-slack-alerts-and-ema) — @weblineindia ✓ — 0 views — 4 nodes (Airtable, Slack, Gmail)
+- [Analyze support screenshots with UploadToURL, GPT-4o Vision, Zendesk, and Jira](https://n8n.io/workflows/13546-analyze-support-screenshots-with-uploadtourl-gpt-4o-vision-z) — @jiteshdugar ✓ — 0 views — 5 nodes (Slack, Jira Software, Zendesk)
+- [Route Gmail support emails to Zendesk with spam filtering and duplicate checks](https://n8n.io/workflows/13280-route-gmail-support-emails-to-zendesk-with-spam-filtering-an) — @weblineindia ✓ — 0 views — 2 nodes (Zendesk, Code)
+- [AI-Powered Auto-Tagging for Zendesk Tickets using GPT-4.1-mini](https://n8n.io/workflows/11167-ai-powered-auto-tagging-for-zendesk-tickets-using-gpt-41-min) — @ertay ✓ — 0 views — 3 nodes (Zendesk, AI Agent, OpenAI Chat Model)
+- [Zendesk Ticket Summarizer with Pinecone, OpenAI, and Slack](https://n8n.io/workflows/10484-zendesk-ticket-summarizer-with-pinecone-openai-and-slack) — @ertay ✓ — 0 views — 7 nodes (Slack, Zendesk, AI Agent)
+- [AI-Powered Support Automation with Outlook, OpenAI & JIRA Ticketing](https://n8n.io/workflows/7407-ai-powered-support-automation-with-outlook-openai-and-jira-t) — @annieth — 0 views — 6 nodes (Jira Software, Gmail, Microsoft Outlook)
+- [AI-Powered Ticket Triage with Multi-Model Classification & Knowledge Base](https://n8n.io/workflows/11854-ai-powered-ticket-triage-with-multi-model-classification-and) — @cschin ✓ — 0 views — 10 nodes (Postgres, Slack, Code)
+- [Xano Support Ticket Router (AI + Xano Node Integration)](https://n8n.io/workflows/11613-xano-support-ticket-router-ai-xano-node-integration) — @cameron-xano — 0 views — 2 nodes (AI Agent, OpenAI Chat Model)
+- [Customer Support Ticket System for SMEs with Google Sheets and Auto-Emails](https://n8n.io/workflows/8376-customer-support-ticket-system-for-smes-with-google-sheets-a) — @marth ✓ — 0 views — 2 nodes (Send Email, Google Sheets)
+- [AI-Powered Bug Triage System with OpenAI, Jira and Slack Alerts](https://n8n.io/workflows/11697-ai-powered-bug-triage-system-with-openai-jira-and-slack-aler) — @weblineindia ✓ — 0 views — 3 nodes (Slack, Jira Software, OpenAI)
+- [Automated Support Ticket System with Gmail, Trello, and Slack Notifications](https://n8n.io/workflows/7220-automated-support-ticket-system-with-gmail-trello-and-slack) — @marth ✓ — 0 views — 3 nodes (Slack, Trello, Gmail)
+- [Build a Support Ticket Analytics Dashboard with ScrapeGraphAI, Google Sheets & Slack Alerts](https://n8n.io/workflows/6431-build-a-support-ticket-analytics-dashboard-with-scrapegrapha) — @vinci-king-01 ✓ — 0 views — 3 nodes (Google Sheets, Slack, Code)
+- [User-Friendly Technical Support Portal for GLPI Ticket Management](https://n8n.io/workflows/7392-user-friendly-technical-support-portal-for-glpi-ticket-manag) — @integropen ✓ — 0 views — 2 nodes (HTTP Request, Code)
+- [Route support tickets with SLA tracking, Slack alerts, and Gmail confirmations](https://n8n.io/workflows/13163-route-support-tickets-with-sla-tracking-slack-alerts-and-gma) — @manu ✓ — 0 views — 4 nodes (HTTP Request, Slack, Gmail)
+- [Automate Instagram Complaint Handling with Claude AI, Tickets & SLA Management](https://n8n.io/workflows/10324-automate-instagram-complaint-handling-with-claude-ai-tickets) — @oneclick-ai ✓ — 0 views — 3 nodes (Google Sheets, HTTP Request, Slack)
+- [Automate Incident Reporting & Alerts with Forms, Google Sheets and Gmail](https://n8n.io/workflows/7575-automate-incident-reporting-and-alerts-with-forms-google-she) — @weblineindia ✓ — 0 views — 2 nodes (Google Sheets, Gmail)
+- [Automate Marker.io Issues to ServiceNow Incidents with Full Technical Context](https://n8n.io/workflows/8247-automate-markerio-issues-to-servicenow-incidents-with-full-t) — @markerio ✓ — 0 views — 2 nodes (ServiceNow, Code)
+- [Automatically Assign Jira Service Management Reporter from Forwarded Emails](https://n8n.io/workflows/10280-automatically-assign-jira-service-management-reporter-from-f) — @websensepro ✓ — 0 views — 3 nodes (HTTP Request, Jira Software, Code)
+- [Auto-resolve Jira Tickets with GitHub Copilot using Port Context](https://n8n.io/workflows/11728-auto-resolve-jira-tickets-with-github-copilot-using-port-con) — @portio ✓ — 0 views — 2 nodes (GitHub, Jira Software)
+- [Triage product UAT feedback with OpenAI, Jira, Slack, Notion and Google Sheets](https://n8n.io/workflows/12135-triage-product-uat-feedback-with-openai-jira-slack-notion-an) — @yassinzehar ✓ — 0 views — 7 nodes (Google Sheets, Slack, Jira Software)
+- [Generate Personalized Tour Itineraries via Email with GPT-4o and Pinecone](https://n8n.io/workflows/5086-generate-personalized-tour-itineraries-via-email-with-gpt-4o) — @mohan ✓ — 0 views — 10 nodes (Send Email, Code, AI Agent)
+- [Transform Support Emails into FAQs with GPT-4o, Gmail, Notion, and Slack](https://n8n.io/workflows/10340-transform-support-emails-into-faqs-with-gpt-4o-gmail-notion) — @rahul08 ✓ — 0 views — 7 nodes (Google Sheets, Slack, Gmail)
+- [Production AI Playbook: Deterministic Steps & AI Steps (3 of 5)](https://n8n.io/workflows/13852-production-ai-playbook-deterministic-steps-and-ai-steps-3-of) — @elvissaravia ✓ — 0 views — 3 nodes (Code, AI Agent, OpenRouter Chat Model)
+- [Production AI Playbook: Deterministic Steps & AI Steps (2 of 5) ](https://n8n.io/workflows/13851-production-ai-playbook-deterministic-steps-and-ai-steps-2-of) — @elvissaravia ✓ — 0 views — 4 nodes (Code, AI Agent, Structured Output Parser)
+- [Customer Feedback Automation with Sentiment Analysis using GPT-4.1, Jira & Slack](https://n8n.io/workflows/11008-customer-feedback-automation-with-sentiment-analysis-using-g) — @weblineindia ✓ — 0 views — 3 nodes (Slack, Jira Software, OpenAI)
+- [Automated Email Classification & Response System with Groq AI and Pinecone](https://n8n.io/workflows/6202-automated-email-classification-and-response-system-with-groq) — @rnair1996 ✓ — 0 views — 12 nodes (Send Email, HTTP Request, X (Formerly Twitter))
+- [Automated Gmail Classification and Labeling with GPT-4, Sheets and Slack Alerts](https://n8n.io/workflows/11836-automated-gmail-classification-and-labeling-with-gpt-4-sheet) — @chrismielke — 0 views — 7 nodes (Google Sheets, Slack, Gmail)
+- [Automate Dental Appointments with Google Calendar, AI Assistant & Email Notifications](https://n8n.io/workflows/8043-automate-dental-appointments-with-google-calendar-ai-assista) — @shishirislam80 — 0 views — 6 nodes (Google Sheets, Gmail, Code)
+- [Route email actions from Notion with Gmail, Slack, and Jira](https://n8n.io/workflows/14120-route-email-actions-from-notion-with-gmail-slack-and-jira) — @yassinzehar ✓ — 0 views — 4 nodes (Slack, Gmail, Notion)
+- [Route Discord support messages into ClickUp tasks with OpenAI GPT-4.1-mini](https://n8n.io/workflows/14152-route-discord-support-messages-into-clickup-tasks-with-opena) — @itechnotion ✓ — 0 views — 3 nodes (Discord, ClickUp, OpenAI)
+- [Poll Multiple Gmail Accounts with Unified Data Table Storage & Discord Notifications](https://n8n.io/workflows/11721-poll-multiple-gmail-accounts-with-unified-data-table-storage) — @jatinkhatri — 0 views — 2 nodes (Discord, Code)
+- [Route and analyze customer feedback with Qwen3-VL, Tally, PostgreSQL](https://n8n.io/workflows/13314-route-and-analyze-customer-feedback-with-qwen3-vl-tally-post) — @neloy-barman ✓ — 0 views — 7 nodes (HTTP Request, Postgres, Discord)
+- [Create HubSpot support tickets from Tally form submissions](https://n8n.io/workflows/14474-create-hubspot-support-tickets-from-tally-form-submissions) — @growthai ✓ — 0 views — 1 nodes (HubSpot)
+- [Analyze customer feedback and send AI-written replies with GPT-4 and Gmail](https://n8n.io/workflows/12541-analyze-customer-feedback-and-send-ai-written-replies-with-g) — @cschin ✓ — 0 views — 11 nodes (Send Email, Google Sheets, Postgres)
+- [Route and triage support tickets with Claude Sonnet and your CRM](https://n8n.io/workflows/14826-route-and-triage-support-tickets-with-claude-sonnet-and-your) — @rnair1996 ✓ — 0 views — 6 nodes (HTTP Request, Code, HTML)
+- [Route Facebook Story replies to Slack, Telegram, and Supabase CRM by region](https://n8n.io/workflows/13231-route-facebook-story-replies-to-slack-telegram-and-supabase) — @weblineindia ✓ — 0 views — 3 nodes (Slack, Telegram, Supabase)
+- [Automate Customer Support with GPT-4o, Slack, and CRM Integration](https://n8n.io/workflows/10184-automate-customer-support-with-gpt-4o-slack-and-crm-integrat) — @robertsantini — 0 views — 8 nodes (Google Sheets, HTTP Request, Slack)
+- [Monitor & Respond to Shopify Reviews with GPT-4, Slack, Trello & Google Sheets](https://n8n.io/workflows/6478-monitor-and-respond-to-shopify-reviews-with-gpt-4-slack-trel) — @marth ✓ — 0 views — 5 nodes (Google Sheets, Slack, Trello)
+- [Handle e-commerce support, orders and inventory with Claude, Shopify and Slack](https://n8n.io/workflows/13594-handle-e-commerce-support-orders-and-inventory-with-claude-s) — @oneclick-ai ✓ — 0 views — 4 nodes (Send Email, HTTP Request, Postgres)
+- [Automate Gmail Organization with AI-Powered Email Classification and Smart Labeling](https://n8n.io/workflows/11071-automate-gmail-organization-with-ai-powered-email-classifica) — @bhavyshekhaliya ✓ — 0 views — 5 nodes (HTTP Request, Wordpress, Basic LLM Chain)
+- [Automated Email Support Triage with GPT-4, Gmail & Trello](https://n8n.io/workflows/6552-automated-email-support-triage-with-gpt-4-gmail-and-trello) — @marth ✓ — 0 views — 6 nodes (Google Sheets, Slack, Trello)
+- [Moderate Facebook group posts with OpenAI, Slack, and Airtable](https://n8n.io/workflows/13833-moderate-facebook-group-posts-with-openai-slack-and-airtable) — @weblineindia ✓ — 0 views — 5 nodes (Airtable, HTTP Request, Slack)
+- [Automatically Detect & Classify GitHub API Errors with GPT-4o to Airtable, Notion & Slack](https://n8n.io/workflows/10335-automatically-detect-and-classify-github-api-errors-with-gpt) — @rahul08 ✓ — 0 views — 8 nodes (Airtable, Slack, Notion)
+- [Automated GLPI Ticket Deadline Alerts via Microsoft Teams](https://n8n.io/workflows/7436-automated-glpi-ticket-deadline-alerts-via-microsoft-teams) — @integropen ✓ — 0 views — 2 nodes (HTTP Request, Microsoft Teams)
+- [Automate Daily GLPI Pending Ticket Notifications to Microsoft Teams](https://n8n.io/workflows/7018-automate-daily-glpi-pending-ticket-notifications-to-microsof) — @integropen ✓ — 0 views — 2 nodes (HTTP Request, Microsoft Teams)
+- [Classify and Auto-Reply to Emails with Outlook and GPT-4](https://n8n.io/workflows/10583-classify-and-auto-reply-to-emails-with-outlook-and-gpt-4) — @iiiii ✓ — 0 views — 4 nodes (Microsoft Outlook, AI Agent, OpenAI Chat Model)
+- [Classify GitHub issues and create Linear tasks using OpenAI](https://n8n.io/workflows/14357-classify-github-issues-and-create-linear-tasks-using-openai) — @itechnotion ✓ — 0 views — 5 nodes (GitHub, Linear, Code)
+- [Triage and schedule healthcare appointments with Azure OpenAI, Google Sheets and Gmail](https://n8n.io/workflows/13960-triage-and-schedule-healthcare-appointments-with-azure-opena) — @rahul08 ✓ — 0 views — 5 nodes (Google Sheets, Gmail, Code)
+- [Filter spam from webhook form submissions using honeypot and timing checks](https://n8n.io/workflows/14028-filter-spam-from-webhook-form-submissions-using-honeypot-and) — @jagged ✓ — 0 views — 1 nodes (Code)
+- [Triage tickets by ranking next actions with VectorPrime via webhook](https://n8n.io/workflows/12962-triage-tickets-by-ranking-next-actions-with-vectorprime-via) — @vectorprime — 0 views — 2 nodes (HTTP Request, Code)
+- [Track medicine adherence and monitor patients with Google Sheets, OpenAI and Slack](https://n8n.io/workflows/14860-track-medicine-adherence-and-monitor-patients-with-google-sh) — @weblineindia ✓ — 0 views — 4 nodes (Google Sheets, Slack, Code)
+- [Monitor low-rated WooCommerce reviews with Google Sheets, Slack and OpenAI](https://n8n.io/workflows/14528-monitor-low-rated-woocommerce-reviews-with-google-sheets-sla) — @weblineindia ✓ — 0 views — 4 nodes (Google Sheets, HTTP Request, Slack)
+- [Monitor & Respond to Google Maps Reviews using AI, Apify, Slack, and Sheets](https://n8n.io/workflows/11053-monitor-and-respond-to-google-maps-reviews-using-ai-apify-sl) — @takuma ✓ — 0 views — 5 nodes (Google Sheets, Slack, Code)
+- [Monitor Stock Market with AI: News Analysis & Multi-Channel Alerts via Slack & Telegram](https://n8n.io/workflows/10284-monitor-stock-market-with-ai-news-analysis-and-multi-channel) — @tomax ✓ — 0 views — 6 nodes (Airtable, Google Sheets, Slack)
+- [Monitor Emails & Send AI-Generated Auto-Replies with Ollama & Telegram Alerts](https://n8n.io/workflows/10084-monitor-emails-and-send-ai-generated-auto-replies-with-ollam) — @vighsandor ✓ — 0 views — 4 nodes (Send Email, Telegram, Basic LLM Chain)
+- [Moderate Facebook Comments with AI and Send Reports to Slack & Telegram](https://n8n.io/workflows/12028-moderate-facebook-comments-with-ai-and-send-reports-to-slack) — @weblineindia ✓ — 0 views — 6 nodes (HTTP Request, Slack, Telegram)
+- [Transform Email Responses with GPT-4O Mini and Telegram Human-in-the-Loop](https://n8n.io/workflows/5722-transform-email-responses-with-gpt-4o-mini-and-telegram-huma) — @arkhip — 0 views — 4 nodes (Send Email, Telegram, Code)
+- [Automated Gmail Classification & Response System with GPT and WhatsApp Alerts](https://n8n.io/workflows/7092-automated-gmail-classification-and-response-system-with-gpt) — @knabinbhandari ✓ — 0 views — 5 nodes (Gmail, WhatsApp Business Cloud, OpenAI Chat Model)
+- [Automate Email Categorization & Response Generation with Gmail & GPT-4](https://n8n.io/workflows/7262-automate-email-categorization-and-response-generation-with-g) — @diagopl ✓ — 0 views — 3 nodes (Google Sheets, Gmail, OpenAI)
+- [AI-Powered Customer Feedback Routing with Gmail, Slack, Pipedrive, Zendesk & Notion](https://n8n.io/workflows/11628-ai-powered-customer-feedback-routing-with-gmail-slack-pipedr) — @Pollup ✓ — 0 views — 5 nodes (AI Agent, Basic LLM Chain, OpenAI Chat Model)
+- [Route support messages with GPT-4.1-mini, Slack, email and human review](https://n8n.io/workflows/15120-route-support-messages-with-gpt-41-mini-slack-email-and-huma) — @oneclick-ai ✓ — 0 views — 4 nodes (HTTP Request, Code, AI Agent)
+- [Auto-Reply & Create Linear Tickets from Gmail with GPT-5, gotoHuman & Human Review](https://n8n.io/workflows/10065-auto-reply-and-create-linear-tickets-from-gmail-with-gpt-5-g) — @gotohuman ✓ — 0 views — 7 nodes (HTTP Request, Gmail, Linear)
+- [Automate IT Support with Telegram Voice to JIRA Tickets Using Whisper & GPT-4.1 Mini](https://n8n.io/workflows/7137-automate-it-support-with-telegram-voice-to-jira-tickets-usin) — @trungtran ✓ — 0 views — 9 nodes (Slack, Telegram, Google Drive)
+- [Route Typeform responses to Google Sheets, Slack, and Gmail with confirmations](https://n8n.io/workflows/13403-route-typeform-responses-to-google-sheets-slack-and-gmail-wi) — @zaid — 0 views — 3 nodes (Google Sheets, Slack, Gmail)
+- [Automated Customer Support with GPT-4o-mini AI Triage for Google Forms & Gmail](https://n8n.io/workflows/10469-automated-customer-support-with-gpt-4o-mini-ai-triage-for-go) — @daiki-ai ✓ — 0 views — 5 nodes (Google Sheets, Slack, Gmail)
+- [Manage Customer Inquiries from Email & Web Forms with Slack & Google Sheets](https://n8n.io/workflows/10114-manage-customer-inquiries-from-email-and-web-forms-with-slac) — @tsushimaryuto2 ✓ — 0 views — 4 nodes (Google Sheets, Slack, Gmail)
+- [Automate Patient Intake & Symptom Triage with AI, Cal.com and Google Services](https://n8n.io/workflows/6406-automate-patient-intake-and-symptom-triage-with-ai-calcom-an) — @iamvaar ✓ — 0 views — 5 nodes (Google Sheets, Google Calendar, Code)
+- [Post-Surgery Patient Triage & Follow-up System with Gemini AI, Telegram & Google Suite](https://n8n.io/workflows/11649-post-surgery-patient-triage-and-follow-up-system-with-gemini) — @pixcelsthemes ✓ — 0 views — 5 nodes (Google Sheets, Telegram, Code)
+- [Triage customer support emails and draft Gmail replies with IONOS AI Model Hub](https://n8n.io/workflows/14966-triage-customer-support-emails-and-draft-gmail-replies-with) — @fwurtz ✓ — 0 views — 3 nodes (Gmail, Code, Basic LLM Chain)
+- [Route Gmail emails to Slack by intent using OpenAI and log to Sheets](https://n8n.io/workflows/14178-route-gmail-emails-to-slack-by-intent-using-openai-and-log-t) — @anwar ✓ — 0 views — 4 nodes (Google Sheets, Slack, Code)
+- [Generate GEO-optimized support replies from Gmail to Gmail and Slack](https://n8n.io/workflows/11077-generate-geo-optimized-support-replies-from-gmail-to-gmail-a) — @rahul08 ✓ — 0 views — 6 nodes (Slack, Gmail, AI Agent)
+- [Route and log incoming emails with GPT-4, Excel 365 and Telegram](https://n8n.io/workflows/13989-route-and-log-incoming-emails-with-gpt-4-excel-365-and-teleg) — @ramdoni ✓ — 0 views — 5 nodes (Send Email, Telegram, Microsoft Excel 365)
+- [Triage Gmail inbox, draft replies, and alert urgent emails with Claude and Slack](https://n8n.io/workflows/14852-triage-gmail-inbox-draft-replies-and-alert-urgent-emails-wit) — @akshaychug ✓ — 0 views — 6 nodes (Google Sheets, Slack, Gmail)
+- [Send WhatsApp medication reminders and caregiver alerts with WATI and Google Sheets](https://n8n.io/workflows/13702-send-whatsapp-medication-reminders-and-caregiver-alerts-with) — @jiteshdugar ✓ — 0 views — 2 nodes (Google Sheets, Code)
+- [Detect WooCommerce order delays with Gmail and Slack alerts in real time](https://n8n.io/workflows/12904-detect-woocommerce-order-delays-with-gmail-and-slack-alerts) — @weblineindia ✓ — 0 views — 3 nodes (Slack, Gmail, Code)
+- [Manage Contact Form Submissions with Google Sheets, Slack Alerts & Gmail Replies](https://n8n.io/workflows/11643-manage-contact-form-submissions-with-google-sheets-slack-ale) — @h-kawamoto ✓ — 0 views — 4 nodes (Google Sheets, Slack, Gmail)
+- [Create Free Slack Pro Alternative with AI Summaries & Google Drive Archiving](https://n8n.io/workflows/10953-create-free-slack-pro-alternative-with-ai-summaries-and-goog) — @owen-n8nlab ✓ — 0 views — 5 nodes (Slack, Google Drive, AI Agent)
+- [Automate Customer Support Triage with GPT, Gmail, Slack & Analytics Dashboard](https://n8n.io/workflows/10283-automate-customer-support-triage-with-gpt-gmail-slack-and-an) — @tomax ✓ — 0 views — 5 nodes (Airtable, Google Sheets, Slack)
+- [Auto-Sort Support Emails with OpenAI and Route to Teams with Jira Integration](https://n8n.io/workflows/6639-auto-sort-support-emails-with-openai-and-route-to-teams-with) — @oneclick-ai ✓ — 0 views — 3 nodes (Send Email, Jira Software, OpenAI)
+- [Automated Customer Support System with Gemini AI, RAG & Security Guardrails](https://n8n.io/workflows/11580-automated-customer-support-system-with-gemini-ai-rag-and-sec) — @rams1005 ✓ — 0 views — 10 nodes (Airtable, Code, AI Agent)
+- [Build a Website Customer Support Chatbot with Groq AI and Google Sheets Knowledge Base](https://n8n.io/workflows/3364-build-a-website-customer-support-chatbot-with-groq-ai-and-go) — @gegenfeld ✓ — 0 views — 3 nodes (AI Agent, Simple Memory, Groq Chat Model)
+- [Triage contact form enquiries with GPT-4.1, Gmail, Telegram and Data Tables](https://n8n.io/workflows/14593-triage-contact-form-enquiries-with-gpt-41-gmail-telegram-and) — @lukaszb ✓ — 0 views — 5 nodes (Telegram, Gmail, Basic LLM Chain)
+- [Multilingual Email Auto-Replies with DeepL, GPT-4o and Slack Human Approval](https://n8n.io/workflows/10907-multilingual-email-auto-replies-with-deepl-gpt-4o-and-slack) — @asuka-ai ✓ — 0 views — 4 nodes (Slack, Gmail, DeepL)
+- [Automate Email Responses with OpenAI and Telegram Approval for Gmail](https://n8n.io/workflows/6026-automate-email-responses-with-openai-and-telegram-approval-f) — @rawsun007 ✓ — 0 views — 5 nodes (Telegram, Gmail, AI Agent)
+- [Store Gmail Email Details in MySQL Database](https://n8n.io/workflows/6302-store-gmail-email-details-in-mysql-database) — @roshragel ✓ — 0 views — 2 nodes (MySQL, Code)
+- [Predict no-show risk and route reminders with Google Calendar, Sheets, Slack and OpenAI](https://n8n.io/workflows/15108-predict-no-show-risk-and-route-reminders-with-google-calenda) — @ayakerocom — 0 views — 6 nodes (Google Sheets, Slack, Google Calendar)
+- [Send Aloware SMS confirmations, reminders, and no-show rebooking for appointments](https://n8n.io/workflows/15021-send-aloware-sms-confirmations-reminders-and-no-show-rebooki) — @dudnyk ✓ — 0 views — 1 nodes (HTTP Request)
+- [Filter and label Gmail emails using keyword-based rules and Google Sheets logging](https://n8n.io/workflows/13903-filter-and-label-gmail-emails-using-keyword-based-rules-and) — @colehalltechsolutions — 0 views — 3 nodes (Google Sheets, Gmail, Code)
+- [Categorise and label Gmail emails with GPT-4o and OpenAI](https://n8n.io/workflows/13221-categorise-and-label-gmail-emails-with-gpt-4o-and-openai) — @itszacnielsen — 0 views — 2 nodes (Gmail, OpenAI)
+- [AI-Powered Email Inbox Manager with GPT-4, Gmail, and Slack Integration](https://n8n.io/workflows/7011-ai-powered-email-inbox-manager-with-gpt-4-gmail-and-slack-in) — @muhammad-bello ✓ — 0 views — 5 nodes (Slack, Gmail, OpenAI Chat Model)
+- [Triage tenant complaints with GPT-4.1, Slack, email and Google Sheets](https://n8n.io/workflows/12428-triage-tenant-complaints-with-gpt-41-slack-email-and-google) — @hyrum-hurst ✓ — 0 views — 5 nodes (Send Email, Google Sheets, Slack)
+- [Build a private Llama chatbot with Ollama, Groq, Slack and Google Sheets](https://n8n.io/workflows/13811-build-a-private-llama-chatbot-with-ollama-groq-slack-and-goo) — @oneclick-ai ✓ — 0 views — 3 nodes (Google Sheets, HTTP Request, Code)
+- [Automate Consent Dispute Handling with GPT-4o, Google Sheets, Gmail & Slack](https://n8n.io/workflows/11084-automate-consent-dispute-handling-with-gpt-4o-google-sheets) — @rahul08 ✓ — 0 views — 6 nodes (Google Sheets, Slack, Gmail)
+- [Automate Email Triage with GPT-4.1-mini Classification and Gmail Auto-Replies](https://n8n.io/workflows/7399-automate-email-triage-with-gpt-41-mini-classification-and-gm) — @giovannibeggiato — 0 views — 6 nodes (Google Sheets, Gmail, OpenAI Chat Model)
+- [Manage WhatsApp property maintenance tickets with WATI and Google Sheets](https://n8n.io/workflows/13705-manage-whatsapp-property-maintenance-tickets-with-wati-and-g) — @jiteshdugar ✓ — 0 views — 2 nodes (Google Sheets, Code)
+- [Extract Gmail Metadata to Google Sheets](https://n8n.io/workflows/6496-extract-gmail-metadata-to-google-sheets) — @mohammedabid ✓ — 0 views — 2 nodes (Google Sheets, Code)
+- [Classify & Process IT Requests with Jotform, Gemini AI and Google Workspace](https://n8n.io/workflows/10127-classify-and-process-it-requests-with-jotform-gemini-ai-and) — @rullysaputra15 ✓ — 0 views — 6 nodes (Google Sheets, Telegram, Gmail)
+- [Automate Installation Booking Approvals with Slack & Gmail Forms](https://n8n.io/workflows/8124-automate-installation-booking-approvals-with-slack-and-gmail) — @chrisrudy ✓ — 0 views — 2 nodes (Slack, Gmail)
+
+## Internal Wiki (93 workflows)
+
+- [Notion AI Assistant Generator](https://n8n.io/workflows/2415-notion-ai-assistant-generator) — @max-n8n ✓ — 42,016 views — 7 nodes (Notion, Code, AI Agent)
+- [Automate Product Training & Customer Support via WhatsApp, GPT-4 & Google Sheets](https://n8n.io/workflows/3379-automate-product-training-and-customer-support-via-whatsapp) — @drfiras ✓ — 32,249 views — 7 nodes (Google Sheets, HTTP Request, WhatsApp Business Cloud)
+- [🤖 Create a Documentation Expert Bot with RAG, Gemini, and Supabase](https://n8n.io/workflows/5993-create-a-documentation-expert-bot-with-rag-gemini-and-supab) — @lucaspeyrin ✓ — 31,465 views — 10 nodes (HTTP Request, Supabase, HTML)
+- [Chat with GitHub API Documentation: RAG-Powered Chatbot with Pinecone & OpenAI](https://n8n.io/workflows/2705-chat-with-github-api-documentation-rag-powered-chatbot-with) — @mihailtd ✓ — 22,955 views — 9 nodes (HTTP Request, AI Agent, Embeddings OpenAI)
+- [Build an AI Powered Phone Agent 📞🤖 with Retell, Google Calendar and RAG](https://n8n.io/workflows/3563-build-an-ai-powered-phone-agent-with-retell-google-calendar) — @n3witalia ✓ — 22,555 views — 13 nodes (HTTP Request, Telegram, Google Drive)
+- [Telegram AI Chatbot Agent with InfraNodus GraphRAG Knowledge Base](https://n8n.io/workflows/4485-telegram-ai-chatbot-agent-with-infranodus-graphrag-knowledge) — @infranodus ✓ — 20,607 views — 4 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [RAG Starter Template using Simple Vector Stores, Form trigger and OpenAI](https://n8n.io/workflows/5010-rag-starter-template-using-simple-vector-stores-form-trigger) — @n8n-team ✓ — 20,341 views — 5 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [AI-Powered Research Assistant for Platform Questions with GPT-4o and MCP](https://n8n.io/workflows/3303-ai-powered-research-assistant-for-platform-questions-with-gp) — @onurpolat05 ✓ — 17,439 views — 2 nodes (AI Agent, OpenAI Chat Model)
+- [Compose reply draft in Gmail with OpenAI Assistant](https://n8n.io/workflows/2198-compose-reply-draft-in-gmail-with-openai-assistant) — @workfloows ✓ — 17,385 views — 4 nodes (HTTP Request, Gmail, Code)
+- [🤖 Build a Documentation Expert Chatbot with Gemini RAG Pipeline](https://n8n.io/workflows/6137-build-a-documentation-expert-chatbot-with-gemini-rag-pipeli) — @lucaspeyrin ✓ — 17,140 views — 9 nodes (HTTP Request, HTML, AI Agent)
+- [Upsert huge documents in a vector store with Supabase and Notion](https://n8n.io/workflows/2568-upsert-huge-documents-in-a-vector-store-with-supabase-and-no) — @octionic ✓ — 12,261 views — 9 nodes (Notion, Supabase, Question and Answer Chain)
+- [AI-powered email processing autoresponder and response approval (Yes/No)](https://n8n.io/workflows/2861-ai-powered-email-processing-autoresponder-and-response-appro) — @n3witalia ✓ — 10,595 views — 7 nodes (Send Email, Gmail, AI Agent)
+- [Ask a human for help when the AI doesn't know the answer](https://n8n.io/workflows/2095-ask-a-human-for-help-when-the-ai-doesnt-know-the-answer) — @deborah ✓ — 8,850 views — 6 nodes (Slack, Code, AI Agent)
+- [📚 Auto-generate documentation for n8n workflows with GPT and Docsify](https://n8n.io/workflows/2669-auto-generate-documentation-for-n8n-workflows-with-gpt-and) — @eduard ✓ — 8,444 views — 6 nodes (Code, HTML, Basic LLM Chain)
+- [Build a Knowledge Base Chatbot with OpenAI, RAG and MongoDB Vector Embeddings](https://n8n.io/workflows/4526-build-a-knowledge-base-chatbot-with-openai-rag-and-mongodb-v) — @thomasgpt ✓ — 8,234 views — 8 nodes (Google Docs, AI Agent, Embeddings OpenAI)
+- [AI Chatbot Agent with a Panel of Experts using InfraNodus GraphRAG Knowledge](https://n8n.io/workflows/4402-ai-chatbot-agent-with-a-panel-of-experts-using-infranodus-gr) — @infranodus ✓ — 7,212 views — 3 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [KB Tool - Confluence Knowledge Base](https://n8n.io/workflows/2398-kb-tool-confluence-knowledge-base) — @djangelic ✓ — 6,207 views — 1 nodes (HTTP Request)
+- [Bitrix24 AI-Powered RAG Chatbot for Open Line Channels](https://n8n.io/workflows/3094-bitrix24-ai-powered-rag-chatbot-for-open-line-channels) — @fefehun ✓ — 4,903 views — 8 nodes (HTTP Request, Question and Answer Chain, Vector Store Retriever)
+- [Automate WhatsApp Booking System with GPT-4 Assistant, Cal.com and SMS Reminders](https://n8n.io/workflows/4949-automate-whatsapp-booking-system-with-gpt-4-assistant-calcom) — @drfiras ✓ — 4,708 views — 8 nodes (Google Sheets, HTTP Request, seven)
+- [Automatically document n8n workflows directly in Notion database](https://n8n.io/workflows/2151-automatically-document-n8n-workflows-directly-in-notion-data) — @mutasem ✓ — 4,381 views — 2 nodes (HTTP Request, Notion)
+- [Save Costs In RAG Workflows using the Q&A Tool With Multiple Models](https://n8n.io/workflows/5011-save-costs-in-rag-workflows-using-the-qanda-tool-with-multip) — @nik8n ✓ — 3,798 views — 6 nodes (AI Agent, Embeddings OpenAI, OpenAI Chat Model)
+- [Create a Telegram Customer Support Bot with GPT4-mini and Google Docs Knowledge](https://n8n.io/workflows/4875-create-a-telegram-customer-support-bot-with-gpt4-mini-and-go) — @marconi ✓ — 3,479 views — 4 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [Build & Query RAG System with Google Drive, OpenAI GPT-4o-mini, and Pinecone](https://n8n.io/workflows/4501-build-and-query-rag-system-with-google-drive-openai-gpt-4o-m) — @dae221 ✓ — 3,336 views — 7 nodes (Google Drive, AI Agent, Embeddings OpenAI)
+- [Build a Chatbot with Reinforced Learning Human Feedback (RLHF) and RAG](https://n8n.io/workflows/4689-build-a-chatbot-with-reinforced-learning-human-feedback-rlhf) — @thomasgpt ✓ — 3,306 views — 10 nodes (Telegram, Google Docs, Code)
+- [Create Atlassian Confluence page from template](https://n8n.io/workflows/2380-create-atlassian-confluence-page-from-template) — @automaze-me — 3,244 views — 2 nodes (HTTP Request, Code)
+- [Adaptive RAG Strategy with Query Classification & Retrieval (Gemini & Qdrant)](https://n8n.io/workflows/3459-adaptive-rag-strategy-with-query-classification-and-retrieva) — @dmr — 2,380 views — 5 nodes (AI Agent, Simple Memory, Qdrant Vector Store)
+- [WhatsApp AI customer service bot with GPT-4o-mini and Gmail alerts](https://n8n.io/workflows/4456-whatsapp-ai-customer-service-bot-with-gpt-4o-mini-and-gmail) — @ghufran-ridhawi ✓ — 1,998 views — 5 nodes (Gmail, WhatsApp Business Cloud, AI Agent)
+- [Smart Email Draft Generator](https://n8n.io/workflows/5196-smart-email-draft-generator) — @oneclick-ai ✓ — 1,984 views — 3 nodes (Gmail, Basic LLM Chain, Ollama Model)
+- [Automatic WhatsApp response with Groq LLM and conversation memory](https://n8n.io/workflows/3707-automatic-whatsapp-response-with-groq-llm-and-conversation-m) — @ghufran-ridhawi ✓ — 1,954 views — 4 nodes (WhatsApp Business Cloud, AI Agent, Simple Memory)
+- [Chat with PDF / MD / Text Files using GraphRAG (no vector store needed)](https://n8n.io/workflows/4755-chat-with-pdf-md-text-files-using-graphrag-no-vector-sto) — @infranodus ✓ — 1,953 views — 5 nodes (HTTP Request, Google Drive, AI Agent)
+- [🤖 Self Improving Email AI Support with Human-in-the-Loop](https://n8n.io/workflows/8779-self-improving-email-ai-support-with-human-in-the-loop) — @lucaspeyrin ✓ — 1,937 views — 6 nodes (Google Sheets, Gmail, Basic LLM Chain)
+- [🤖🚚 AI agent for transportation orders management with GPT-4o and Open Route API](https://n8n.io/workflows/4692-ai-agent-for-transportation-orders-management-with-gpt-4o-a) — @samirsaci ✓ — 1,586 views — 6 nodes (Google Sheets, HTTP Request, Gmail)
+- [Add positive feedback messages to a table in Notion](https://n8n.io/workflows/1109-add-positive-feedback-messages-to-a-table-in-notion) — @harshil1712 ✓ — 1,381 views — 4 nodes (Slack, Trello, Google Cloud Natural Language)
+- [Create a RAG System with Paul Essays, Milvus, and OpenAI for Cited Answers](https://n8n.io/workflows/3573-create-a-rag-system-with-paul-essays-milvus-and-openai-for-c) — @zc277584121 ✓ — 1,186 views — 9 nodes (HTTP Request, Code, HTML)
+- [Schedule Appointments via Telegram with GPT-4o & Google Calendar](https://n8n.io/workflows/4446-schedule-appointments-via-telegram-with-gpt-4o-and-google-ca) — @marconi ✓ — 1,137 views — 4 nodes (Telegram, AI Agent, OpenAI Chat Model)
+- [AI-Powered RAG Q&A Chatbot with OpenAI, Google Sheets, Glide & Supabase](https://n8n.io/workflows/4071-ai-powered-rag-qanda-chatbot-with-openai-google-sheets-glide) — @samyassine ✓ — 1,100 views — 12 nodes (HTTP Request, Google Drive, Google Calendar)
+- [Build an AI IT Support Agent with Azure Search, Entra ID & Jira](https://n8n.io/workflows/4560-build-an-ai-it-support-agent-with-azure-search-entra-id-and) — @adbertram ✓ — 748 views — 5 nodes (HTTP Request, Code, AI Agent)
+- [Automated Restaurant Call Handling & Table Booking System with VAPI and PostgreSQL](https://n8n.io/workflows/5466-automated-restaurant-call-handling-and-table-booking-system) — @oneclick-ai ✓ — 559 views — 1 nodes (Postgres)
+- [AI Email Auto-Responder System- AI RAG Agent for Email Inbox](https://n8n.io/workflows/4748-ai-email-auto-responder-system-ai-rag-agent-for-email-inbox) — @lukaszb ✓ — 502 views — 14 nodes (Google Drive, Gmail, Notion)
+- [Create Secure Interactive Applications with WhatsApp Flows End-to-End Encryption](https://n8n.io/workflows/3973-create-secure-interactive-applications-with-whatsapp-flows-e) — @flavioangeleu — 424 views — 1 nodes (Code)
+- [Enhance AI Chatbot Responses with InfraNodus Knowledge Graph Reasoning](https://n8n.io/workflows/6887-enhance-ai-chatbot-responses-with-infranodus-knowledge-graph) — @infranodus ✓ — 305 views — 1 nodes (HTTP Request)
+- [Instant Gmail Notifications for Google Form Submissions](https://n8n.io/workflows/7432-instant-gmail-notifications-for-google-form-submissions) — @yassinzehar ✓ — 217 views — 2 nodes (Gmail, Code)
+- [N8N Documentation Expert Chatbot with OpenAI RAG Pipeline](https://n8n.io/workflows/6281-n8n-documentation-expert-chatbot-with-openai-rag-pipeline) — @ayhamjo7 — 183 views — 9 nodes (HTTP Request, HTML, AI Agent)
+- [Chat with Google Drive documents using OpenAI and Pinecone RAG search](https://n8n.io/workflows/11870-chat-with-google-drive-documents-using-openai-and-pinecone-r) — @pinecone ✓ — 178 views — 8 nodes (Google Drive, AI Agent, Embeddings OpenAI)
+- [Email Support Agent w/ Gemini & GPT fallback using Gmail + Google Sheets](https://n8n.io/workflows/6287-email-support-agent-w-gemini-and-gpt-fallback-using-gmail) — @dae221 ✓ — 145 views — 5 nodes (Gmail, AI Agent, OpenAI Chat Model)
+- [Automate Google My Business responses with Gemini AI and Google Sheets tracking](https://n8n.io/workflows/11503-automate-google-my-business-responses-with-gemini-ai-and-goo) — @malikx ✓ — 127 views — 4 nodes (Google Sheets, Code, Google Business Profile)
+- [Gmail MCP Workflow - AI-Powered Email Management](https://n8n.io/workflows/5423-gmail-mcp-workflow-ai-powered-email-management) — @dae221 ✓ — 123 views — 0 nodes ()
+- [WhatsApp support assistant with GPT-4 Mini & Google Sheets data training](https://n8n.io/workflows/6452-whatsapp-support-assistant-with-gpt-4-mini-and-google-sheets) — @spagreen ✓ — 111 views — 5 nodes (HTTP Request, Code, AI Agent)
+- [Build Your First AI Agent with ChatGPT-5](https://n8n.io/workflows/8597-build-your-first-ai-agent-with-chatgpt-5) — @drfiras ✓ — 81 views — 4 nodes (AI Agent, OpenAI Chat Model, Simple Memory)
+- [Adaptive email auto-responder with GPT-4, RAG and human feedback loop](https://n8n.io/workflows/8802-adaptive-email-auto-responder-with-gpt-4-rag-and-human-feedb) — @leeweihernandez07 ✓ — 80 views — 11 nodes (Google Sheets, Gmail, AI Agent)
+- [WooCommerce Order Updates to Customers via WhatsApp with Rapiwa API](https://n8n.io/workflows/9880-woocommerce-order-updates-to-customers-via-whatsapp-with-rap) — @rapiwa ✓ — 80 views — 2 nodes (Google Sheets, Code)
+- [Auto-Update Knowledge Base with Drive, LlamaIndex & Azure OpenAI Embeddings](https://n8n.io/workflows/9174-auto-update-knowledge-base-with-drive-llamaindex-and-azure-o) — @khmuhtadin ✓ — 74 views — 5 nodes (HTTP Request, Google Drive, Simple Vector Store)
+- [Automate Patient Journey with GPT-4, Twilio & Slack Notifications](https://n8n.io/workflows/6517-automate-patient-journey-with-gpt-4-twilio-and-slack-notific) — @marth ✓ — 44 views — 3 nodes (Slack, Twilio, OpenAI)
+- [Turn a YouTube channel into a second brain with Neo4j GraphRAG and GPT-4o-mini](https://n8n.io/workflows/12812-turn-a-youtube-channel-into-a-second-brain-with-neo4j-graphr) — @monetizia ✓ — 26 views — 5 nodes (HTTP Request, AI Agent, Simple Memory)
+- [Draft personalized Outlook support email replies with Supabase RAG and OpenAI](https://n8n.io/workflows/12839-draft-personalized-outlook-support-email-replies-with-supaba) — @matthew-synteria ✓ — 15 views — 8 nodes (Google Sheets, Microsoft Outlook, Supabase)
+- [Build a Google Drive internal knowledge base with OpenAI and Pinecone](https://n8n.io/workflows/13959-build-a-google-drive-internal-knowledge-base-with-openai-and) — @rahul08 ✓ — 4 views — 9 nodes (Google Sheets, Google Drive, Gmail)
+- [Automate Customer Support with WhatsApp AI Assistant for Whatsapp Groups ](https://n8n.io/workflows/6387-automate-customer-support-with-whatsapp-ai-assistant-for-wha) — @jamot ✓ — 3 views — 6 nodes (Google Sheets, Google Docs, Code)
+- [Turn websites into RAG chatbot knowledge bases with Apify, OpenAI and Pinecone](https://n8n.io/workflows/13248-turn-websites-into-rag-chatbot-knowledge-bases-with-apify-op) — @hellopaul ✓ — 3 views — 3 nodes (Code, Pinecone Vector Store, OpenAI)
+- [Build a cost-efficient Lookio RAG chatbot with GPT-4.1 models for knowledge Q&A](https://n8n.io/workflows/12521-build-a-cost-efficient-lookio-rag-chatbot-with-gpt-41-models) — @duv ✓ — 3 views — 6 nodes (HTTP Request, Basic LLM Chain, OpenAI Chat Model)
+- [Summarize and answer Re:amaze support emails with Gemini and SOP knowledge base](https://n8n.io/workflows/14168-summarize-and-answer-reamaze-support-emails-with-gemini-and) — @divyanshugupta ✓ — 2 views — 6 nodes (HTTP Request, AI Agent, Structured Output Parser)
+- [AI Prompt Hub (Notion + ChatGPT): Auto-Find the Right Prompt with Embeddings](https://n8n.io/workflows/11194-ai-prompt-hub-notion-chatgpt-auto-find-the-right-prompt-wit) — @yahordubrouski — 2 views — 7 nodes (HTTP Request, Notion, Code)
+- [Send verified building visitor entry passes with Gmail, Slack and VerifiEmail](https://n8n.io/workflows/10464-send-verified-building-visitor-entry-passes-with-gmail-slack) — @jiteshdugar ✓ — 2 views — 3 nodes (HTTP Request, Slack, Gmail)
+- [Create a Code Assistant that Learns from your GitHub Repository using OpenAI](https://n8n.io/workflows/9993-create-a-code-assistant-that-learns-from-your-github-reposit) — @nghiaaidev ✓ — 1 views — 10 nodes (GitHub, HTTP Request, AI Agent)
+- [Send customer visit notifications from Google Calendar to Slack and Sheets](https://n8n.io/workflows/13111-send-customer-visit-notifications-from-google-calendar-to-sl) — @bhsoft ✓ — 1 views — 5 nodes (Google Sheets, HTTP Request, Google Drive)
+- [Retrieve and answer Gmail email queries with Llama 3.2, mxbai-embed, and Qdrant](https://n8n.io/workflows/14268-retrieve-and-answer-gmail-email-queries-with-llama-32-mxbai) — @neloy-barman ✓ — 1 views — 5 nodes (HTTP Request, Google Drive, Gmail)
+- [Client FAQ Bot with RAG using Google Drive PDFs & Azure GPT-4o-mini](https://n8n.io/workflows/7052-client-faq-bot-with-rag-using-google-drive-pdfs-and-azure-gp) — @rahul08 ✓ — 0 views — 3 nodes (Google Drive, Basic LLM Chain, Azure OpenAI Chat Model)
+- [Create AI FAQ articles from Slack threads into Notion and Zendesk](https://n8n.io/workflows/12019-create-ai-faq-articles-from-slack-threads-into-notion-and-ze) — @uekusa ✓ — 0 views — 5 nodes (Slack, Zendesk, Notion)
+- [Automated Email Responses with GPT-4O & Supabase Conversation Memory](https://n8n.io/workflows/9970-automated-email-responses-with-gpt-4o-and-supabase-conversat) — @lukmanabdh — 0 views — 13 nodes (HTTP Request, Postgres, Microsoft Outlook)
+- [Control AI agent tool access with Port RBAC and Slack mentions](https://n8n.io/workflows/12062-control-ai-agent-tool-access-with-port-rbac-and-slack-mentio) — @portio ✓ — 0 views — 8 nodes (HTTP Request, Slack, AI Agent)
+- [Convert Supabase support FAQs to audio with Google Cloud TTS and Webflow](https://n8n.io/workflows/14975-convert-supabase-support-faqs-to-audio-with-google-cloud-tts) — @jiteshdugar ✓ — 0 views — 2 nodes (HTTP Request, Code)
+- [Automate Gmail Responses with GPT and Human-in-the-loop Verification](https://n8n.io/workflows/10344-automate-gmail-responses-with-gpt-and-human-in-the-loop-veri) — @tropicflare — 0 views — 4 nodes (Gmail, Code, OpenAI Chat Model)
+- [Generate n8n workflows from chat using MCP tools, Claude and Postgres](https://n8n.io/workflows/14990-generate-n8n-workflows-from-chat-using-mcp-tools-claude-and) — @salmanmehboob ✓ — 0 views — 4 nodes (AI Agent, Postgres Chat Memory, OpenRouter Chat Model)
+- [Improve AI support email drafts with Gmail, OpenAI and PostgreSQL](https://n8n.io/workflows/13978-improve-ai-support-email-drafts-with-gmail-openai-and-postgr) — @vivek120819 ✓ — 0 views — 7 nodes (HTTP Request, Postgres, Gmail)
+- [Create ticket for duplicate devices in Syncro](https://n8n.io/workflows/3210-create-ticket-for-duplicate-devices-in-syncro) — @davejlong — 0 views — 1 nodes (Code)
+- [Monitor Google reviews and draft GPT-4o-mini replies via Gmail daily](https://n8n.io/workflows/14896-monitor-google-reviews-and-draft-gpt-4o-mini-replies-via-gma) — @isawow ✓ — 0 views — 5 nodes (HTTP Request, Gmail, Code)
+- [Error Monitor: AI-Powered Resolution [Context7, Supabase]](https://n8n.io/workflows/11219-error-monitor-ai-powered-resolution-context7-supabase) — @kzdev — 0 views — 6 nodes (Send Email, Supabase, Code)
+- [Chat with Documents via RAG: Google Drive to GPT-5 with Supabase Vector Database](https://n8n.io/workflows/7308-chat-with-documents-via-rag-google-drive-to-gpt-5-with-supab) — @diagopl ✓ — 0 views — 13 nodes (Slack, Telegram, Google Drive)
+- [Automated Product Email Support with GPT-4.1, Pinecone RAG, and Gmail](https://n8n.io/workflows/10194-automated-product-email-support-with-gpt-41-pinecone-rag-and) — @fayzul-noor ✓ — 0 views — 8 nodes (Gmail, AI Agent, Basic LLM Chain)
+- [Send AI-parsed restaurant orders and status updates via Telegram and Google Sheets](https://n8n.io/workflows/14136-send-ai-parsed-restaurant-orders-and-status-updates-via-tele) — @niravgajera ✓ — 0 views — 6 nodes (Google Sheets, HTTP Request, Telegram)
+- [Email to Notion Knowledge Base with IMAP, Postgres Dedup and Telegram Alert](https://n8n.io/workflows/7385-email-to-notion-knowledge-base-with-imap-postgres-dedup-and) — @shioon — 0 views — 4 nodes (Postgres, Telegram, Notion)
+- [Build a Retrieval-Based Chatbot with Telegram, OpenAI and Google Drive PDF Backup](https://n8n.io/workflows/6994-build-a-retrieval-based-chatbot-with-telegram-openai-and-goo) — @trungtran ✓ — 0 views — 8 nodes (Telegram, Google Drive, Code)
+- [WhatsApp Fact-Checking Bot with Perplexity AI and Twilio](https://n8n.io/workflows/6842-whatsapp-fact-checking-bot-with-perplexity-ai-and-twilio) — @harshmaniya1 ✓ — 0 views — 2 nodes (Twilio, Perplexity)
+- [Categorize Emails & Get Telegram Alerts with Azure OpenAI & Google Sheets](https://n8n.io/workflows/6736-categorize-emails-and-get-telegram-alerts-with-azure-openai) — @mookielian ✓ — 0 views — 6 nodes (Google Sheets, Telegram, AI Agent)
+- [Process Voice Notes to AI Responses with Claude Sonnet, Nuclino & Slack](https://n8n.io/workflows/6657-process-voice-notes-to-ai-responses-with-claude-sonnet-nucli) — @danielrosehill ✓ — 0 views — 5 nodes (HTTP Request, Slack, NocoDB)
+- [Comprehensive Customer Support with OpenAI O3 + GPT-4.1-mini Multi-Agent Team](https://n8n.io/workflows/6913-comprehensive-customer-support-with-openai-o3-gpt-41-mini-m) — @yaron-nofluff ✓ — 0 views — 4 nodes (AI Agent, OpenAI Chat Model, Think Tool)
+- [RAG-Powered Document Chatbot with OpenAI & Gemini for Multi-Format Documents](https://n8n.io/workflows/7371-rag-powered-document-chatbot-with-openai-and-gemini-for-mult) — @franck-f ✓ — 0 views — 8 nodes (Code, AI Agent, OpenAI Chat Model)
+- [Build an OpenAI RAG system with document upload, semantic search and caching](https://n8n.io/workflows/14827-build-an-openai-rag-system-with-document-upload-semantic-sea) — @rnair1996 ✓ — 0 views — 8 nodes (Postgres, AI Agent, Embeddings OpenAI)
+- [Beautiful Web UI for GPT-4 Multi-Agent Chat with Specialized Assistants](https://n8n.io/workflows/9901-beautiful-web-ui-for-gpt-4-multi-agent-chat-with-specialized) — @hugo-misery — 0 views — 3 nodes (Code, AI Agent, OpenAI Chat Model)
+- [Classify Developer Questions with GPT-4o from Slack to Notion & Airtable](https://n8n.io/workflows/10339-classify-developer-questions-with-gpt-4o-from-slack-to-notio) — @rahul08 ✓ — 0 views — 6 nodes (Airtable, Google Sheets, Notion)
+- [Two-Stage Document Retrieval Chatbot with OpenAI and Supabase Vector Search](https://n8n.io/workflows/5436-two-stage-document-retrieval-chatbot-with-openai-and-supabas) — @lowcodingdev ✓ — 0 views — 5 nodes (HTTP Request, Supabase, Code)
+- [Find the most relevant workflow templates using RAG, Qdrant and Gemini](https://n8n.io/workflows/15081-find-the-most-relevant-workflow-templates-using-rag-qdrant-a) — @arofiqimaulana ✓ — 0 views — 8 nodes (HTTP Request, Code, AI Agent)
+- [Create a Searchable YouTube Educator Directory with Smart Keyword Matching](https://n8n.io/workflows/10518-create-a-searchable-youtube-educator-directory-with-smart-ke) — @dae221 ✓ — 0 views — 1 nodes (Code)
+- [Multi-Language Telegram RAG Chatbot with Supervisor AI & Automated Google Drive Pipeline](https://n8n.io/workflows/6158-multi-language-telegram-rag-chatbot-with-supervisor-ai-and-a) — @danielng ✓ — 0 views — 15 nodes (Google Sheets, HTTP Request, Telegram)
+
+## Other (41 workflows)
+
+- [Ask questions about a PDF using AI](https://n8n.io/workflows/1960-ask-questions-about-a-pdf-using-ai) — @davidn8n ✓ — 118,063 views — 9 nodes (Google Drive, Question and Answer Chain, Binary Input Loader)
+- [Suggest meeting slots using AI](https://n8n.io/workflows/1953-suggest-meeting-slots-using-ai) — @n8n-team ✓ — 78,236 views — 4 nodes (Gmail, AI Agent, OpenAI Chat Model)
+- [Gmail AI Auto-Responder: Create Draft Replies to incoming emails](https://n8n.io/workflows/2271-gmail-ai-auto-responder-create-draft-replies-to-incoming-ema) — @nchourrout — 54,727 views — 4 nodes (Gmail, Basic LLM Chain, OpenAI Chat Model)
+- [AI chat with any data source (using the n8n workflow tool)](https://n8n.io/workflows/2026-ai-chat-with-any-data-source-using-the-n8n-workflow-tool) — @davidn8n ✓ — 42,185 views — 5 nodes (Hacker News, Code, AI Agent)
+- [Effortless Email Management with AI-Powered Summarization & Review](https://n8n.io/workflows/2862-effortless-email-management-with-ai-powered-summarization-an) — @n3witalia ✓ — 26,870 views — 12 nodes (Send Email, HTTP Request, Google Drive)
+- [Discord AI-powered bot](https://n8n.io/workflows/1938-discord-ai-powered-bot) — @eduard ✓ — 20,568 views — 2 nodes (Discord, OpenAI)
+- [A Very Simple "Human in the Loop" Email Response System Using AI and IMAP](https://n8n.io/workflows/2907-a-very-simple-human-in-the-loop-email-response-system-using) — @n3witalia ✓ — 16,049 views — 4 nodes (Send Email, AI Agent, Summarization Chain)
+- [Automate Call Scheduling with Voice AI Receptionist using Vapi, Google Calendar & Airtable](https://n8n.io/workflows/3427-automate-call-scheduling-with-voice-ai-receptionist-using-va) — @customaistudio — 15,822 views — 3 nodes (Airtable, Google Calendar, Code)
+- [AI: Ask questions about any data source (using the n8n workflow retriever)](https://n8n.io/workflows/1958-ai-ask-questions-about-any-data-source-using-the-n8n-workflo) — @n8n-team ✓ — 9,358 views — 3 nodes (Question and Answer Chain, OpenAI Chat Model, Workflow Retriever)
+- [AI Customer feedback sentiment analysis](https://n8n.io/workflows/1996-ai-customer-feedback-sentiment-analysis) — Unknown — 9,050 views — 2 nodes (Google Sheets, OpenAI)
+- [Receive updates from Telegram and send an image](https://n8n.io/workflows/782-receive-updates-from-telegram-and-send-an-image) — @harshil1712 ✓ — 7,752 views — 2 nodes (HTTP Request, Telegram)
+- [Send a Whatsapp message via Twilio when a certain Onfleet event happens](https://n8n.io/workflows/1525-send-a-whatsapp-message-via-twilio-when-a-certain-onfleet-ev) — @ilsemaj ✓ — 2,452 views — 1 nodes (Twilio)
+- [Create a document in outline for each new GitLab release](https://n8n.io/workflows/1375-create-a-document-in-outline-for-each-new-gitlab-release) — @tennox ✓ — 2,402 views — 1 nodes (HTTP Request)
+- [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant](https://n8n.io/workflows/9942-rag-powered-document-chat-with-google-drive-openai-and-pinec) — @pinecone ✓ — 2,001 views — 3 nodes (Google Drive, AI Agent, OpenAI Chat Model)
+- [AI-Powered Document Chat with Nextcloud Files using LangChain and OpenAI](https://n8n.io/workflows/4465-ai-powered-document-chat-with-nextcloud-files-using-langchai) — @johappel — 562 views — 6 nodes (Nextcloud, Code, AI Agent)
+- [Get all mailboxes from Help Scout](https://n8n.io/workflows/567-get-all-mailboxes-from-help-scout) — @sm-amudhan ✓ — 523 views — 1 nodes (Help Scout)
+- [Receive updates when a customer is created in HelpScout](https://n8n.io/workflows/669-receive-updates-when-a-customer-is-created-in-helpscout) — @harshil1712 ✓ — 486 views — 0 nodes ()
+- [Send feedback from Google Sheets to Mattermost](https://n8n.io/workflows/731-send-feedback-from-google-sheets-to-mattermost) — @sm-amudhan ✓ — 400 views — 2 nodes (Google Sheets, Mattermost)
+- [WhatsApp Appointment Scheduling with Google Calendar](https://n8n.io/workflows/5855-whatsapp-appointment-scheduling-with-google-calendar) — @boanse ✓ — 357 views — 4 nodes (Postgres, Google Calendar, WhatsApp Business Cloud)
+- [Create and Join Call Sessions with Plivo and UltraVox AI Voice Assistant](https://n8n.io/workflows/3392-create-and-join-call-sessions-with-plivo-and-ultravox-ai-voi) — @yohita — 307 views — 1 nodes (HTTP Request)
+- [Update all Zammad Roles to default values](https://n8n.io/workflows/2597-update-all-zammad-roles-to-default-values) — @sirhexalot ✓ — 303 views — 2 nodes (HTTP Request, Zammad)
+- [Process Documents with Recursive Chunking using Google Drive, OpenAI & Gemini RAG](https://n8n.io/workflows/5521-process-documents-with-recursive-chunking-using-google-drive) — @binbakhsh — 262 views — 11 nodes (Google Drive, Code, AI Agent)
+- [Automate FAQ Responses with WhatsApp Keyword Detection Bot](https://n8n.io/workflows/5516-automate-faq-responses-with-whatsapp-keyword-detection-bot) — @solidoai ✓ — 184 views — 1 nodes (WhatsApp Business Cloud)
+- [Email-Based Book Recommendations with Ollama LLM and OpenLibrary API](https://n8n.io/workflows/5615-email-based-book-recommendations-with-ollama-llm-and-openlib) — @oneclick-ai ✓ — 77 views — 5 nodes (Send Email, HTTP Request, Code)
+- [Airtable SMS Sender - Bulk Text Sender Template for Airtable](https://n8n.io/workflows/8682-airtable-sms-sender-bulk-text-sender-template-for-airtable) — @vasarmilan ✓ — 32 views — 2 nodes (Airtable, Twilio)
+- [Book, manage, and check appointments using Vapi and Google Calendar](https://n8n.io/workflows/12831-book-manage-and-check-appointments-using-vapi-and-google-cal) — @johnpaulnwagwu — 29 views — 2 nodes (Google Calendar, Code)
+- [Create Your First AI Agent](https://n8n.io/workflows/9311-create-your-first-ai-agent) — @devcodejourney ✓ — 27 views — 2 nodes (AI Agent, Google Gemini Chat Model)
+- [Schedule appointments from a booking form with Google Calendar and Gmail](https://n8n.io/workflows/13923-schedule-appointments-from-a-booking-form-with-google-calend) — @teomastro ✓ — 5 views — 3 nodes (Google Calendar, Gmail, Code)
+- [Score call quality and send coaching emails with Gemini, OpenAI, and Gmail](https://n8n.io/workflows/12765-score-call-quality-and-send-coaching-emails-with-gemini-open) — @arais415 ✓ — 5 views — 8 nodes (Google Drive, Gmail, AI Agent)
+- [fluidX THE EYE — Create & invite via SMS for live camera session](https://n8n.io/workflows/10724-fluidx-the-eye-create-and-invite-via-sms-for-live-camera-se) — @superoel — 1 views — 5 nodes (Send Email, HTTP Request, Google Drive)
+- [Process refund requests from Gmail using Shopify and Google Sheets](https://n8n.io/workflows/14524-process-refund-requests-from-gmail-using-shopify-and-google) — @itechnotion ✓ — 0 views — 6 nodes (Google Sheets, Shopify, Gmail)
+- [Send multi-tenant reminders via Telegram from webhooks and schedule with Postgres logging](https://n8n.io/workflows/13877-send-multi-tenant-reminders-via-telegram-from-webhooks-and-s) — @lucashideki ✓ — 0 views — 3 nodes (Postgres, Telegram, Code)
+- [Send Automated Appointment Reminders via SMS with Twilio Webhook](https://n8n.io/workflows/6932-send-automated-appointment-reminders-via-sms-with-twilio-web) — @dae221 ✓ — 0 views — 2 nodes (Twilio, Code)
+- [Automated Email Inquiry Processing & Routing with Gmail and Gemini AI](https://n8n.io/workflows/6633-automated-email-inquiry-processing-and-routing-with-gmail-an) — @oneclick-ai ✓ — 0 views — 4 nodes (Gmail, Code, AI Agent)
+- [Dental Clinic Appointment & Admin System with Supabase, Phone Integration & AI](https://n8n.io/workflows/11463-dental-clinic-appointment-and-admin-system-with-supabase-pho) — @isight ✓ — 0 views — 3 nodes (Supabase, AI Agent, OpenAI Chat Model)
+- [AI-Powered Reservation Reminder Calls for Restaurant with Twilio & Grok-4](https://n8n.io/workflows/6135-ai-powered-reservation-reminder-calls-for-restaurant-with-tw) — @n3witalia ✓ — 0 views — 4 nodes (Google Sheets, Twilio, AI Agent)
+- [Send Automated Patient Appointment Reminders via Email & SMS with Multi-Database Support](https://n8n.io/workflows/6548-send-automated-patient-appointment-reminders-via-email-and-s) — @dae221 ✓ — 0 views — 6 nodes (Airtable, Send Email, Google Sheets)
+- [Process website contact form submissions with SharePoint and Gmail](https://n8n.io/workflows/14981-process-website-contact-form-submissions-with-sharepoint-and) — @legalgpts ✓ — 0 views — 3 nodes (Gmail, Code, Microsoft SharePoint)
+- [Send Return Pickup Reminders via WhatsApp & Voice Calls using Google Sheets](https://n8n.io/workflows/12148-send-return-pickup-reminders-via-whatsapp-and-voice-calls-us) — @infyom ✓ — 0 views — 4 nodes (Google Sheets, HTTP Request, Twilio)
+- [Automate Zoom Attendance Follow-ups with Recordings & Google Sheets Tracking](https://n8n.io/workflows/12050-automate-zoom-attendance-follow-ups-with-recordings-and-goog) — @naoya-495 ✓ — 0 views — 6 nodes (Send Email, Google Sheets, HTTP Request)
+- [Chat with Gemini AI through Local CLI via SSH](https://n8n.io/workflows/11843-chat-with-gemini-ai-through-local-cli-via-ssh) — @elitiv — 0 views — 4 nodes (AI Agent, Simple Memory, Call n8n Workflow Tool)
+
+## Top Verified Creators
+
+- @n3witalia (Davide Boizza): 27 workflows, 357,597 total views
+- @davidn8n (David Roberts): 4 workflows, 238,525 total views
+- @jimleuk (Jimleuk): 14 workflows, 156,952 total views
+- @n8n-team (n8n Team): 8 workflows, 148,176 total views
+- @joe (Joseph LePage): 5 workflows, 139,787 total views
+- @solomon (Solomon): 1 workflows, 133,537 total views
+- @nocodecreative (Wayne Simpson): 2 workflows, 126,821 total views
+- @mihailtd (Mihai Farcas): 2 workflows, 117,896 total views
+- @lowcodingdev (Mark Shcherbakov): 6 workflows, 96,818 total views
+- @roninimous (Roninimous): 1 workflows, 82,466 total views
+- @max-n8n (Max Tkacz): 2 workflows, 82,171 total views
+- @yulia (Yulia): 3 workflows, 80,253 total views
+- @eduard (Eduard): 3 workflows, 76,614 total views
+- @infranodus (InfraNodus): 9 workflows, 61,668 total views
+- @thomasgpt (NovaNode): 3 workflows, 58,529 total views
+- @lucaspeyrin (Lucas Peyrin): 3 workflows, 50,542 total views
+- @lemolex (Matt F.): 1 workflows, 43,454 total views
+- @djangelic (Angel Menendez): 6 workflows, 39,706 total views
+- @drfiras (Dr. Firas): 3 workflows, 37,038 total views
+- @thomasjanssen-tech (Thomas Janssen): 2 workflows, 29,841 total views
+- @maxmitcham (Max Mitcham): 1 workflows, 29,066 total views
+- @victorlucky (Victor Gold): 2 workflows, 28,868 total views
+- @koresoluciones (Luciano Gutierrez): 2 workflows, 23,640 total views
+- @nskha (Nskha): 1 workflows, 23,047 total views
+- @niranjan (Niranjan G): 1 workflows, 20,908 total views
+- @onurpolat05 (Onur): 1 workflows, 17,439 total views
+- @workfloows (Oskar): 1 workflows, 17,385 total views
+- @octionic (Mario): 2 workflows, 16,066 total views
+- @tharwatelsayed (Tharwat Mohamed): 4 workflows, 15,846 total views
+- @seanlon (Sean Lon): 1 workflows, 12,453 total views
+- @amanda (Amanda Benks): 6 workflows, 12,176 total views
+- @billy (Billy Christi): 2 workflows, 12,148 total views
+- @shivam840708 (Kumar Shivam): 1 workflows, 11,094 total views
+- @dataki (Dataki): 1 workflows, 10,875 total views
+- @kingsley (Ezema Kingsley Chibuzo): 1 workflows, 10,022 total views
+- @brunodias (Bruno Dias): 3 workflows, 9,715 total views
+- @harshil1712 (Harshil Agrawal): 3 workflows, 9,619 total views
+- @samirsaci (Samir Saci): 2 workflows, 9,083 total views
+- @yang (Yang): 1 workflows, 8,964 total views
+- @deborah (Deborah): 1 workflows, 8,850 total views
+- @imperolq (Zacharia Kimotho): 1 workflows, 8,663 total views
+- @darrelltw (darrell_tw): 1 workflows, 8,382 total views
+- @tanay1337 (tanaypant): 2 workflows, 8,368 total views
+- @fefehun (Ferenc Erb): 2 workflows, 7,774 total views
+- @bbz (Babish Shrestha): 1 workflows, 7,648 total views
+- @bwiertz (Bela): 1 workflows, 7,097 total views
+- @gegenfeld (Gegenfeld): 7 workflows, 6,901 total views
+- @marconi (Automate With Marc): 3 workflows, 6,198 total views
+- @b4dr (Badr): 1 workflows, 6,196 total views
+- @nik8n (Niklas Hatje): 2 workflows, 5,599 total views
+- @linlinmhee (lin@davoy.tech): 1 workflows, 5,048 total views
+- @spectrabit (Immanuel): 2 workflows, 4,821 total views
+- @denisholc7 (Denis): 1 workflows, 4,768 total views
+- @mutasem (Mutasem): 1 workflows, 4,381 total views
+- @freddy-schuetz (Friedemann Schuetz): 1 workflows, 4,334 total views
+- @dae221 (David Olusola): 9 workflows, 4,176 total views
+- @dnolde (Daniel Nolde): 1 workflows, 4,120 total views
+- @aitoralonso (Aitor | 1Node): 2 workflows, 3,996 total views
+- @ghufran-ridhawi (Ghufran Ridhawi): 2 workflows, 3,952 total views
+- @lukaszpp (Łukasz): 2 workflows, 3,554 total views
+- @boanse (Andrew): 4 workflows, 3,144 total views
+- @ludwig (Ludwig): 1 workflows, 3,025 total views
+- @oneclick-ai (Oneclick AI Squad): 18 workflows, 2,933 total views
+- @redone (RedOne): 2 workflows, 2,775 total views
+- @chatpaylabs (ChatPayLabs): 6 workflows, 2,704 total views
+- @sm-amudhan (amudhan): 3 workflows, 2,663 total views
+- @hoangsp (HoangSP): 1 workflows, 2,637 total views
+- @Pollup (PollupAI): 5 workflows, 2,512 total views
+- @ilsemaj (James Li): 1 workflows, 2,452 total views
+- @nguyenthieutoan (Nguyễn Thiệu Toàn (Jay Nguyen)): 5 workflows, 2,437 total views
+- @tennox (Manu): 1 workflows, 2,402 total views
+- @boriwatopal (Boriwat Chanruang): 1 workflows, 2,363 total views
+- @jahcoozi (Diana Zeiger): 2 workflows, 2,336 total views
+- @pinecone (Pinecone): 2 workflows, 2,179 total views
+- @jan (Jan Oberhauser): 1 workflows, 2,045 total views
+- @vasarmilan (Milan Vasarhelyi - SmoothWork): 3 workflows, 1,992 total views
+- @weblineindia (WeblineIndia): 15 workflows, 1,877 total views
+- @jon-n8n (Jonathan): 2 workflows, 1,834 total views
+- @arre (ARRE): 1 workflows, 1,823 total views
+- @agentstudio (Agent Studio): 2 workflows, 1,807 total views
+- @dbt (DIGITAL BIZ TECH): 3 workflows, 1,748 total views
+- @cngaspar (Cyril Nicko Gaspar): 1 workflows, 1,649 total views
+- @devcodejourney (DevCode Journey): 2 workflows, 1,464 total views
+- @ian-dikhtiar (Ian Dikhtiar): 1 workflows, 1,440 total views
+- @easy8 (Easy8): 2 workflows, 1,362 total views
+- @henry (Henry): 2 workflows, 1,305 total views
+- @theomarcadet (Theo Marcadet): 3 workflows, 1,291 total views
+- @growthai (Growth AI): 2 workflows, 1,246 total views
+- @sirhexalot (Sirhexalot): 3 workflows, 1,209 total views
+- @zc277584121 (Cheney Zhang): 1 workflows, 1,186 total views
+- @akhilv7 (Akhil Varma Gadiraju): 1 workflows, 1,123 total views
+- @samyassine (Sam Yassine): 1 workflows, 1,100 total views
+- @tamerelzein (Tamer): 2 workflows, 972 total views
+- @ruthwik (Ruthwik): 3 workflows, 934 total views
+- @infyom (InfyOm Technologies): 2 workflows, 867 total views
+- @arunava (Arunava): 1 workflows, 837 total views
+- @alejandro-silva (John Alejandro SIlva): 2 workflows, 795 total views
+- @aoepeople (AOE Agent Lab): 1 workflows, 778 total views
+- @stardawnai (JPres): 1 workflows, 764 total views
+- @adbertram (Adam Bertram): 1 workflows, 748 total views
+- @bhuvanesh (Bhuvanesh R): 1 workflows, 741 total views
+- @osamagoda (osama goda): 1 workflows, 733 total views
+- @jez (Jez): 1 workflows, 617 total views
+- @thiagovazzoler (Thiago Vazzoler Loureiro): 4 workflows, 613 total views
+- @spagreen (SpaGreen Creative): 4 workflows, 608 total views
+- @abdulmir (Abdul Mir): 3 workflows, 550 total views
+- @jadai-ai-automation (Jadai kongolo): 1 workflows, 541 total views
+- @yaron-nofluff (Yaron Been): 2 workflows, 526 total views
+- @arlindeveloper (Arlin Perez): 1 workflows, 513 total views
+- @lukaszb (LukaszB): 2 workflows, 502 total views
+- @iamvaar (iamvaar): 5 workflows, 463 total views
+- @cfomodz (David Ashby): 4 workflows, 423 total views
+- @aashitsharma (Aashit Sharma): 1 workflows, 392 total views
+- @alexhuy (Alex Huy): 1 workflows, 376 total views
+- @sandy4v (Sandeep Patharkar | www.FastTrackAiMastery.com): 2 workflows, 323 total views
+- @melhem (Mira Melhem): 1 workflows, 300 total views
+- @rawsun007 (Roshan Ramani): 3 workflows, 296 total views
+- @solidoai (Solido AI): 2 workflows, 269 total views
+- @alexg (Alex Gurinovich): 1 workflows, 243 total views
+- @yassinzehar (Yassin Zehar): 3 workflows, 217 total views
+- @trungtran (Trung Tran): 3 workflows, 189 total views
+- @diagopl (Paul): 3 workflows, 176 total views
+- @mattyreed1 (Matty Reed): 1 workflows, 173 total views
+- @rahul08 (Rahul Joshi): 16 workflows, 137 total views
+- @malikx (Malik Hashir): 1 workflows, 127 total views
+- @rapiwa (Rapiwa): 3 workflows, 115 total views
+- @manavdesai17 (Manav Desai): 1 workflows, 104 total views
+- @anasn-farooq (Muhammad Anas Farooq): 1 workflows, 97 total views
+- @leeweihernandez07 (LeeWei): 1 workflows, 80 total views
+- @zain104 (Zain Ali): 1 workflows, 79 total views
+- @louisdl (Louis): 1 workflows, 77 total views
+- @khmuhtadin (Khairul Muhtadin): 1 workflows, 74 total views
+- @cooper (Cooper): 2 workflows, 59 total views
+- @baptistefort (Baptiste Fort): 1 workflows, 55 total views
+- @mookielian (Meelioo): 3 workflows, 45 total views
+- @marth (Marth - Business Automation): 5 workflows, 44 total views
+- @jay-emp0 (Jay Emp0): 1 workflows, 42 total views
+- @cschin (Cheng Siong Chin): 5 workflows, 40 total views
+- @ayissf (Ayis Saliaris Fasseas): 1 workflows, 37 total views
+- @jamesdinakar (Dinakar Selvakumar): 1 workflows, 31 total views
+- @zain (Zain Khan): 4 workflows, 31 total views
+- @monetizia (Hugo Le Poole): 2 workflows, 29 total views
+- @paperjam (James Francis): 1 workflows, 25 total views
+- @pk-consulting-ai (Paul Karrmann): 1 workflows, 24 total views
+- @ertay (Ertay Kaya): 4 workflows, 17 total views
+- @paoloronco (Paolo Ronco): 1 workflows, 15 total views
+- @liammcgarrigle (Liam McGarrigle): 1 workflows, 15 total views
+- @matthew-synteria (Matthew): 1 workflows, 15 total views
+- @intuz (Intuz ): 1 workflows, 13 total views
+- @markerio (Marker.io): 3 workflows, 13 total views
+- @mohan (Mohan Gopal): 2 workflows, 6 total views
+- @yusuke-yamamoto (Yusuke Yamamoto): 1 workflows, 6 total views
+- @teomastro (Theodoros Mastromanolis): 1 workflows, 5 total views
+- @arais415 (Abdullah Al Shishani): 1 workflows, 5 total views
+- @n8nstein (Naveen Choudhary): 1 workflows, 5 total views
+- @ahmedsaadawi (Ahmed Saadawi): 1 workflows, 4 total views
+- @lucaswalter (Lucas Walter): 1 workflows, 4 total views
+- @ciap (Club de Inteligencia Artificial Politécnico CIAP): 2 workflows, 4 total views
+- @jamot (Jamot): 1 workflows, 3 total views
+- @zapix (Beex): 1 workflows, 3 total views
+- @hellopaul (Paul Abraham): 1 workflows, 3 total views
+- @duv (Guillaume Duvernay): 1 workflows, 3 total views
+- @jiteshdugar (Jitesh Dugar): 7 workflows, 3 total views
+- @tuguidragos (Țugui Dragoș): 1 workflows, 2 total views
+- @saleshandy (Dhruv from Saleshandy): 1 workflows, 2 total views
+- @divyanshugupta (Divyanshu Gupta): 1 workflows, 2 total views
+- @reklaim (Stephan Koning): 1 workflows, 2 total views
+- @ali01 (Muhammad Ali): 2 workflows, 1 total views
+- @isawow (isaWOW): 3 workflows, 1 total views
+- @okp29 (Oka Hironobu): 2 workflows, 1 total views
+- @mychel-garzon (Mychel Garzon): 1 workflows, 1 total views
+- @rnair1996 (ResilNext): 6 workflows, 1 total views
+- @vivek120819 (Vivekanand M): 2 workflows, 1 total views
+- @elvissaravia (Elvis Sarvia): 4 workflows, 1 total views
+- @suryayalavarthi (Surya Vardhan Yalavarthi): 1 workflows, 1 total views
+- @nghiaaidev (Nghia Nguyen): 1 workflows, 1 total views
+- @bhsoft (BHSoft): 1 workflows, 1 total views
+- @omerfayyaz (Omer Fayyaz): 2 workflows, 1 total views
+- @hemantharety (Hemanth Arety): 1 workflows, 1 total views
+- @databox (Databox): 1 workflows, 1 total views
+- @ailinwerner (Ailin Werner): 1 workflows, 1 total views
+- @niravgajera (Nirav Gajera): 2 workflows, 1 total views
+- @smart-camp-ai (Karol Otręba): 1 workflows, 1 total views
+- @neloy-barman (Neloy Barman): 2 workflows, 1 total views
+- @jinash (Jinash Rouniyar): 1 workflows, 1 total views
+- @d1m7asis (AI/ML API | D1m7asis): 1 workflows, 0 total views
+- @moosa (moosa): 2 workflows, 0 total views
+- @idsinghbhambra (inderjeet Bhambra): 1 workflows, 0 total views
+- @harukikuwai8098 (Haruki Kuwai): 1 workflows, 0 total views
+- @shadrack (Shadrack): 2 workflows, 0 total views
+- @uekusa (satoshi): 1 workflows, 0 total views
+- @chintan (BytezTech): 2 workflows, 0 total views
+- @zzsnowballzz (Konstantin): 1 workflows, 0 total views
+- @vinci-king-01 (vinci-king-01): 1 workflows, 0 total views
+- @integropen (Luis Hernandez): 3 workflows, 0 total views
+- @manu (Manu): 1 workflows, 0 total views
+- @websensepro (Websensepro): 1 workflows, 0 total views
+- @portio (Port IO): 2 workflows, 0 total views
+- @laki99 (Lakindu Siriwardana): 1 workflows, 0 total views
+- @salmanmehboob (Salman Mehboob): 1 workflows, 0 total views
+- @shaheer03 (Muhammad Shaheer Awan): 1 workflows, 0 total views
+- @praneel7015 (Praneel S): 1 workflows, 0 total views
+- @tristanv (Tristan V): 1 workflows, 0 total views
+- @itechnotion (Avkash Kakdiya): 5 workflows, 0 total views
+- @ddm21 (Dhruv Dalsaniya): 1 workflows, 0 total views
+- @SheCodesFlow (Shelly-Ann Davy): 1 workflows, 0 total views
+- @harshmaniya1 (Harsh Maniya): 2 workflows, 0 total views
+- @bhavyshekhaliya (Bhavy Shekhaliya): 1 workflows, 0 total views
+- @maksik (Max Savenko): 1 workflows, 0 total views
+- @iiiii (Mattis): 1 workflows, 0 total views
+- @rbreen (Robert Breen): 2 workflows, 0 total views
+- @lucashideki (Lucas Hideki): 1 workflows, 0 total views
+- @jagged (Florian Eiche): 1 workflows, 0 total views
+- @takuma (takuma): 1 workflows, 0 total views
+- @tomax (Daniel Shashko): 2 workflows, 0 total views
+- @vighsandor (Vigh Sandor): 1 workflows, 0 total views
+- @akav (Antonio Gasso): 1 workflows, 0 total views
+- @grace-bola (Grace Gbadamosi): 1 workflows, 0 total views
+- @knabinbhandari (Nabin Bhandari): 1 workflows, 0 total views
+- @gotohuman (gotoHuman): 1 workflows, 0 total views
+- @relishev (Ruslan Elishev): 1 workflows, 0 total views
+- @georgedanp (George Dan): 1 workflows, 0 total views
+- @fayzul-noor (Fayzul Noor): 1 workflows, 0 total views
+- @yuta-tokumitsu (yuta tokumitsu): 1 workflows, 0 total views
+- @isight (Optimum Office Solution): 2 workflows, 0 total views
+- @daiki-ai (Daiki Takayama): 1 workflows, 0 total views
+- @tsushimaryuto2 (對馬　瑠斗): 1 workflows, 0 total views
+- @pixcelsthemes (Pixcels Themes): 1 workflows, 0 total views
+- @fwurtz (Fabrice): 1 workflows, 0 total views
+- @anwar (Anwar Bouilouta): 1 workflows, 0 total views
+- @pippi (Masaki Go): 1 workflows, 0 total views
+- @ramdoni (Ramdoni): 1 workflows, 0 total views
+- @akshaychug (Akshay Chug): 1 workflows, 0 total views
+- @explorium (explorium): 1 workflows, 0 total views
+- @h-kawamoto (Hirokazu Kawamoto): 1 workflows, 0 total views
+- @obisdev (ObisDev): 1 workflows, 0 total views
+- @danielrosehill (Daniel Rosehill): 1 workflows, 0 total views
+- @liveblocks (Liveblocks): 2 workflows, 0 total views
+- @owen-n8nlab (OwenLee): 1 workflows, 0 total views
+- @appstonelab (AppStoneLab Technologies LLP): 2 workflows, 0 total views
+- @nicksaraev (Nick Saraev): 1 workflows, 0 total views
+- @peliqan (Peliqan): 3 workflows, 0 total views
+- @rams1005 (RamS): 1 workflows, 0 total views
+- @franck-f (franck fambou): 1 workflows, 0 total views
+- @fabiointech (FabioInTech): 1 workflows, 0 total views
+- @shivp1413 (Shiva): 1 workflows, 0 total views
+- @riandradiva (riandra): 1 workflows, 0 total views
+- @legalgpts (AI Solutions): 1 workflows, 0 total views
+- @asuka-ai (Asuka): 1 workflows, 0 total views
+- @roshragel (Rosh Ragel): 1 workflows, 0 total views
+- @fakharkhan (Fakhar Khan): 1 workflows, 0 total views
+- @basil (Basil Irfan): 1 workflows, 0 total views
+- @naoya-495 (荒城直也): 1 workflows, 0 total views
+- @dudnyk (Maxim Dudnik): 1 workflows, 0 total views
+- @ademtasin (Adem Tasin): 1 workflows, 0 total views
+- @servifylabs (Servify): 1 workflows, 0 total views
+- @muhammad-bello (Muhammad Bello): 1 workflows, 0 total views
+- @arofiqimaulana (ARofiqi Maulana): 1 workflows, 0 total views
+- @hyrum-hurst (Hyrum Hurst): 1 workflows, 0 total views
+- @vklepikovskyi (Viktor Klepikovskyi): 1 workflows, 0 total views
+- @mohammedabid (Mohammed Abid): 1 workflows, 0 total views
+- @rullysaputra15 (Rully Saputra): 1 workflows, 0 total views
+- @danielng (Daniel Ng): 1 workflows, 0 total views
+- @andersonadelino (Anderson Adelino): 1 workflows, 0 total views
+- @chrisrudy (Chris Rudy): 1 workflows, 0 total views
