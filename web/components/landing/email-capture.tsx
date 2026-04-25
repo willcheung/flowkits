@@ -59,7 +59,7 @@ export function EmailCapture() {
     <section
       id="subscribe"
       ref={ref}
-      className="relative px-6 py-24 sm:py-32"
+      className="relative bg-zinc-950 px-6 py-24 sm:py-32"
     >
       <div
         className={`mx-auto max-w-xl text-center transition-all duration-700 ${

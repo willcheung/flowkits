@@ -47,7 +47,7 @@ export function OpenSourceModel() {
   }, []);
 
   return (
-    <section ref={ref} id="model" className="relative px-6 py-24 sm:py-32">
+    <section ref={ref} id="model" className="relative bg-zinc-50 px-6 py-24 sm:py-32">
       <div
         className={`mx-auto max-w-6xl transition-all duration-700 ${
           visible ? "translate-y-0 opacity-100" : "translate-y-6 opacity-0"
@@ -55,7 +55,7 @@ export function OpenSourceModel() {
       >
         {/* Section header */}
         <div className="mb-16 text-center">
-          <h2 className="text-2xl font-bold tracking-tight text-zinc-200 sm:text-3xl">
+          <h2 className="text-2xl font-bold tracking-tight text-zinc-900 sm:text-3xl">
             Code is free. Monitoring is the product.
           </h2>
           <p className="mx-auto mt-3 max-w-lg text-[14px] leading-relaxed text-zinc-500">
@@ -69,24 +69,24 @@ export function OpenSourceModel() {
           {tiers.map((tier, i) => (
             <div
               key={tier.title}
-              className="rounded-xl border border-white/[0.06] bg-white/[0.02] p-6 transition-all duration-500"
+              className="rounded-xl border border-zinc-200 bg-white p-6 shadow-sm transition-all duration-500"
               style={{ transitionDelay: `${i * 100}ms` }}
             >
               <div className="mb-4 flex items-center justify-between">
-                <div className="flex h-10 w-10 items-center justify-center rounded-lg border border-white/[0.08] bg-white/[0.03]">
-                  <tier.icon className="h-5 w-5 text-zinc-400" />
+                <div className="flex h-10 w-10 items-center justify-center rounded-lg border border-zinc-200 bg-zinc-50">
+                  <tier.icon className="h-5 w-5 text-zinc-500" />
                 </div>
                 <span
                   className={`rounded-full border px-2.5 py-0.5 text-[11px] font-medium ${
                     tier.label === "Free"
-                      ? "border-emerald-400/20 bg-emerald-400/10 text-emerald-400"
-                      : "border-white/[0.08] bg-white/[0.05] text-zinc-300"
+                      ? "border-emerald-200 bg-emerald-50 text-emerald-600"
+                      : "border-zinc-200 bg-zinc-100 text-zinc-600"
                   }`}
                 >
                   {tier.label}
                 </span>
               </div>
-              <h3 className="mb-2 text-[15px] font-semibold text-zinc-200">
+              <h3 className="mb-2 text-[15px] font-semibold text-zinc-900">
                 {tier.title}
               </h3>
               <p className="text-[13px] leading-relaxed text-zinc-500">

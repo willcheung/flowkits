@@ -46,20 +46,20 @@ function FeatureCard({
   return (
     <div
       ref={ref}
-      className={`rounded-xl border border-white/[0.06] bg-white/[0.02] p-6 transition-all duration-700 ${
+      className={`rounded-xl border border-zinc-900 bg-zinc-950 p-6 transition-all duration-700 ${
         visible
           ? "translate-y-0 opacity-100"
           : "translate-y-6 opacity-0"
       }`}
       style={{ transitionDelay: `${index * 100}ms` }}
     >
-      <div className="mb-4 flex h-10 w-10 items-center justify-center rounded-lg border border-white/[0.08] bg-white/[0.03]">
+      <div className="mb-4 flex h-10 w-10 items-center justify-center rounded-lg border border-zinc-800 bg-zinc-900">
         <feature.icon className="h-5 w-5 text-zinc-400" />
       </div>
-      <h3 className="mb-2 text-[15px] font-semibold text-zinc-200">
+      <h3 className="mb-2 text-[15px] font-semibold text-zinc-100">
         {feature.title}
       </h3>
-      <p className="text-[13px] leading-relaxed text-zinc-500">
+      <p className="text-[13px] leading-relaxed text-zinc-400">
         {feature.description}
       </p>
     </div>
@@ -68,11 +68,11 @@ function FeatureCard({
 
 export function WhyFlowKits() {
   return (
-    <section id="why" className="relative px-6 py-24 sm:py-32">
+    <section id="why" className="relative bg-white px-6 py-24 sm:py-32">
       <div className="mx-auto max-w-6xl">
         {/* Section header */}
         <div className="mb-16 text-center">
-          <h2 className="text-2xl font-bold tracking-tight text-zinc-200 sm:text-3xl">
+          <h2 className="text-2xl font-bold tracking-tight text-zinc-900 sm:text-3xl">
             Why FlowKits?
           </h2>
           <p className="mx-auto mt-3 max-w-lg text-[14px] leading-relaxed text-zinc-500">
@@ -90,50 +90,50 @@ export function WhyFlowKits() {
         </div>
 
         {/* Comparison strip */}
-        <div className="mt-16 rounded-xl border border-white/[0.06] bg-white/[0.02] p-6 sm:p-8">
+        <div className="mt-16 rounded-xl border border-zinc-200 bg-zinc-50 p-6 sm:p-8">
           <div className="grid gap-6 sm:grid-cols-2">
             <div>
-              <h3 className="mb-3 text-[13px] font-semibold uppercase tracking-wider text-zinc-600">
+              <h3 className="mb-3 text-[13px] font-semibold uppercase tracking-wider text-zinc-400">
                 Building it yourself / low-code
               </h3>
               <ul className="space-y-2.5 text-[13px] text-zinc-500">
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-red-400/70">✕</span>
+                  <span className="mt-0.5 text-red-400">&#x2715;</span>
                   A weekend of API wiring and prompt tuning
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-red-400/70">✕</span>
+                  <span className="mt-0.5 text-red-400">&#x2715;</span>
                   No error handling until it breaks in production
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-red-400/70">✕</span>
+                  <span className="mt-0.5 text-red-400">&#x2715;</span>
                   Hard to version control or review
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-red-400/70">✕</span>
+                  <span className="mt-0.5 text-red-400">&#x2715;</span>
                   Locked into a platform you have to self-host
                 </li>
               </ul>
             </div>
             <div>
-              <h3 className="mb-3 text-[13px] font-semibold uppercase tracking-wider text-zinc-600">
+              <h3 className="mb-3 text-[13px] font-semibold uppercase tracking-wider text-zinc-400">
                 FlowKits
               </h3>
-              <ul className="space-y-2.5 text-[13px] text-zinc-400">
+              <ul className="space-y-2.5 text-[13px] text-zinc-600">
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-emerald-400">✓</span>
+                  <span className="mt-0.5 text-emerald-500">&#x2713;</span>
                   Download and run in minutes
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-emerald-400">✓</span>
+                  <span className="mt-0.5 text-emerald-500">&#x2713;</span>
                   Retry logic and graceful degradation included
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-emerald-400">✓</span>
+                  <span className="mt-0.5 text-emerald-500">&#x2713;</span>
                   Clean Python in git, reviewable in PRs
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="mt-0.5 text-emerald-400">✓</span>
+                  <span className="mt-0.5 text-emerald-500">&#x2713;</span>
                   AI agents run, monitor, and fix them autonomously
                 </li>
               </ul>

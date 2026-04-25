@@ -9,7 +9,7 @@ const workflows = [
     name: "Gmail AI Labeler",
     category: "Personal Productivity",
     price: "Free",
-    priceColor: "text-emerald-400 bg-emerald-400/10 border-emerald-400/20",
+    priceColor: "text-emerald-600 bg-emerald-50 border-emerald-200",
     description:
       "AI reads your inbox and labels emails automatically. Learns your categories, creates new ones when needed. Runs every 5 minutes.",
     tech: "Gmail API + GPT-4o-mini",
@@ -20,7 +20,7 @@ const workflows = [
     name: "Pre-Meeting Briefing",
     category: "Sales",
     price: "$15",
-    priceColor: "text-zinc-300 bg-white/[0.05] border-white/[0.08]",
+    priceColor: "text-zinc-600 bg-zinc-100 border-zinc-200",
     description:
       "Scans your calendar, fetches company news, and emails you talking points before every meeting. Never walk in cold again.",
     tech: "Google Calendar + NewsAPI + GPT-4o-mini",
@@ -31,7 +31,7 @@ const workflows = [
     name: "Sheets Email Campaign",
     category: "Marketing",
     price: "$19",
-    priceColor: "text-zinc-300 bg-white/[0.05] border-white/[0.08]",
+    priceColor: "text-zinc-600 bg-zinc-100 border-zinc-200",
     description:
       "AI-personalized outbound email from a Google Sheet. Auto follow-up for non-responders. Rate limiting and weekend skip built in.",
     tech: "Google Sheets + GPT-4o-mini + SMTP",
@@ -67,15 +67,15 @@ function WorkflowCard({
   return (
     <div
       ref={ref}
-      className={`group rounded-xl border border-white/[0.06] bg-white/[0.02] p-6 transition-all duration-700 hover:border-white/[0.12] ${
+      className={`group rounded-xl border border-zinc-200 bg-white p-6 shadow-sm transition-all duration-700 hover:border-zinc-300 hover:shadow-md ${
         visible ? "translate-y-0 opacity-100" : "translate-y-6 opacity-0"
       }`}
       style={{ transitionDelay: `${index * 120}ms` }}
     >
       {/* Header */}
       <div className="mb-4 flex items-start justify-between">
-        <div className="flex h-10 w-10 items-center justify-center rounded-lg border border-white/[0.08] bg-white/[0.03]">
-          <workflow.icon className="h-5 w-5 text-zinc-400" />
+        <div className="flex h-10 w-10 items-center justify-center rounded-lg border border-zinc-200 bg-zinc-50">
+          <workflow.icon className="h-5 w-5 text-zinc-500" />
         </div>
         <span
           className={`rounded-full border px-2.5 py-0.5 text-[11px] font-medium ${workflow.priceColor}`}
@@ -85,10 +85,10 @@ function WorkflowCard({
       </div>
 
       {/* Content */}
-      <h3 className="mb-1 text-[15px] font-semibold text-zinc-200">
+      <h3 className="mb-1 text-[15px] font-semibold text-zinc-900">
         {workflow.name}
       </h3>
-      <p className="mb-3 text-[11px] font-medium uppercase tracking-wider text-zinc-600">
+      <p className="mb-3 text-[11px] font-medium uppercase tracking-wider text-zinc-400">
         {workflow.category}
       </p>
       <p className="mb-4 text-[13px] leading-relaxed text-zinc-500">
@@ -96,14 +96,14 @@ function WorkflowCard({
       </p>
 
       {/* Workflow visualization placeholder */}
-      <div className="mb-4 flex h-32 items-center justify-center rounded-lg border border-dashed border-white/[0.06] bg-white/[0.01]">
-        <p className="text-[11px] text-zinc-700">Workflow visualization</p>
+      <div className="mb-4 flex h-32 items-center justify-center rounded-lg border border-dashed border-zinc-200 bg-zinc-50">
+        <p className="text-[11px] text-zinc-400">Workflow visualization</p>
       </div>
 
       {/* Footer */}
       <div className="flex items-center justify-between">
-        <p className="text-[11px] text-zinc-600">{workflow.tech}</p>
-        <p className="text-[10px] text-zinc-700">{workflow.n8nBasis}</p>
+        <p className="text-[11px] text-zinc-400">{workflow.tech}</p>
+        <p className="text-[10px] text-zinc-400">{workflow.n8nBasis}</p>
       </div>
     </div>
   );
@@ -111,11 +111,11 @@ function WorkflowCard({
 
 export function WorkflowShowcase() {
   return (
-    <section id="workflows" className="relative px-6 py-24 sm:py-32">
+    <section id="workflows" className="relative bg-zinc-50 px-6 py-24 sm:py-32">
       <div className="mx-auto max-w-6xl">
         {/* Section header */}
         <div className="mb-16 text-center">
-          <h2 className="text-2xl font-bold tracking-tight text-zinc-200 sm:text-3xl">
+          <h2 className="text-2xl font-bold tracking-tight text-zinc-900 sm:text-3xl">
             Workflows that actually run
           </h2>
           <p className="mx-auto mt-3 max-w-lg text-[14px] leading-relaxed text-zinc-500">
@@ -133,7 +133,7 @@ export function WorkflowShowcase() {
 
         {/* More coming */}
         <div className="mt-8 text-center">
-          <p className="inline-flex items-center gap-1.5 text-[13px] text-zinc-600">
+          <p className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400">
             7 more workflows in development
             <ArrowRight className="h-3.5 w-3.5" />
           </p>
